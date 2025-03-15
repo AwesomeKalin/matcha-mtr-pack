@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "localPackName": "SyncedPack",
+    "disableBuiltinSources": true,
+    "sources": [
+        {
+            "name": "GitHub Pages",
+            "baseUrl": "https://awesomekalin.github.io/matcha-mtr-pack",
+            "hasDirHash": true,
+            "hasArchive": false
+        }
+    ]
+}
