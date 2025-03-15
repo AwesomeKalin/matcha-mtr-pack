@@ -8,6 +8,36 @@
                 "blame": [
                     "raw"
                 ]
+            },
+            "assets": {
+                "blame": [
+                    "awesomekalin55"
+                ]
+            },
+            "assets/mtr": {
+                "blame": [
+                    "awesomekalin55"
+                ]
+            },
+            "assets/mtr/class508": {
+                "blame": [
+                    "awesomekalin55"
+                ]
+            },
+            "assets/mtr/sounds": {
+                "blame": [
+                    "awesomekalin55"
+                ]
+            },
+            "assets/mtr/sounds/class507": {
+                "blame": [
+                    "awesomekalin55"
+                ]
+            },
+            "assets/mtr/sounds/class508": {
+                "blame": [
+                    "awesomekalin55"
+                ]
             }
         },
         "files": {
@@ -16,6 +46,420 @@
                 "sha1": "2f999f13f5d07eaca1507682881348b9fb45ab49",
                 "size": 142,
                 "blame": "raw"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1707673425,
+                "sha1": "ee086940168032592e946205d3a749a21d547995",
+                "size": 10999,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1702246065,
+                "sha1": "0d4943d01804b9bd5f5b7fcd02ed2ed0d9fae499",
+                "size": 6174,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/508_connector_exterior.png": {
+                "mtime": 1663279080,
+                "sha1": "a3bebe716fbfef8a68015842bf997ba33e171052",
+                "size": 1542,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/508_connector_floor.png": {
+                "mtime": 1663282680,
+                "sha1": "3de2403debeb699c37f87b78d487d6c80d5daa46",
+                "size": 7516,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/508_connector_roof.png": {
+                "mtime": 1663775428,
+                "sha1": "61efa5c3c5cc4d903d3719cca65c54851f04baf2",
+                "size": 4646,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/508_connector_side.png": {
+                "mtime": 1666802032,
+                "sha1": "c6acf19385679000c160d1544bad20089589b1eb",
+                "size": 1741,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507001.png": {
+                "mtime": 1707670260,
+                "sha1": "7b18f3e76fe97594f7ddfaf0c154eaf5a6f0f7ca",
+                "size": 944476,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507001_doorcam.png": {
+                "mtime": 1707670254,
+                "sha1": "471f3bea52f7d8f6e64d8ce737acc8fbf767c6dd",
+                "size": 945471,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507003.json": {
+                "mtime": 1705440410,
+                "sha1": "7e400599e5ac1b9b8a86cc1dbd105df5eaa12b7b",
+                "size": 33836,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507003.png": {
+                "mtime": 1707670338,
+                "sha1": "6d5ad65a2ade55bc6a5b3a51dbe7c89544a372b6",
+                "size": 989604,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507003_mw.json": {
+                "mtime": 1707673688,
+                "sha1": "067c40225438118270d2f53af637ac54906768f9",
+                "size": 35096,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507004.png": {
+                "mtime": 1707670270,
+                "sha1": "2c0b38cc0c3907880f39859506aec3acf92e7886",
+                "size": 958774,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507017.png": {
+                "mtime": 1707670272,
+                "sha1": "d98caca481bc8598091443629922971920775113",
+                "size": 958573,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/507029.png": {
+                "mtime": 1707670276,
+                "sha1": "ea706370ef3affe0882b6c31cd8d592410d1d43b",
+                "size": 958367,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/508110.png": {
+                "mtime": 1707670280,
+                "sha1": "81958ebbe69425a84e1f8c190e98d1e082404ca8",
+                "size": 948042,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class507.png": {
+                "mtime": 1707670290,
+                "sha1": "7bb5dba385eb9d5a0941505639d3432b942036b2",
+                "size": 958196,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class507o.png": {
+                "mtime": 1707670294,
+                "sha1": "5c51f766bf628ca7229ae3105defdf919214cd9b",
+                "size": 943188,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class508.bbmodel": {
+                "mtime": 1707670182,
+                "sha1": "d6eceefd22ffbae1bb491571a26d944da50aebe2",
+                "size": 10304956,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class508.json": {
+                "mtime": 1705440386,
+                "sha1": "c797cde1b53628325fd00ebb4022dd0e8b46dd7a",
+                "size": 33839,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class508.png": {
+                "mtime": 1707670352,
+                "sha1": "0cad66a84238cc6876f0fd0aa83354a7e38cb862",
+                "size": 963410,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class508_multiwork.bbmodel": {
+                "mtime": 1707670210,
+                "sha1": "a28716e204711f77bafa8d8ef06b031f732d7753",
+                "size": 2304218,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/class508o.png": {
+                "mtime": 1707670300,
+                "sha1": "a7f785f657b7baf103c53ec90d779d8d442332110",
+                "size": 949526,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/class508/multiwork.json": {
+                "mtime": 1707673674,
+                "sha1": "72af1e39f3c1d8189cf194e9df922be18f539247",
+                "size": 35102,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/airhigh.ogg": {
+                "mtime": 1670085952,
+                "sha1": "511f367f247fb6d76f8cbf791e864b5dd29a8ad0",
+                "size": 60591,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/airzero.ogg": {
+                "mtime": 1670085942,
+                "sha1": "5aec240899c4e41a43fc8637303a9af349db76a4",
+                "size": 60591,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/brakefreq.csv": {
+                "mtime": 1673821866,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/brakevol.csv": {
+                "mtime": 1673821854,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/cp.ogg": {
+                "mtime": 1702245874,
+                "sha1": "7273955e099e5bfe2d897ef59822d782546a3d2b",
+                "size": 16711,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/cpoff.ogg": {
+                "mtime": 1702245896,
+                "sha1": "1bbc9ea1edd83853ad85e853be5ba3b5219fc144",
+                "size": 102301,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/cpon.ogg": {
+                "mtime": 1702245900,
+                "sha1": "c833ce471307a4dfbc71a07065b6688e5701dd8f",
+                "size": 127623,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/door_close.ogg": {
+                "mtime": 1676153602,
+                "sha1": "3bb90988c8e41113bc062ba271cf6a26385ac64b",
+                "size": 35517,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/door_open.ogg": {
+                "mtime": 1663282680,
+                "sha1": "77786b196509f31bd3325010dcc66276b8b75a2d",
+                "size": 38511,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/flange.ogg": {
+                "mtime": 1674066040,
+                "sha1": "49825ab34d5e0c14988ccdaa26fa417bd70d4047",
+                "size": 266159,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/loop.ogg": {
+                "mtime": 1673823260,
+                "sha1": "0d65c936dc2227a790f4590cc0f913b5b996e780",
+                "size": 375841,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor0.ogg": {
+                "mtime": 1673821850,
+                "sha1": "05e82e934fa3e6a725d6ff91841cf0704f755444",
+                "size": 15077,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor1.ogg": {
+                "mtime": 1673821860,
+                "sha1": "12443581fece648c2bc38858c75ba3e151647391",
+                "size": 38935,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor2.ogg": {
+                "mtime": 1676157382,
+                "sha1": "af038e5baf334f59c7d689721e82d927a96a87c1",
+                "size": 55791,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor3.ogg": {
+                "mtime": 1673821862,
+                "sha1": "0547037174d43bb3323575fcbc7c5fd1c8febc58",
+                "size": 11352,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor4.ogg": {
+                "mtime": 1673821856,
+                "sha1": "777f1b6ffac079d6ede58915f6e1db742a44b1d1",
+                "size": 17121,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/motor5.ogg": {
+                "mtime": 1673821864,
+                "sha1": "d8b83906f5089640f5918f34793d0cad5e7ed55d",
+                "size": 132063,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/point.ogg": {
+                "mtime": 1673899672,
+                "sha1": "ee49535efcfb428ebd52a7cb007d6befdf91dfe8",
+                "size": 18742,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/powerfreq.csv": {
+                "mtime": 1675287734,
+                "sha1": "5714bc840a6d98b096742cabe4e0bd0ef6f3644c",
+                "size": 244,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/powervol.csv": {
+                "mtime": 1673821852,
+                "sha1": "c4aca1b50fb88f30101b02bf1eae87876d65e2b5",
+                "size": 305,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/rub.ogg": {
+                "mtime": 1673820542,
+                "sha1": "58f92fb6e217ac948be860e386defd2c753e2acb",
+                "size": 61151,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/run.ogg": {
+                "mtime": 1673823434,
+                "sha1": "0fcbdce21606b56f8af1208fa5693a1bcd913eee",
+                "size": 548528,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class508/sound.cfg": {
+                "mtime": 1702679192,
+                "sha1": "06244d4c2855c309f17031ca3f8edd77bb8f909a",
+                "size": 1100,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/airhigh.ogg": {
+                "mtime": 1670085952,
+                "sha1": "511f367f247fb6d76f8cbf791e864b5dd29a8ad0",
+                "size": 60591,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/airzero.ogg": {
+                "mtime": 1670085942,
+                "sha1": "5aec240899c4e41a43fc8637303a9af349db76a4",
+                "size": 60591,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/brakefreq.csv": {
+                "mtime": 1673821866,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/brakevol.csv": {
+                "mtime": 1673821854,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/cp.ogg": {
+                "mtime": 1702245878,
+                "sha1": "34612abdfc56a39ed085d4b57c28dc796af1a342",
+                "size": 5096,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/cpoff.ogg": {
+                "mtime": 1702245876,
+                "sha1": "2085ac895bb1151fe2d4c32ccb279d5c542b6f45",
+                "size": 14004,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/cpon.ogg": {
+                "mtime": 1702245876,
+                "sha1": "9e3fcaed3590793b57e032d984097135126a86f0",
+                "size": 13689,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/door_close.ogg": {
+                "mtime": 1676153602,
+                "sha1": "3bb90988c8e41113bc062ba271cf6a26385ac64b",
+                "size": 35517,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/door_open.ogg": {
+                "mtime": 1663282680,
+                "sha1": "77786b196509f31bd3325010dcc66276b8b75a2d",
+                "size": 38511,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/flange.ogg": {
+                "mtime": 1674066040,
+                "sha1": "49825ab34d5e0c14988ccdaa26fa417bd70d4047",
+                "size": 266159,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/loop.ogg": {
+                "mtime": 1673823260,
+                "sha1": "0d65c936dc2227a790f4590cc0f913b5b996e780",
+                "size": 375841,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor0.ogg": {
+                "mtime": 1673821850,
+                "sha1": "05e82e934fa3e6a725d6ff91841cf0704f755444",
+                "size": 15077,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor1.ogg": {
+                "mtime": 1673821860,
+                "sha1": "12443581fece648c2bc38858c75ba3e151647391",
+                "size": 38935,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor2.ogg": {
+                "mtime": 1676157382,
+                "sha1": "af038e5baf334f59c7d689721e82d927a96a87c1",
+                "size": 55791,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor3.ogg": {
+                "mtime": 1673821862,
+                "sha1": "0547037174d43bb3323575fcbc7c5fd1c8febc58",
+                "size": 11352,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor4.ogg": {
+                "mtime": 1673821856,
+                "sha1": "777f1b6ffac079d6ede58915f6e1db742a44b1d1",
+                "size": 17121,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/motor5.ogg": {
+                "mtime": 1673821864,
+                "sha1": "d8b83906f5089640f5918f34793d0cad5e7ed55d",
+                "size": 132063,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/point.ogg": {
+                "mtime": 1673899672,
+                "sha1": "ee49535efcfb428ebd52a7cb007d6befdf91dfe8",
+                "size": 18742,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/powerfreq.csv": {
+                "mtime": 1675287734,
+                "sha1": "5714bc840a6d98b096742cabe4e0bd0ef6f3644c",
+                "size": 244,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/powervol.csv": {
+                "mtime": 1673821852,
+                "sha1": "c4aca1b50fb88f30101b02bf1eae87876d65e2b5",
+                "size": 305,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/rub.ogg": {
+                "mtime": 1673820542,
+                "sha1": "58f92fb6e217ac948be860e386defd2c753e2acb",
+                "size": 61151,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/run.ogg": {
+                "mtime": 1673823434,
+                "sha1": "0fcbdce21606b56f8af1208fa5693a1bcd913eee",
+                "size": 548528,
+                "blame": "awesomekalin55"
+            },
+            "assets/mtr/sounds/class507/sound.cfg": {
+                "mtime": 1702679192,
+                "sha1": "06244d4c2855c309f17031ca3f8edd77bb8f909a",
+                "size": 1100,
+                "blame": "awesomekalin55"
             }
         }
     },
