@@ -325,6 +325,19 @@
 			"bve_sound_base_id": "nir4k",
 			"model": "mtr:class_710_overground/class_720_greater_anglia_desiro_cities.bbmodel",
 			"model_properties": "mtr:class_710_overground/nir3k.json"
+		},
+		"class_700_thameslink": {
+			"name": "British Rail Class 700M (Thameslink)",
+			"wikipedia_article": "British_Rail_Class_700",
+			"color": "CCCCCC",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"door_animation_type": "R211",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_700_thameslink/class_700_thameslink",
+			"model": "mtr:class_700_thameslink/class_700_thameslink.bbmodel",
+			"model_properties": "mtr:class_700_thameslink/class_700_thameslink.json",
+			"bve_sound_base_id": "desiro_city"
 		}
 	}
 }

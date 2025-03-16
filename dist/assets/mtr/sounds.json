@@ -530,5 +530,165 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "desiro_city_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:desiro_city/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:desiro_city/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_flange0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/flange0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_loop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:desiro_city/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:microelectric/motor",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:microelectric/motor",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:desiro_city/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_point": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_city_run7": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/run7",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
