@@ -690,5 +690,205 @@
                 "attenuation_distance": 32
             }
         ]
-    }
+    },
+    "aventa_air": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/air",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/airzero",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_cpend": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/cpend",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_cploop": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/cploop",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_cpstart": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/cpstart",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/doorcls",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/dooropn",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/flange0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_loop": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/loop",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/motor7",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_point": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/point",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run0": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run1": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run2": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run3": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run4": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run4",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run5": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run6": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"aventa_run7": {
+		"sounds": [
+			{
+				"name": "mtr:aventa/run7",
+				"attenuation_distance": 32
+			}
+		]
+	}
 }

@@ -7,19 +7,20 @@
             "": {
                 "blame": [
                     "awesomekalin55",
+                    "chaodee0724",
                     "raw"
                 ]
             },
             "assets": {
                 "blame": [
-                    "chaodee0724",
-                    "awesomekalin55"
+                    "awesomekalin55",
+                    "chaodee0724"
                 ]
             },
             "assets/mtr": {
                 "blame": [
-                    "chaodee0724",
-                    "awesomekalin55"
+                    "awesomekalin55",
+                    "chaodee0724"
                 ]
             },
             "assets/mtr/class508": {
@@ -29,7 +30,8 @@
             },
             "assets/mtr/sounds": {
                 "blame": [
-                    "awesomekalin55"
+                    "awesomekalin55",
+                    "chaodee0724"
                 ]
             },
             "assets/mtr/sounds/class507": {
@@ -76,6 +78,11 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/sounds/aventa": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -86,15 +93,15 @@
                 "blame": "raw"
             },
             "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1742141340,
-                "sha1": "3a1b0f9d87552c4d4915e831b291572f478ed04b",
-                "size": 13484,
+                "mtime": 1742142365,
+                "sha1": "94c64488686da982eb51c2404202d44f738bdabc",
+                "size": 15466,
                 "blame": "chaodee0724"
             },
             "assets/mtr/sounds.json": {
-                "mtime": 1742141366,
-                "sha1": "f3790876d334558fb6220cbff69e88f43f9a1b90",
-                "size": 15678,
+                "mtime": 1742142394,
+                "sha1": "3b36afc511b7edbd4bbf0076511b32ed61d6fe74",
+                "size": 18545,
                 "blame": "chaodee0724"
             },
             "assets/mtr/class508/508_connector_exterior.png": {
@@ -845,6 +852,204 @@
                 "mtime": 1719505572,
                 "sha1": "9893903ea76bd9ea5da8bd615a9ce177ab91a497",
                 "size": 992,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_710_overground.bbmodel": {
+                "mtime": 1703005085,
+                "sha1": "1e59d2cf29e8ccb4d179a202a02ef0ed3d03554a",
+                "size": 867734,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_710_overground.json": {
+                "mtime": 1703005200,
+                "sha1": "d4a5e5b933fe5a9fd5e2882ac32baf5646aebdb4",
+                "size": 11974,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_710_overground.png": {
+                "mtime": 1703005085,
+                "sha1": "2f73ce4a93b0f5a0cba87e2bf16b945fc086a36e",
+                "size": 359127,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_720_greater_anglia.bbmodel": {
+                "mtime": 1703008746,
+                "sha1": "02e6c7c14e42b6cd20881130649b0c638c38ac7e",
+                "size": 107682,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_720_greater_anglia.json": {
+                "mtime": 1703008746,
+                "sha1": "f92bd0037a55eb36d0f1410985603bb4cf57818c",
+                "size": 12028,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/class_710_overground/class_720_greater_anglia.png": {
+                "mtime": 1703008746,
+                "sha1": "ec12cdcf468006b71e0ebfbeb19fb0f5f86c3851",
+                "size": 355844,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/air.ogg": {
+                "mtime": 1682359996,
+                "sha1": "0579a5041aadfda564dcccda2a1ee936cd771a82",
+                "size": 8542,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/airzero.ogg": {
+                "mtime": 1682359996,
+                "sha1": "343e72cf80771d939bb63c45855ed2b330e179af",
+                "size": 8270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/cpend.ogg": {
+                "mtime": 1682359996,
+                "sha1": "4086ecc417235657162977cb09bb4b8d7b8ef00c",
+                "size": 85308,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/cploop.ogg": {
+                "mtime": 1682359996,
+                "sha1": "09421987a1059afdbe9c13f38b58a68c3eda4aad",
+                "size": 66847,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/cpstart.ogg": {
+                "mtime": 1682359996,
+                "sha1": "45a326094cf8da2e608b111a9fe010a827e0930f",
+                "size": 57840,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/doorcls.ogg": {
+                "mtime": 1698183573,
+                "sha1": "213458ea1f224cadc59b18a621a6e661583ce5f8",
+                "size": 16913,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/dooropn.ogg": {
+                "mtime": 1698183559,
+                "sha1": "cd9b3634ece50ecf9fffeaeda46886d3d194c87b",
+                "size": 14455,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/flange0.ogg": {
+                "mtime": 1682359996,
+                "sha1": "13c6a59f390dc1f83f2d2644b7e219aa4d7ccbc6",
+                "size": 43013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/loop.ogg": {
+                "mtime": 1698217744,
+                "sha1": "a0441550e3e268e4afe51ca4b933124fd3b3eaed",
+                "size": 93659,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor0.ogg": {
+                "mtime": 1698183371,
+                "sha1": "e860af4466acf1b614efc94fc0049e9165b425b6",
+                "size": 11692,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor1.ogg": {
+                "mtime": 1698218366,
+                "sha1": "8bcf3e7054e26fa0fd50f81c633675e8ad51329d",
+                "size": 260518,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor2.ogg": {
+                "mtime": 1698218357,
+                "sha1": "6c29e30dddff1bdffdd32c282470c26eb7a46155",
+                "size": 260518,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor3.ogg": {
+                "mtime": 1682359996,
+                "sha1": "1216cc0c7218ab8e6b718bd9f8f3feb6fe1bc12c",
+                "size": 11802,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor5.ogg": {
+                "mtime": 1682359996,
+                "sha1": "e7cb757568c4dc531b15b710e8787f9ada913192",
+                "size": 11149,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor6.ogg": {
+                "mtime": 1682359996,
+                "sha1": "cf755d687b2941dd96902ac18761fb9c25e82840",
+                "size": 15563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/motor7.ogg": {
+                "mtime": 1698183380,
+                "sha1": "0fc0e19f1fdf4627139aeac47eb68a283d3c6319",
+                "size": 11692,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/point.ogg": {
+                "mtime": 1682359996,
+                "sha1": "de7c4528d2886d2f00b370ab7f17db0484933fd7",
+                "size": 16020,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run0.ogg": {
+                "mtime": 1682359996,
+                "sha1": "7613bdbca3fe03fba182d16a7debac6ef920e78f",
+                "size": 160621,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run1.ogg": {
+                "mtime": 1682359996,
+                "sha1": "794c083f87ce62efd477385dea494c24a8e7257d",
+                "size": 110460,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run2.ogg": {
+                "mtime": 1682359996,
+                "sha1": "6b5dcaa564f321fb69073f91d99e34cb522c9a23",
+                "size": 192363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run3.ogg": {
+                "mtime": 1682359996,
+                "sha1": "ae4d3c7bd55fa0743c69d28ea90028cea13ec7bd",
+                "size": 110596,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run4.ogg": {
+                "mtime": 1682359996,
+                "sha1": "6af1a1e96997159e93973e6cdd6ce7c7cf467621",
+                "size": 190893,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run5.ogg": {
+                "mtime": 1682359996,
+                "sha1": "56990b754a51b0a0367d2968eee47fba419e0be3",
+                "size": 179895,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run6.ogg": {
+                "mtime": 1682359996,
+                "sha1": "dd62ba1f91a6eaeb514611445f15f7af5d53e4f4",
+                "size": 17552,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/run7.ogg": {
+                "mtime": 1682359996,
+                "sha1": "964dc0ad79a1451770ed24c451e80520c8849758",
+                "size": 183682,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/sound.cfg": {
+                "mtime": 1698265087,
+                "sha1": "ac0c72a9d94834fe839de6173364e998e12d03ff",
+                "size": 941,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventa/train.dat": {
+                "mtime": 1682359996,
+                "sha1": "3bf6f5821ce58fcf1968274ca897f56d410774a1",
+                "size": 29019,
                 "blame": "chaodee0724"
             }
         }

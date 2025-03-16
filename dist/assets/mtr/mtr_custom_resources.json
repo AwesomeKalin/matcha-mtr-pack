@@ -338,6 +338,36 @@
 			"model": "mtr:class_700_thameslink/class_700_thameslink.bbmodel",
 			"model_properties": "mtr:class_700_thameslink/class_700_thameslink.json",
 			"bve_sound_base_id": "desiro_city"
+		},
+		"class_710_overground": {
+			"name": "British Rail Class 710M (Overground)",
+			"description": "The British Rail Class 710 Aventra is a type of electric multiple unit passenger train built by Bombardier Transportation for use on the London Overground network. The trains are part of Bombardier's Aventra family. The contract to provide 45 four-car trains was awarded in July 2015 and the trains were originally due to enter service in May 2018, although introduction was delayed until May 2019.",
+			"wikipedia_article": "",
+			"bve_sound_base_id": "aventa",
+			"color": "E78822",
+			"gangway_connection_id": "mtr:textures/entity/k_train",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/class_710_overground",
+			"model": "mtr:class_710_overground/class_710_overground.bbmodel",
+			"model_properties": "mtr:class_710_overground/class_710_overground.json"
+		},
+		"class_720_greater_anglia": {
+			"name": "British Rail Class 720M (Greater Anglia)",
+			"description": "My Custom Train Description",
+			"wikipedia_article": "",
+			"color": "D70428",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/class_720_greater_anglia",
+			"bve_sound_base_id": "aventa",
+			"model": "mtr:class_710_overground/class_720_greater_anglia.bbmodel",
+			"model_properties": "mtr:class_710_overground/class_720_greater_anglia.json"
 		}
 	}
 }
