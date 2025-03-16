@@ -10,7 +10,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
 		},
 		"class508o": {
@@ -23,7 +23,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
 		},
 		"class507": {
@@ -36,7 +36,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507029": {
@@ -50,7 +50,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507003": {
@@ -64,7 +64,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/507003.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"class507doorcam": {
@@ -78,7 +78,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"class507o": {
@@ -91,7 +91,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507001": {
@@ -104,7 +104,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507001dc": {
@@ -117,7 +117,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"508110": {
@@ -130,7 +130,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508.bbmodel",
 			"model_properties": "mtr:class508/class508.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
 		},
 		"class508_multi": {
@@ -143,7 +143,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
 		},
 		"class508o_multi": {
@@ -156,7 +156,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
 		},
 		"class507_multi": {
@@ -169,7 +169,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507029_multi": {
@@ -183,7 +183,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507003_multi": {
@@ -197,7 +197,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/507003_mw.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"class507doorcam_multi": {
@@ -211,7 +211,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"class507o_multi": {
@@ -224,7 +224,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507001_multi": {
@@ -237,7 +237,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"507001_dc_multi": {
@@ -250,7 +250,7 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class507"
 		},
 		"508110_multi": {
@@ -263,8 +263,38 @@
 			"rider_offset": 0,
 			"model": "mtr:class508/class508_multiwork.bbmodel",
 			"model_properties": "mtr:class508/multiwork.json",
-			"door_animation_type":"R179",
+			"door_animation_type": "R179",
 			"bve_sound_base_id": "class508"
+		},
+		"8500": {
+			"name": "IE 8500 / 8510 Class",
+			"description": "",
+			"wikipedia_article": "IÉ_8500,_8510_and_8520_Classes#8500_Class",
+			"color": "18ac00",
+			"gangway_connection_id": "mtr:textures/entity/k_train",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD_SLOW",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/8500",
+			"bve_sound_base_id": "8500",
+			"model": "mtr:class_710_overground/8500.bbmodel",
+			"model_properties": "mtr:class_710_overground/8500.json"
+		},
+		"8520": {
+			"name": "IE 8520 Class",
+			"description": "",
+			"wikipedia_article": "IÉ_8500,_8510_and_8520_Classes#8500_Class",
+			"color": "18ac00",
+			"gangway_connection_id": "mtr:textures/entity/k_train",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD_SLOW",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/8520",
+			"bve_sound_base_id": "8500",
+			"model": "mtr:class_710_overground/8500.bbmodel",
+			"model_properties": "mtr:class_710_overground/8500.json"
 		}
 	}
 }
