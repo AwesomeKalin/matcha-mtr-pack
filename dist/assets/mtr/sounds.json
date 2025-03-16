@@ -418,5 +418,117 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "nir3k_run": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_loop": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir3k_motor": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/motor",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_run": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:nir4k/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:nir4k/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_loop": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "nir4k_motor": {
+        "sounds": [
+            {
+                "name": "mtr:nir3k/motor",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

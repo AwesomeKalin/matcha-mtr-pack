@@ -295,6 +295,36 @@
 			"bve_sound_base_id": "8500",
 			"model": "mtr:class_710_overground/8500.bbmodel",
 			"model_properties": "mtr:class_710_overground/8500.json"
+		},
+		"nir3k": {
+			"name": "NIR Class 3000",
+			"description": "",
+			"wikipedia_article": "NIR_Class_3000",
+			"color": "364B95",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/nir3k",
+			"bve_sound_base_id": "nir3k",
+			"model": "mtr:class_710_overground/class_720_greater_anglia_desiro_cities.bbmodel",
+			"model_properties": "mtr:class_710_overground/nir3k.json"
+		},
+		"nir4k": {
+			"name": "NIR Class 4000",
+			"description": "",
+			"wikipedia_article": "NIR_Class_4000",
+			"color": "364B95",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class_710_overground/nir4k",
+			"bve_sound_base_id": "nir4k",
+			"model": "mtr:class_710_overground/class_720_greater_anglia_desiro_cities.bbmodel",
+			"model_properties": "mtr:class_710_overground/nir3k.json"
 		}
 	}
 }
