@@ -708,7 +708,7 @@
             },
             "assets/mtr/sounds/nir3k/powerfreq.csv": {
                 "mtime": 1720355915,
-                "sha1": "c3a0ab3d691972341d4f93f9d38e12af7a11d788",
+                "sha1": "7146d2d91d703ae3f554298679fe32c6ba79b367",
                 "size": 58,
                 "blame": "chaodee0724"
             },
@@ -732,7 +732,7 @@
             },
             "assets/mtr/sounds/nir4k/brakefreq.csv": {
                 "mtime": 1720355831,
-                "sha1": "ebd886ab316fb78e2b5e2360f04d0032d63bd9d9",
+                "sha1": "d3932f17792fc3a375ea1d546fbec289c9e23193",
                 "size": 58,
                 "blame": "chaodee0724"
             },
