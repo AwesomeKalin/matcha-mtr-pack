@@ -101,7 +101,7 @@
         "files": {
             "pack.mcmeta": {
                 "mtime": 1744486075,
-                "sha1": "83b41185d0824b888b3b6c42e0fd8124a811323e",
+                "sha1": "d88b6e5367d6d7d0c7e862146095cbf72a3e4d41",
                 "size": 152,
                 "blame": "raw"
             },
@@ -1173,7 +1173,7 @@
     "files": {
         "pack.mcmeta": {
             "mtime": 1744486075,
-            "sha1": "83b41185d0824b888b3b6c42e0fd8124a811323e",
+            "sha1": "d88b6e5367d6d7d0c7e862146095cbf72a3e4d41",
             "size": 152,
             "blame": "raw"
         }
