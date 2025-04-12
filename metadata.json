@@ -100,9 +100,9 @@
         },
         "files": {
             "pack.mcmeta": {
-                "mtime": 1744478981,
-                "sha1": "74be8f9120945e9d573aebf8332650f2e7e8a0f9",
-                "size": 153,
+                "mtime": 1744486075,
+                "sha1": "83b41185d0824b888b3b6c42e0fd8124a811323e",
+                "size": 152,
                 "blame": "raw"
             },
             "assets/mtr/mtr_custom_resources.json": {
@@ -1172,9 +1172,9 @@
     },
     "files": {
         "pack.mcmeta": {
-            "mtime": 1744478981,
-            "sha1": "74be8f9120945e9d573aebf8332650f2e7e8a0f9",
-            "size": 153,
+            "mtime": 1744486075,
+            "sha1": "83b41185d0824b888b3b6c42e0fd8124a811323e",
+            "size": 152,
             "blame": "raw"
         }
     }
