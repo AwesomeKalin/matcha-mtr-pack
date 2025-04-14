@@ -6145,13 +6145,13 @@
             },
             "assets/novalogin/lang/en_us.json": {
                 "mtime": 1744651532,
-                "sha1": "21478d99843d7c9ab0c8c6a0ef9e715bc49507e2",
+                "sha1": "d3c42c24e44b52f5a5b84bfc2155cc092c2ae232",
                 "size": 1652,
                 "blame": "chaodee0724"
             },
             "assets/novalogin/lang/zh_cn.json": {
                 "mtime": 1744651532,
-                "sha1": "e09745f3fcce38d232acdbdc47b647d5d4bb13df",
+                "sha1": "3ee68696f4c931d69d9b3673d4ea07f2ac86b86c",
                 "size": 1606,
                 "blame": "chaodee0724"
             }
