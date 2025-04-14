@@ -1458,5 +1458,301 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "holec_alstom_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_loop": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_point": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_run": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_rub": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/rub",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "holec_alstom_flange": {
+        "sounds": [
+            {
+                "name": "mtr:holec_alstom/flange",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:157/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:157/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:157/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:157/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_loop": {
+        "sounds": [
+            {
+                "name": "mtr:157/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:157/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_point": {
+        "sounds": [
+            {
+                "name": "mtr:157/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_run": {
+        "sounds": [
+            {
+                "name": "mtr:157/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_rub": {
+        "sounds": [
+            {
+                "name": "mtr:157/rub",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "157_flange": {
+        "sounds": [
+            {
+                "name": "mtr:157/flange",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_loop": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_point": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_run": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_rub": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/rub",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "siemens_gto_flange": {
+        "sounds": [
+            {
+                "name": "mtr:siemens_gto/flange",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
