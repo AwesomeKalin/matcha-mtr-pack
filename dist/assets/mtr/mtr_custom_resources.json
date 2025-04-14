@@ -1181,6 +1181,48 @@
 			"texture_id": "mtr:custom_directory/b_07_long_mini_notransparency",
 			"model": "mtr:custom_directory/b_07_long_mini.bbmodel",
 			"model_properties": "mtr:custom_directory/b_07_mini_notransparency.json"
+		},
+		"metrocar": {
+			"name": "Tyne and Wear Metrocar",
+			"description": "The Tyne and Wear Metrocar, also known as the Class 994 is a light rail vehicle operating in the Newcastle, Gateshead, Tynemouth and Sunderland area",
+			"wikipedia_article": "https://en.wikipedia.org/wiki/Tyne_and_Wear_Metrocar",
+			"color": "FDB826",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"has_gangway_connection": true,
+			"rider_offset": 0,
+			"bve_sound_base_id": "metrocar",
+			"texture_id": "mtr:metrocar/metrocar_modern",
+			"model": "mtr:metrocar/metrocar.bbmodel",
+			"model_properties": "mtr:metrocar/metrocar.json"
+		},
+		"metrocar_80s": {
+			"name": "Tyne and Wear Metrocar (80s livery)",
+			"description": "The Tyne and Wear Metrocar, also known as the Class 994 is a light rail vehicle operating in the Newcastle, Gateshead, Tynemouth and Sunderland area",
+			"wikipedia_article": "https://en.wikipedia.org/wiki/Tyne_and_Wear_Metrocar",
+			"color": "FDB826",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"has_gangway_connection": true,
+			"rider_offset": 0,
+			"bve_sound_base_id": "metrocar",
+			"texture_id": "mtr:metrocar/metrocar_80s",
+			"model": "mtr:metrocar/metrocar.bbmodel",
+			"model_properties": "mtr:metrocar/metrocar.json"
+		},
+		"metrocar_rnet": {
+			"name": "Tyne and Wear Metrocar (R-net)",
+			"description": "The Tyne and Wear Metrocar, also known as the Class 994 is a light rail vehicle operating in the Newcastle, Gateshead, Tynemouth and Sunderland area",
+			"wikipedia_article": "https://en.wikipedia.org/wiki/Tyne_and_Wear_Metrocar",
+			"color": "CC0605",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"has_gangway_connection": true,
+			"rider_offset": 0,
+			"bve_sound_base_id": "metrocar",
+			"texture_id": "mtr:metrocar/metrocar_rnet",
+			"model": "mtr:metrocar/metrocar.bbmodel",
+			"model_properties": "mtr:metrocar/metrocar.json"
 		}
 	},
 	"custom_signs": {

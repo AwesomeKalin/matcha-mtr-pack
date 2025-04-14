@@ -288,6 +288,16 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/metrocar": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/metrocar": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -3417,12 +3427,6 @@
                 "size": 23161,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744646740,
-                "sha1": "f32dcf5f0c5fb71fd25e74cf773af16882b0059c",
-                "size": 50652,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/b07/air.ogg": {
                 "mtime": 1732450399,
                 "sha1": "0579a5041aadfda564dcccda2a1ee936cd771a82",
@@ -3583,12 +3587,6 @@
                 "mtime": 1732450399,
                 "sha1": "97e74c33b55190508cdfd54fc543021c707c2a1b",
                 "size": 29124,
-                "blame": "chaodee0724"
-            },
-            "assets/mtr/sounds.json": {
-                "mtime": 1744646761,
-                "sha1": "14154fbcc2be72b4c09799e3b19dde78d3f39973",
-                "size": 56830,
                 "blame": "chaodee0724"
             },
             "assets/mtrsteamloco/models/curved_plat/apg/apg.mtl": {
@@ -4015,6 +4013,138 @@
                 "mtime": 1728151586,
                 "sha1": "038785a8e4fd8a9a59dfd29be66b74d200fb9901",
                 "size": 875,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/metrocar.bbmodel": {
+                "mtime": 1739476527,
+                "sha1": "567fdf5ecd5e611a22a308d842fc5f8eca8d65a7",
+                "size": 7327026,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/metrocar.json": {
+                "mtime": 1739489907,
+                "sha1": "93b9346c2084c332fd816c575f1d3074549e48c7",
+                "size": 43479,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/metrocar_80s.png": {
+                "mtime": 1739491234,
+                "sha1": "f19a8a5b699c5d0c2908566dfbced936f01f7a03",
+                "size": 702214,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/metrocar_modern.png": {
+                "mtime": 1739491235,
+                "sha1": "e8793709f6e3db1f7374ea9b9ea6c14b50024281",
+                "size": 703715,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/metrocar_rnet.png": {
+                "mtime": 1739674212,
+                "sha1": "8357f60bfa8ebad0f7dd04e28811f547663741d7",
+                "size": 593623,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744647384,
+                "sha1": "451586dd3f3ac69baee8d980a96fe56ae0cdb399",
+                "size": 52642,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/airhigh.ogg": {
+                "mtime": 1739444091,
+                "sha1": "b9a9e2b4eefc3203e44727837b190dfe3dd0e2f2",
+                "size": 42658,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/airzero.ogg": {
+                "mtime": 1739444826,
+                "sha1": "5710f001cb4c8ec9bd430a39d18549cf976a4069",
+                "size": 39635,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/brakefreq.csv": {
+                "mtime": 1739445381,
+                "sha1": "26b7410744d169d49fd69cfb372118a0412fe9a5",
+                "size": 103,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/brakevol.csv": {
+                "mtime": 1739445388,
+                "sha1": "f9f4fd3b651aaf377de4efd84d3f3850781cc3cc",
+                "size": 100,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/doorcls.ogg": {
+                "mtime": 1739444762,
+                "sha1": "179abb76248f6806256df90790df17013aa9ceb3",
+                "size": 91648,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/dooropn.ogg": {
+                "mtime": 1739444180,
+                "sha1": "4afb0f530fe9beea857738a96672e14815b53e5d",
+                "size": 97902,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/loop.ogg": {
+                "mtime": 1739443934,
+                "sha1": "4af91e0cff9e9d7ec303fb5d38af5936dae5904e",
+                "size": 3112085,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/motor0.ogg": {
+                "mtime": 1739443768,
+                "sha1": "03ffb1c90b4e917fc0fe7627981333c374ff9f9b",
+                "size": 528836,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/motor1.ogg": {
+                "mtime": 1739443786,
+                "sha1": "669dde6c85dafd9cf90efa4426db6c27f1790851",
+                "size": 378713,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/motor2.ogg": {
+                "mtime": 1739443794,
+                "sha1": "a25ec60790691b22821187c5bbdba581d0e3c0be",
+                "size": 889282,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/point.ogg": {
+                "mtime": 1739443964,
+                "sha1": "4254a738348347f80537265674f174477c687da8",
+                "size": 11497,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/powerfreq.csv": {
+                "mtime": 1739448525,
+                "sha1": "26b7410744d169d49fd69cfb372118a0412fe9a5",
+                "size": 103,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/powervol.csv": {
+                "mtime": 1739448532,
+                "sha1": "4baec07fc362d305db0bfaebc3a1ccad0a9697e7",
+                "size": 110,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/run.ogg": {
+                "mtime": 1739443953,
+                "sha1": "a7220241017aa12f113b0ac7cbaf991e4574308c",
+                "size": 2552988,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/metrocar/sound.cfg": {
+                "mtime": 1739450757,
+                "sha1": "64c3eb1fe63f857be445293722929f10491cba02",
+                "size": 977,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1744647400,
+                "sha1": "84d7d70489f1c2a4ae501a12a4f8b79e9c18da93",
+                "size": 58626,
                 "blame": "chaodee0724"
             }
         }
