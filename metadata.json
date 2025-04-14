@@ -222,6 +222,16 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/tubbystar": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/170": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -3003,12 +3013,6 @@
                 "size": 23082,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744646048,
-                "sha1": "1889634e14a0349e972928bab3b36b8069127061",
-                "size": 46856,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/b90/air.ogg": {
                 "mtime": 1682363596,
                 "sha1": "0579a5041aadfda564dcccda2a1ee936cd771a82",
@@ -3171,10 +3175,136 @@
                 "size": 29124,
                 "blame": "chaodee0724"
             },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744646484,
+                "sha1": "98484b6cdecb0f1aac056f951cc376763acf4c3d",
+                "size": 48370,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/airhigh.ogg": {
+                "mtime": 1732822158,
+                "sha1": "67012d92e90ffef652224f08bd9b433f5064036b",
+                "size": 27333,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/airzero.ogg": {
+                "mtime": 1732822158,
+                "sha1": "67012d92e90ffef652224f08bd9b433f5064036b",
+                "size": 27333,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/brakefreq.csv": {
+                "mtime": 1732822158,
+                "sha1": "2a356191297636e83c77933e8d0f699fd8ee791b",
+                "size": 41,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/brakevol.csv": {
+                "mtime": 1732822158,
+                "sha1": "2a356191297636e83c77933e8d0f699fd8ee791b",
+                "size": 41,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/doorcls.ogg": {
+                "mtime": 1732822158,
+                "sha1": "6b84985d792e682fe708c28b28b9144feeab3d84",
+                "size": 98597,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/dooropn.ogg": {
+                "mtime": 1732822158,
+                "sha1": "2b89ff7da11bef411cdb0af0aca907e9b1e3236f",
+                "size": 99023,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/loop.ogg": {
+                "mtime": 1732822158,
+                "sha1": "b44a7c41dfa85ae79613e4085829d68a2b1ba6c3",
+                "size": 94940,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/motor0.ogg": {
+                "mtime": 1732822158,
+                "sha1": "edf145bd003ddbb818a990c09b5b27cc3ba42ef0",
+                "size": 143197,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/point.ogg": {
+                "mtime": 1732822158,
+                "sha1": "5e026e7ecc6185e232de309c9debc7bfb9d9eae1",
+                "size": 9525,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/powerfreq.csv": {
+                "mtime": 1732822158,
+                "sha1": "3853557e03a05a8b2c2f4820f28aa3f53462ac30",
+                "size": 69,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/powervol.csv": {
+                "mtime": 1732822158,
+                "sha1": "2c576297bbe9f4c64a9655ab2dbfe9fa40bb8014",
+                "size": 46,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/rub.ogg": {
+                "mtime": 1732822158,
+                "sha1": "6ede7d8a160371fa357d47bb252e1656ac9f51cf",
+                "size": 163344,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/run.ogg": {
+                "mtime": 1732822158,
+                "sha1": "a1725316f5566848f9c14998094f756b6353b253",
+                "size": 301226,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/170/sound.cfg": {
+                "mtime": 1732822158,
+                "sha1": "d2f550fb1379675e548a32836563956b22e314f4",
+                "size": 956,
+                "blame": "chaodee0724"
+            },
             "assets/mtr/sounds.json": {
-                "mtime": 1744646073,
-                "sha1": "80500c9481a89f2174dd7f4d7352d166adfe2d5a",
-                "size": 51096,
+                "mtime": 1744646500,
+                "sha1": "fda24811b91be4656c54f40335a775a4ff4e1e2b",
+                "size": 52616,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_170_crosscountry.png": {
+                "mtime": 1732826632,
+                "sha1": "55d84fa7390b119868783479b3aac1a4b50cfbc6",
+                "size": 291327,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_170_crosscountrypride.png": {
+                "mtime": 1732826636,
+                "sha1": "4d1286c06396247880a39a8adc231be8795d2807",
+                "size": 278632,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_170_emr_aubergine.png": {
+                "mtime": 1732826646,
+                "sha1": "f6ef3f93dd2408510799c86b717eb3d6cfac8637",
+                "size": 294755,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_170_emr_southern_interim.png": {
+                "mtime": 1732826650,
+                "sha1": "1a0349e889dd05ceec260b23efa95f8c05ef0b3b",
+                "size": 323033,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_170_southwesttrainswhite.png": {
+                "mtime": 1732826640,
+                "sha1": "191c3c87236c7f462ef0ec412ad9ca0d3f995581",
+                "size": 274841,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/tubbystar/class_171_southern.png": {
+                "mtime": 1732826632,
+                "sha1": "10a273ec324e5ac097d67886ee204c988d8e0793",
+                "size": 318039,
                 "blame": "chaodee0724"
             }
         }

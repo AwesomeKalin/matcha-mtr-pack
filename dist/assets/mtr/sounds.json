@@ -2290,5 +2290,77 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "170_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:170/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_loop": {
+        "sounds": [
+            {
+                "name": "mtr:170/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:170/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_point": {
+        "sounds": [
+            {
+                "name": "mtr:170/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_rub": {
+        "sounds": [
+            {
+                "name": "mtr:170/rub",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_run": {
+        "sounds": [
+            {
+                "name": "mtr:170/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:170/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:170/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "170_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:170/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

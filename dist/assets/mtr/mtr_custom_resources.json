@@ -1081,6 +1081,48 @@
 			"texture_id": "mtr:custom_directory/b_90_long_mini/b_90_long_mini",
 			"model": "mtr:custom_directory/b_90_long_mini/b_90_long_mini.bbmodel",
 			"model_properties": "mtr:custom_directory/b_90_long_mini/b_90_mini.json"
+		},
+		"xc170standard": {
+			"name": "British Rail Class 170 (CrossCountry)",
+			"color": "#DD0050",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_170_crosscountry.png",
+			"bve_sound_base_id": "170"
+		},
+		"xc170pride": {
+			"name": "British Rail Class 170 (CrossCountry Pride)",
+			"color": "#DD0050",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_170_crosscountrypride.png",
+			"bve_sound_base_id": "170"
+		},
+		"swt170": {
+			"name": "British Rail Class 170 (South West Trains)",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_170_southwesttrainswhite.png",
+			"color": "#FF7F27",
+			"bve_sound_base_id": "170"
+		},
+		"emrinterim170": {
+			"name": "British Rail Class 170 (Southern, with interim East Midlands Railway branding)",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_170_emr_southern_interim.png",
+			"color": "#59B464",
+			"bve_sound_base_id": "170"
+		},
+		"southern171": {
+			"name": "British Rail Class 171 (Southern)",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_171_southern.png",
+			"color": "#59B464",
+			"bve_sound_base_id": "170"
+		},
+		"emr170": {
+			"name": "British Rail Class 170 (East Midlands Railway)",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:tubbystar/class_170_emr_aubergine.png",
+			"color": "#4D2F49",
+			"bve_sound_base_id": "170"
 		}
 	},
 	"custom_signs": {
