@@ -3175,12 +3175,6 @@
                 "size": 29124,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744646484,
-                "sha1": "98484b6cdecb0f1aac056f951cc376763acf4c3d",
-                "size": 48370,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/170/airhigh.ogg": {
                 "mtime": 1732822158,
                 "sha1": "67012d92e90ffef652224f08bd9b433f5064036b",
@@ -3265,12 +3259,6 @@
                 "size": 956,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/sounds.json": {
-                "mtime": 1744646500,
-                "sha1": "fda24811b91be4656c54f40335a775a4ff4e1e2b",
-                "size": 52616,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/tubbystar/class_170_crosscountry.png": {
                 "mtime": 1732826632,
                 "sha1": "55d84fa7390b119868783479b3aac1a4b50cfbc6",
@@ -3305,6 +3293,246 @@
                 "mtime": 1732826632,
                 "sha1": "10a273ec324e5ac097d67886ee204c988d8e0793",
                 "size": 318039,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini.bbmodel": {
+                "mtime": 1732454752,
+                "sha1": "f047af81f832df14ae054bbcc49f008138ac7a4a",
+                "size": 808589,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini.json": {
+                "mtime": 1732396675,
+                "sha1": "e71ce77626f70dc47e8866ff816f090d8b716113",
+                "size": 20308,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini.png": {
+                "mtime": 1735312957,
+                "sha1": "a565c3c1f59ee445991e29d7ae93b93f9ff3a21f",
+                "size": 229801,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_connector_exterior.png": {
+                "mtime": 1732396675,
+                "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_connector_floor.png": {
+                "mtime": 1732396675,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_connector_roof.png": {
+                "mtime": 1732396675,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_connector_side.png": {
+                "mtime": 1732396675,
+                "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_notransparency.json": {
+                "mtime": 1735313835,
+                "sha1": "546170259930625cb6ec8412242bc51b6cb71ae1",
+                "size": 20212,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_long_mini_notransparency.png": {
+                "mtime": 1735314710,
+                "sha1": "f09a3c516162cd4e3ebd0b6b27e275715dce134e",
+                "size": 229613,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_mini.json": {
+                "mtime": 1732396675,
+                "sha1": "65e3555213f7afb3dfc9877415580936c017b815",
+                "size": 23305,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/b_07_mini_notransparency.json": {
+                "mtime": 1735315520,
+                "sha1": "596956e6f8a15e79d875309410c75fcc5954aa83",
+                "size": 23161,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744646740,
+                "sha1": "f32dcf5f0c5fb71fd25e74cf773af16882b0059c",
+                "size": 50652,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/air.ogg": {
+                "mtime": 1732450399,
+                "sha1": "0579a5041aadfda564dcccda2a1ee936cd771a82",
+                "size": 8542,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/airzero.ogg": {
+                "mtime": 1732450399,
+                "sha1": "343e72cf80771d939bb63c45855ed2b330e179af",
+                "size": 8270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/cpend.ogg": {
+                "mtime": 1732450399,
+                "sha1": "4086ecc417235657162977cb09bb4b8d7b8ef00c",
+                "size": 85308,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/cploop.ogg": {
+                "mtime": 1732450399,
+                "sha1": "09421987a1059afdbe9c13f38b58a68c3eda4aad",
+                "size": 66847,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/cpstart.ogg": {
+                "mtime": 1732450399,
+                "sha1": "45a326094cf8da2e608b111a9fe010a827e0930f",
+                "size": 57840,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/doorcls.ogg": {
+                "mtime": 1732452521,
+                "sha1": "95615f7fc3741a99ef330506c84d9ed916657611",
+                "size": 82533,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/dooropn.ogg": {
+                "mtime": 1732453710,
+                "sha1": "1b436f0520874b6f727308e6d9f58b75567a744b",
+                "size": 71028,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/flange0.ogg": {
+                "mtime": 1732450399,
+                "sha1": "13c6a59f390dc1f83f2d2644b7e219aa4d7ccbc6",
+                "size": 43013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/loop.ogg": {
+                "mtime": 1732450399,
+                "sha1": "af8223a70313ef957a057512a9027fcba963d6a1",
+                "size": 13981,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor0.ogg": {
+                "mtime": 1732450399,
+                "sha1": "0de59ffddd518abc006542504b5c5e760d2578dc",
+                "size": 15057,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor1.ogg": {
+                "mtime": 1732450399,
+                "sha1": "da2b9edc22ff31e6fa80a39c30a3f96dbd6508bd",
+                "size": 6021,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor2.ogg": {
+                "mtime": 1732450399,
+                "sha1": "80e6ce33c2eb80ed0783bc049f5e857b9dfb7a4f",
+                "size": 6021,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor3.ogg": {
+                "mtime": 1732450399,
+                "sha1": "121d3e5f819b459f5c3e523840e65d1802cfe851",
+                "size": 9482,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor5.ogg": {
+                "mtime": 1732450399,
+                "sha1": "c6618fcda5381e3765ba2c8f60e3e4ebcb8eb4cd",
+                "size": 9563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor6.ogg": {
+                "mtime": 1732450399,
+                "sha1": "cf755d687b2941dd96902ac18761fb9c25e82840",
+                "size": 15563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/motor7.ogg": {
+                "mtime": 1732450399,
+                "sha1": "b59879d3d75f00c3924321ec3ffb5e4f307507ee",
+                "size": 15057,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/point.ogg": {
+                "mtime": 1732450399,
+                "sha1": "de7c4528d2886d2f00b370ab7f17db0484933fd7",
+                "size": 16020,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run0.ogg": {
+                "mtime": 1732450399,
+                "sha1": "7613bdbca3fe03fba182d16a7debac6ef920e78f",
+                "size": 160621,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run1.ogg": {
+                "mtime": 1732450399,
+                "sha1": "794c083f87ce62efd477385dea494c24a8e7257d",
+                "size": 110460,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run2.ogg": {
+                "mtime": 1732450399,
+                "sha1": "6b5dcaa564f321fb69073f91d99e34cb522c9a23",
+                "size": 192363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run3.ogg": {
+                "mtime": 1732450399,
+                "sha1": "ae4d3c7bd55fa0743c69d28ea90028cea13ec7bd",
+                "size": 110596,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run4.ogg": {
+                "mtime": 1732450399,
+                "sha1": "6af1a1e96997159e93973e6cdd6ce7c7cf467621",
+                "size": 190893,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run5.ogg": {
+                "mtime": 1732450399,
+                "sha1": "56990b754a51b0a0367d2968eee47fba419e0be3",
+                "size": 179895,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run6.ogg": {
+                "mtime": 1732450399,
+                "sha1": "dd62ba1f91a6eaeb514611445f15f7af5d53e4f4",
+                "size": 17552,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/run7.ogg": {
+                "mtime": 1732450399,
+                "sha1": "964dc0ad79a1451770ed24c451e80520c8849758",
+                "size": 183682,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/sound.cfg": {
+                "mtime": 1732450399,
+                "sha1": "ac0c72a9d94834fe839de6173364e998e12d03ff",
+                "size": 941,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/b07/train.dat": {
+                "mtime": 1732450399,
+                "sha1": "97e74c33b55190508cdfd54fc543021c707c2a1b",
+                "size": 29124,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1744646761,
+                "sha1": "14154fbcc2be72b4c09799e3b19dde78d3f39973",
+                "size": 56830,
                 "blame": "chaodee0724"
             }
         }
