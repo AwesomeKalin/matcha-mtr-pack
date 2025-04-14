@@ -34,7 +34,8 @@
             "assets/mtr/sounds": {
                 "blame": [
                     "awesomekalin55",
-                    "chaodee0724"
+                    "chaodee0724",
+                    "matcha"
                 ]
             },
             "assets/mtr/sounds/class507": {
@@ -307,6 +308,61 @@
             "assets/mtr/dmrp86": {
                 "blame": [
                     "chaodee0724"
+                ]
+            },
+            "assets/mtr/jcibravo": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/jcibravo/fm86": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/jcibravo/mp68": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/jcibravo/nc82": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/jcibravo/ne92": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/jcibravo/nm73": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/sounds/stcmetro_fm86_door": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/sounds/stcmetro_mp68_door": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/sounds/stcmetro_mp68_original_door": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/sounds/stcmetro_ne92_door": {
+                "blame": [
+                    "matcha"
+                ]
+            },
+            "assets/mtr/sounds/stcmetro_nm73_door": {
+                "blame": [
+                    "matcha"
                 ]
             }
         },
@@ -4145,12 +4201,6 @@
                 "size": 977,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/sounds.json": {
-                "mtime": 1744647400,
-                "sha1": "84d7d70489f1c2a4ae501a12a4f8b79e9c18da93",
-                "size": 58626,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/dmrp83/xg919_3door.bbmodel": {
                 "mtime": 1732906715,
                 "sha1": "7164a4eb340575083c76dcd7f65a6c7f99eeb286",
@@ -4181,10 +4231,1912 @@
                 "size": 453398,
                 "blame": "chaodee0724"
             },
+            "assets/mtr/jcibravo/fm86/acople.png": {
+                "mtime": 1720713672,
+                "sha1": "202811a73515cf91cb596d2287545c8e9c0cdbef",
+                "size": 2043,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/asiento.png": {
+                "mtime": 1720713672,
+                "sha1": "1dc490fc0329bae89e467b41e988dd0358235f82",
+                "size": 165,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/bandera_nacional.png": {
+                "mtime": 1720713544,
+                "sha1": "55130510743f249073fc6542a403ad0db01f61e8",
+                "size": 46825,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/bogie.png": {
+                "mtime": 1720713672,
+                "sha1": "ff063eedc02a332824fe7db39674a969a78eba5d",
+                "size": 36002,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/borde_puerta.png": {
+                "mtime": 1720713672,
+                "sha1": "67ed828a650edf355320ca3bc25e292a9aaa2691",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_p1.png": {
+                "mtime": 1720713672,
+                "sha1": "7d4135bb560ada6ef6251fc9dae623d66f27c89b",
+                "size": 8053,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_p1_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "6e3e9bb945105b2a4e94b509e4e1318d379cc8aa",
+                "size": 7978,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_p1_prototipo2.png": {
+                "mtime": 1705323196,
+                "sha1": "e70814256d49d03dbe8b4f61bad5146857dc3013",
+                "size": 5694,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_p2.png": {
+                "mtime": 1720713672,
+                "sha1": "60ea05ae45ee47d2ac4ff75d04f700aafb3e8c08",
+                "size": 4457,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_p2_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "69d2e92492f27adb1c0f10cffe271cd756ca8127",
+                "size": 4229,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_prototipo1_blanco.png": {
+                "mtime": 1705326652,
+                "sha1": "433c1f964fec3ee1c8d97bc99e36575969ed7484",
+                "size": 8028,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_exterior_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "b5b8f94148533c2548da22bb173a9eabf23cf39b",
+                "size": 13728,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_interior_p1.png": {
+                "mtime": 1720713672,
+                "sha1": "a0a9f02988471c43a0c1e0295d3fe07137dfe43d",
+                "size": 8025,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_interior_p1_prototipo2.png": {
+                "mtime": 1705323586,
+                "sha1": "d5508ca701743e51cfbee5f99b3373d43d2d51d0",
+                "size": 4891,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_interior_p2.png": {
+                "mtime": 1705258294,
+                "sha1": "b7c74757946d0f3b4da6c7a5fbd81d0a75c58268",
+                "size": 2683,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_interior_prototipo1_blanco.png": {
+                "mtime": 1720704216,
+                "sha1": "e8a2f196fb08592df6b6f4ef439bb9531d1bb397",
+                "size": 13414,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_exterior.png": {
+                "mtime": 1720713672,
+                "sha1": "ece86005887e896a364400dc526532fe9379c9fb",
+                "size": 21467,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_exterior_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "72a7de284c04f7bfd6fa5ae5383ff18043796ade",
+                "size": 14432,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_exterior_prototipo1_blanco.png": {
+                "mtime": 1705327752,
+                "sha1": "b19a9fef017907b3692160ea02bf4068f51e1a47",
+                "size": 9602,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_exterior_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "9c8484afd979d17154df5de490b23ef2400bf21f",
+                "size": 11491,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_interior.png": {
+                "mtime": 1720713672,
+                "sha1": "a4eb19344a9c65cb0da56d8971c17b0ec9d8d35d",
+                "size": 13189,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_interior_prototipo1.png": {
+                "mtime": 1720704216,
+                "sha1": "55c2a7f087397da5017a1be4c90bc7f9226a5959",
+                "size": 11243,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/cabina_lateral_interior_prototipo1_blanco.png": {
+                "mtime": 1705324520,
+                "sha1": "c06ee7fb4aaa13d244e31318d20eb25f2752ed00",
+                "size": 3869,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/color_asiento.png": {
+                "mtime": 1720713672,
+                "sha1": "354afb35daf0413042ad7b83afcbdac5ba510a73",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/color_bogie.png": {
+                "mtime": 1720713672,
+                "sha1": "162ab72fc7b6ab616dd10eb50ca70674566c704d",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/color_lateral_interior.png": {
+                "mtime": 1720713672,
+                "sha1": "84351caa9900da6a1590d084496f6a5deb536be1",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/color_relieve_cabina.png": {
+                "mtime": 1704653030,
+                "sha1": "2b9f6ce1274274168f2a60df874b55c6cf096b07",
+                "size": 1295,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/credits.png": {
+                "mtime": 1720713672,
+                "sha1": "3b7ea9c8406d6e98a1e3c3f3929e0bb4ed15aca9",
+                "size": 20000,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior.png": {
+                "mtime": 1720713672,
+                "sha1": "8d216e352ec5921e307197043e35da0570008cdf",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior1_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "dfa0c7e50292142c16dbd1675bcc6f08c2459343",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior2.png": {
+                "mtime": 1720713672,
+                "sha1": "366692362fc936d3160cb102659a47c051703169",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior2_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "acd3503f8c20123be5a06775be56f191a35e2ccd",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior2_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "68d9d12f83f6d62f41cd7385c41a5fd75442378c",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/exterior_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "366692362fc936d3160cb102659a47c051703169",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/fluorescente.png": {
+                "mtime": 1720713672,
+                "sha1": "2b104a495446e9e8e4042faea480c5e67d3ead93",
+                "size": 8046,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/fm86_fm032.mtl": {
+                "mtime": 1720713316,
+                "sha1": "60000556edffe864eb869128be61245ccca30483",
+                "size": 2355,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/indicador.png": {
+                "mtime": 1720713672,
+                "sha1": "87215d82481c3375c7549344330de694c6db3085",
+                "size": 36476,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/interior_cabina.png": {
+                "mtime": 1720713672,
+                "sha1": "72d65b69f4bdee536dd8fc977ca83c01e397cc8c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_cabina_exterior.png": {
+                "mtime": 1720713672,
+                "sha1": "abc0dadbaf5eee72bb0009ed12aae2ae8afbcd43",
+                "size": 1727,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_cabina_exterior2.png": {
+                "mtime": 1720713672,
+                "sha1": "739a12631aa3e03f3131e0dda2bbae52a61d9083",
+                "size": 6197,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_cabina_exterior_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "7f5dd36d95592fb64ede53473684cd0a51345109",
+                "size": 6279,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_exterior.png": {
+                "mtime": 1720713672,
+                "sha1": "c43f4b577c05ac9a22d4690d5783c8316eb3952b",
+                "size": 101825,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_exterior_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "16aed772637a87f28667435294b0774e7532487b",
+                "size": 103874,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_exterior_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "eee57880699d98b860c52928203e935afc9ccf22",
+                "size": 101285,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lateral_interior.png": {
+                "mtime": 1720713672,
+                "sha1": "1029d40eb3f0c639efe29d0eda757581d49173a7",
+                "size": 86427,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/lights.png": {
+                "mtime": 1720704216,
+                "sha1": "da75a8f88f115f4489f9e0633d9083878465f087",
+                "size": 298103,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/logo_metro.png": {
+                "mtime": 1720713672,
+                "sha1": "4cfbfb43960d121baa729aeb0254643729f2377d",
+                "size": 6472,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/logo_metro_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "f4ce940954526e813d27095bcbce1c98685ddf38",
+                "size": 4738,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/luz_blanca.png": {
+                "mtime": 1720713672,
+                "sha1": "c844f92a1bb95c3db12ba12e662afd1d8aa8aac0",
+                "size": 2899,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/luz_roja.png": {
+                "mtime": 1720713672,
+                "sha1": "c7c7aa1b6b920d8d652293a08f5e37486ab77bf1",
+                "size": 3331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/metal.png": {
+                "mtime": 1720713672,
+                "sha1": "25dd4deb8021394a03adfc85ecb599143d3ed5c4",
+                "size": 1462,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor.mtl": {
+                "mtime": 1720713544,
+                "sha1": "b860f631b5187f291154de5bfad347fd17ee2e7b",
+                "size": 2444,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor.obj": {
+                "mtime": 1720713714,
+                "sha1": "9ad0f97d39409c2dc515e979b6733c4cd56a1cfa",
+                "size": 355986,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_fm032.mtl": {
+                "mtime": 1720713418,
+                "sha1": "60000556edffe864eb869128be61245ccca30483",
+                "size": 2355,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_fm032.obj": {
+                "mtime": 1720713718,
+                "sha1": "15d23907e4973d1926772ebf1e311801fdd3c97c",
+                "size": 354959,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo1_blanco.mtl": {
+                "mtime": 1720704216,
+                "sha1": "46793d8253a616c67995abfebc52c5fb660a0500",
+                "size": 2146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo1_blanco.obj": {
+                "mtime": 1720704318,
+                "sha1": "8a6051ad097531fc9203698e79432b227c9a23ff",
+                "size": 354828,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo1_naranja.mtl": {
+                "mtime": 1720703780,
+                "sha1": "55bed25751ba87c3af8acec0eacfe57fdb0537f7",
+                "size": 2160,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo1_naranja.obj": {
+                "mtime": 1720704314,
+                "sha1": "b357e9f05d34477466c5e128ba24f3bf9569e6f8",
+                "size": 354282,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo2.mtl": {
+                "mtime": 1720713672,
+                "sha1": "2744583bf9b7ec0f652b33a3917a10230c8b8177",
+                "size": 2306,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/motor_prototipo2.obj": {
+                "mtime": 1720713720,
+                "sha1": "2697603f560852b9bc09c9db1aea66f33ba536db",
+                "size": 354647,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/numero.png": {
+                "mtime": 1720713544,
+                "sha1": "31ae1c144bf3ccc7f13b5ccf5cffdbd95fbbd6de",
+                "size": 7009,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/numero_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "7137baaa3df3b47541bff86e5f846090ed931367",
+                "size": 5916,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/pantografo.png": {
+                "mtime": 1720713672,
+                "sha1": "85efe5ff46db328efbd675338df80ad45cc190df",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/pantografo_oscuro.png": {
+                "mtime": 1720704216,
+                "sha1": "0e2bbc3597068fd185268719817822034479e247",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta.png": {
+                "mtime": 1720713672,
+                "sha1": "6c6911def8c40e50af754f74b142a20b79a9cdec",
+                "size": 15864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta_exterior.png": {
+                "mtime": 1720713672,
+                "sha1": "a8d80f157642586e4e56771b870b3e5f0cd61053",
+                "size": 17927,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta_exterior_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "fc0521d56a1b2b19b9f87ac588b2ff134af9f134",
+                "size": 17827,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta_exterior_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "8c6b02e8a8140fca58a276f3d772bacff388cf35",
+                "size": 17805,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta_interior.png": {
+                "mtime": 1720713672,
+                "sha1": "90b6cd273bedba88e9de9fd4541da45df0679ed0",
+                "size": 17752,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/puerta_prototipo1_blanco.png": {
+                "mtime": 1705338090,
+                "sha1": "8f7699cee668bbd6b8b10d3f04c2e74982108530",
+                "size": 6464,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/reflejante.png": {
+                "mtime": 1720704216,
+                "sha1": "1883587b0671baa23828445fcbdd7f6baed48ba1",
+                "size": 26097,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/remolque.mtl": {
+                "mtime": 1720707624,
+                "sha1": "6dc283ccf117e2c93bc054949d40449adab6c0b8",
+                "size": 1137,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/remolque.obj": {
+                "mtime": 1720707650,
+                "sha1": "1fb3918d50dd74faac09b7828f916ffc9d139535",
+                "size": 311628,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/remolque_pantografo.mtl": {
+                "mtime": 1720707618,
+                "sha1": "0fce5c68575f64ebc4d64252f86b7626dc8e4ce7",
+                "size": 1205,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/remolque_pantografo.obj": {
+                "mtime": 1720707654,
+                "sha1": "5d172da1779bfb6f2efab0782aa4f84dcaadd8be",
+                "size": 327629,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/suelo.png": {
+                "mtime": 1720713672,
+                "sha1": "5b7ca2c1720443424027aa53fd8044a131458b6f",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/union_cabina.png": {
+                "mtime": 1720713672,
+                "sha1": "33a9e1e77fcaa32664cf382a7b862729cf2393a4",
+                "size": 174,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/union_cabina_fm032.png": {
+                "mtime": 1720713418,
+                "sha1": "870dac742aaf00bd6b04d00292d33bf60b607a5f",
+                "size": 176,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/union_cabina_prototipo1_naranja.png": {
+                "mtime": 1720703780,
+                "sha1": "eb489755a56cd0058967e3f2a1761ea8b72c14c8",
+                "size": 176,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/vagon_exterior.png": {
+                "mtime": 1720707624,
+                "sha1": "27a6c282aff7758b7f22f4a7e6c22f4d27f6cacc",
+                "size": 94616,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/fm86/vagon_interior.png": {
+                "mtime": 1720707624,
+                "sha1": "a13373bf1276c469f975723d6884402b7e79685f",
+                "size": 79298,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/metrocdmx.json": {
+                "mtime": 1720702118,
+                "sha1": "0f1c9051725392aecc9cd0597cd1f4520e7613c5",
+                "size": 5086,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/acople.png": {
+                "mtime": 1720702382,
+                "sha1": "202811a73515cf91cb596d2287545c8e9c0cdbef",
+                "size": 2043,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/asiento.png": {
+                "mtime": 1720702382,
+                "sha1": "1dc490fc0329bae89e467b41e988dd0358235f82",
+                "size": 165,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/asiento_antiguo.png": {
+                "mtime": 1704632694,
+                "sha1": "9e49b46e918b8bea5132ea33f5098541d7f0e51c",
+                "size": 3480,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/bandera_nacional.png": {
+                "mtime": 1720702382,
+                "sha1": "b12b559db7b098442504ecdb7102f22efb6b6a52",
+                "size": 48438,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/bandera_tren_presidencial.png": {
+                "mtime": 1704733310,
+                "sha1": "44959de30e7442472871155c9a9e598b9682cfc6",
+                "size": 226,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/bogie.png": {
+                "mtime": 1720702382,
+                "sha1": "01ff2a13b64ea0e3716951e67223c8b06dc72ae9",
+                "size": 64511,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/bogie_motor.png": {
+                "mtime": 1720702382,
+                "sha1": "f89ee59d15ed697a9d945ab34768f9fb3c29dadb",
+                "size": 69812,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/borde_puerta.png": {
+                "mtime": 1720702382,
+                "sha1": "67ed828a650edf355320ca3bc25e292a9aaa2691",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_exterior_p1.png": {
+                "mtime": 1720702382,
+                "sha1": "59f1150a3e50348b9679b232809264407b3e4ff1",
+                "size": 8392,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_exterior_p1_original.png": {
+                "mtime": 1704732258,
+                "sha1": "650623ca1f87649a3fcab5ea2482ede558851bd0",
+                "size": 4238,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_exterior_p2.png": {
+                "mtime": 1720702382,
+                "sha1": "b02027d3536a00ffc08f9748bcf4195de544c2c4",
+                "size": 5489,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_exterior_p2_original.png": {
+                "mtime": 1704732256,
+                "sha1": "e4061a9316bca38e4d07410fa1e4f308910fd04f",
+                "size": 3756,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_exterior_p2_original_presidencial.png": {
+                "mtime": 1720701422,
+                "sha1": "ff7aa18601c39e3de9faa2b90e9aadcd10d39aeb",
+                "size": 8010,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_interior_p1.png": {
+                "mtime": 1720702382,
+                "sha1": "b7d9477d0a02677e2375e1271c4076a2805f0d1f",
+                "size": 8397,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_interior_p2.png": {
+                "mtime": 1720702382,
+                "sha1": "0fe79ebbcd20d133452452b60c796463852311ca",
+                "size": 4106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_lateral_exterior.png": {
+                "mtime": 1720702382,
+                "sha1": "bf6100160323b65d99271e828d6ba416cd398f90",
+                "size": 13356,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_lateral_exterior_original.png": {
+                "mtime": 1704732270,
+                "sha1": "24043ea849ce3f270404f40142e68f0e2f289378",
+                "size": 9864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cabina_lateral_interior.png": {
+                "mtime": 1720702382,
+                "sha1": "fcec85bf69bdde347124ed4d21dd86a0188468b8",
+                "size": 12306,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/cartel_tren_presidencial.png": {
+                "mtime": 1704784944,
+                "sha1": "cc8dc54957ef93daa07789e88aa3b069c8785a25",
+                "size": 6115,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/color_asiento.png": {
+                "mtime": 1720702382,
+                "sha1": "354afb35daf0413042ad7b83afcbdac5ba510a73",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/color_bogie.png": {
+                "mtime": 1720702382,
+                "sha1": "162ab72fc7b6ab616dd10eb50ca70674566c704d",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/color_relieve_cabina.png": {
+                "mtime": 1720702382,
+                "sha1": "093c616558f1ba9101ef85f7713747ffdb5d2b8a",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/contorno_luz.png": {
+                "mtime": 1720702382,
+                "sha1": "f778b71b5dd6d7a565082d91ff5cd0b09eb6a98c",
+                "size": 2263,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/credits.png": {
+                "mtime": 1720702382,
+                "sha1": "3b7ea9c8406d6e98a1e3c3f3929e0bb4ed15aca9",
+                "size": 20000,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/escudo.png": {
+                "mtime": 1704733178,
+                "sha1": "1c8200ef61e9c3b2c2176e3f8ede8e85eedcbc44",
+                "size": 249348,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/exterior.png": {
+                "mtime": 1720702382,
+                "sha1": "4b320abdb4130cf8aa5a08fa6d8428a873e13325",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/exterior_original.png": {
+                "mtime": 1704732268,
+                "sha1": "b6c48c99b267b8d4befd9efefb505d01d45095e3",
+                "size": 1305,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/fluorescente.png": {
+                "mtime": 1720702382,
+                "sha1": "2b104a495446e9e8e4042faea480c5e67d3ead93",
+                "size": 8046,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/indicador.png": {
+                "mtime": 1704633634,
+                "sha1": "f4f4f9db6e769c5139f36de7c67a3de604946815",
+                "size": 13826,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/indicador_rehabilitado.png": {
+                "mtime": 1720702382,
+                "sha1": "9216117cc693051a39a699c914ce40c328dfc905",
+                "size": 16483,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/interior.png": {
+                "mtime": 1720702382,
+                "sha1": "5b55203a62c7aa3ca67f744443f4aa0c19c75b3b",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/interior_cabina.png": {
+                "mtime": 1720702382,
+                "sha1": "199602ebb580ad1c443069d52ae498200cdcc63c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/interior_cabina_alt.png": {
+                "mtime": 1704654542,
+                "sha1": "233aa2d04c5431d90a5307ff3a6504e8d83ae4a6",
+                "size": 1294,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lado_contorno_luz.png": {
+                "mtime": 1720702382,
+                "sha1": "3b04e0e1d2e336cd786c2e35f5b1793a77aaba12",
+                "size": 270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lateral_exterior.png": {
+                "mtime": 1704732310,
+                "sha1": "8bfc8345ad2cb223b0f0f6c8925e881305f17d5b",
+                "size": 30097,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lateral_exterior_presidencial.png": {
+                "mtime": 1720701610,
+                "sha1": "7fd953def889b05e8b0bc244085e83f43131bb7b",
+                "size": 38527,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lateral_exterior_rehabilitado.png": {
+                "mtime": 1720702382,
+                "sha1": "07bcda4788177e94732af453d43ed835c2b69de8",
+                "size": 111763,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lateral_interior.png": {
+                "mtime": 1720702382,
+                "sha1": "e55e1afe675551cd9c74309d52a4e6e3bc825a3d",
+                "size": 87019,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/lateral_interior_alt.png": {
+                "mtime": 1704655134,
+                "sha1": "82c61bef1a60d2b146d5617da8a8a364718d1ccf",
+                "size": 22057,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/logo_metro.png": {
+                "mtime": 1720702382,
+                "sha1": "216e1cb15eb8388e60b2b02fd47435e233444fa6",
+                "size": 5665,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/luz.png": {
+                "mtime": 1720702382,
+                "sha1": "a7240bb90702e64da9dc1801a3a6859df475ad86",
+                "size": 14907,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/luz_blanca.png": {
+                "mtime": 1720702382,
+                "sha1": "8719cca99d15ffbeb0944fba3d23e80dfb773e0d",
+                "size": 1563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/luz_roja.png": {
+                "mtime": 1720702382,
+                "sha1": "c7c7aa1b6b920d8d652293a08f5e37486ab77bf1",
+                "size": 3331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/metal.png": {
+                "mtime": 1720702382,
+                "sha1": "25dd4deb8021394a03adfc85ecb599143d3ed5c4",
+                "size": 1462,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor.mtl": {
+                "mtime": 1720702382,
+                "sha1": "ce5a5bb25bca3d1e60917e2b6491205679510bf9",
+                "size": 2802,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor.obj": {
+                "mtime": 1720702394,
+                "sha1": "041fff40022aafca7fd925a6d054ecba61ed02cd",
+                "size": 435881,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor_antiguo.mtl": {
+                "mtime": 1720702092,
+                "sha1": "edff881b996c0b99731758685e8952c7f90cfb8a",
+                "size": 2571,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor_antiguo.obj": {
+                "mtime": 1720702110,
+                "sha1": "8dcc43f1e37a6d5a0d01c60b385081160aa41c5d",
+                "size": 432567,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor_presidencial.mtl": {
+                "mtime": 1720702074,
+                "sha1": "85713b7891c06d0fb902aaba0557dc5e7eb6b87f",
+                "size": 2674,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/motor_presidencial.obj": {
+                "mtime": 1720702110,
+                "sha1": "619e45f7e1e5a294f2259cd9babd97fadbb4a06c",
+                "size": 433194,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/numero.png": {
+                "mtime": 1720702382,
+                "sha1": "d832223c2d7e4db8603a9a1ff8548925402a9e22",
+                "size": 8096,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta.png": {
+                "mtime": 1720702382,
+                "sha1": "6c6911def8c40e50af754f74b142a20b79a9cdec",
+                "size": 15864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta_cabina_interior.png": {
+                "mtime": 1720702382,
+                "sha1": "e86044be382428621568e6121b9c86a102ebaf1f",
+                "size": 22385,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta_exterior.png": {
+                "mtime": 1720702382,
+                "sha1": "bfe78fd0f2bc4c804263482f01a8aae68cb7692a",
+                "size": 19642,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta_exterior_original.png": {
+                "mtime": 1704732264,
+                "sha1": "1a77e6fed7b331875adcb67c2a2912248f0c35b0",
+                "size": 9879,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta_exterior_original_presidencial.png": {
+                "mtime": 1720701708,
+                "sha1": "8ced73fb1953325cdeb11259a8bf15ba39f07e6a",
+                "size": 10986,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/puerta_interior.png": {
+                "mtime": 1720702382,
+                "sha1": "f80c6f785f2bb86a0d3f8f6394fdf7dd979fb981",
+                "size": 22129,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/relieve_cabina.png": {
+                "mtime": 1720702382,
+                "sha1": "fe3383045df62795c7f452725ec2765f7ca6851d",
+                "size": 3013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/remolque.mtl": {
+                "mtime": 1720702050,
+                "sha1": "fb5ff5ae67350b1392fe0ec7a3108587e9c4d43b",
+                "size": 1276,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/remolque.obj": {
+                "mtime": 1720702108,
+                "sha1": "32a269523e9651508590d5457e4ab4e5cd62ea31",
+                "size": 405386,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/remolque_antiguo.mtl": {
+                "mtime": 1720702064,
+                "sha1": "cb7440e4fbd0359f4d8533f0f94d9b691e93ca2d",
+                "size": 1289,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/remolque_antiguo.obj": {
+                "mtime": 1720702116,
+                "sha1": "9182b1965d2555bb81d674154c6b51212275e516",
+                "size": 405394,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/rueda.png": {
+                "mtime": 1720702382,
+                "sha1": "4059b26d3580b8a29b6f405d0b25a82dcef250b5",
+                "size": 26435,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/suelo.png": {
+                "mtime": 1720702382,
+                "sha1": "5b7ca2c1720443424027aa53fd8044a131458b6f",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/union_cabina.png": {
+                "mtime": 1720702382,
+                "sha1": "6ba417d46a966eb4a428414350f9fc0c628f4c4d",
+                "size": 175,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/mp68/union_cabina_original.png": {
+                "mtime": 1704732260,
+                "sha1": "7e3a5cabad76ff91cc77db111dee399274e13581",
+                "size": 1592,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/acople.png": {
+                "mtime": 1720714624,
+                "sha1": "202811a73515cf91cb596d2287545c8e9c0cdbef",
+                "size": 2043,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/asiento_verde.png": {
+                "mtime": 1720714624,
+                "sha1": "3d41548fe41e6203cb3d5e5cf4690646c0993a85",
+                "size": 165,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/bogie.png": {
+                "mtime": 1720714624,
+                "sha1": "01ff2a13b64ea0e3716951e67223c8b06dc72ae9",
+                "size": 64511,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/bogie_motor.png": {
+                "mtime": 1720714574,
+                "sha1": "f89ee59d15ed697a9d945ab34768f9fb3c29dadb",
+                "size": 69812,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/borde_puerta.png": {
+                "mtime": 1720714624,
+                "sha1": "67ed828a650edf355320ca3bc25e292a9aaa2691",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_exterior_p1.png": {
+                "mtime": 1720714574,
+                "sha1": "59f1150a3e50348b9679b232809264407b3e4ff1",
+                "size": 8392,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_exterior_p2.png": {
+                "mtime": 1720714574,
+                "sha1": "b02027d3536a00ffc08f9748bcf4195de544c2c4",
+                "size": 5489,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_interior_p1_alt.png": {
+                "mtime": 1720714574,
+                "sha1": "0c9a085fde7b7cec5848a485b2721f88bd2385d7",
+                "size": 8391,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_interior_p2_alt.png": {
+                "mtime": 1720714574,
+                "sha1": "29e888d693f4b4061fafaf3b05fc3e45a53a5239",
+                "size": 4103,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_lateral_exterior.png": {
+                "mtime": 1704658468,
+                "sha1": "f45984d7d0ea4430f7408b91f55bbd2edc6076b3",
+                "size": 9838,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_lateral_exterior_alt.png": {
+                "mtime": 1720714438,
+                "sha1": "8dde2e9e836dcafc5e9bd6a26b4f340bb34ba685",
+                "size": 13521,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/cabina_lateral_interior_alt.png": {
+                "mtime": 1720714574,
+                "sha1": "eea087443170d97a3beb9060e53805bc9d42b208",
+                "size": 12304,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/color_asiento_verde.png": {
+                "mtime": 1720714624,
+                "sha1": "612d4416d83fcf4ca06cde15c3f3037e1f87c4d8",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/color_bogie.png": {
+                "mtime": 1720714624,
+                "sha1": "162ab72fc7b6ab616dd10eb50ca70674566c704d",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/color_lateral_interior.png": {
+                "mtime": 1720714624,
+                "sha1": "84351caa9900da6a1590d084496f6a5deb536be1",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/color_relieve_cabina.png": {
+                "mtime": 1720714574,
+                "sha1": "093c616558f1ba9101ef85f7713747ffdb5d2b8a",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/contorno_luz.png": {
+                "mtime": 1720714574,
+                "sha1": "f778b71b5dd6d7a565082d91ff5cd0b09eb6a98c",
+                "size": 2263,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/credits.png": {
+                "mtime": 1720714574,
+                "sha1": "3b7ea9c8406d6e98a1e3c3f3929e0bb4ed15aca9",
+                "size": 20000,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/exterior.png": {
+                "mtime": 1720714624,
+                "sha1": "4b320abdb4130cf8aa5a08fa6d8428a873e13325",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/fluorescente.png": {
+                "mtime": 1720714624,
+                "sha1": "2b104a495446e9e8e4042faea480c5e67d3ead93",
+                "size": 8046,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/indicador_alt.png": {
+                "mtime": 1720714574,
+                "sha1": "659e53e85e58c773a717aaa8f021561dfb5ffb87",
+                "size": 38982,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/interior_cabina_alt.png": {
+                "mtime": 1720714574,
+                "sha1": "72d65b69f4bdee536dd8fc977ca83c01e397cc8c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/lado_contorno_luz.png": {
+                "mtime": 1720714574,
+                "sha1": "3b04e0e1d2e336cd786c2e35f5b1793a77aaba12",
+                "size": 270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/lateral_exterior_alt.png": {
+                "mtime": 1720714438,
+                "sha1": "7417c3b4f3dff012dce77bd00afc7e970c2020df",
+                "size": 110146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/lateral_exterior_rehabilitado.png": {
+                "mtime": 1704633476,
+                "sha1": "3ce2f24f3483b962d5376a5c91b0880bb6513106",
+                "size": 36787,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/lateral_interior_alt.png": {
+                "mtime": 1720714624,
+                "sha1": "7c12ce9bf7a78674e5991f96466f62332bfc9d4c",
+                "size": 87360,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/logo_cdmx.png": {
+                "mtime": 1720714406,
+                "sha1": "cb2bf62128f40efc878475a80ba9648180bf36b6",
+                "size": 7090,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/logo_metro_2.png": {
+                "mtime": 1720714438,
+                "sha1": "716d275af3d1902158a44f0955dfa0763cadb8ea",
+                "size": 4738,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/luz_blanca.png": {
+                "mtime": 1720714574,
+                "sha1": "8719cca99d15ffbeb0944fba3d23e80dfb773e0d",
+                "size": 1563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/luz_roja.png": {
+                "mtime": 1720714574,
+                "sha1": "c7c7aa1b6b920d8d652293a08f5e37486ab77bf1",
+                "size": 3331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/metal.png": {
+                "mtime": 1720714624,
+                "sha1": "25dd4deb8021394a03adfc85ecb599143d3ed5c4",
+                "size": 1462,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor.mtl": {
+                "mtime": 1720714574,
+                "sha1": "14aec77e5b9dc25286fbe804eb0f55f6c3e826b7",
+                "size": 2566,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor.obj": {
+                "mtime": 1720714574,
+                "sha1": "9fab95e3e61dcc23c88a21b15e7d25ceb9ee57c5",
+                "size": 362879,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor_cdmx.mtl": {
+                "mtime": 1720714406,
+                "sha1": "43e5f067306740e37619b0d15ce65aa011a0fd92",
+                "size": 2698,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor_cdmx.obj": {
+                "mtime": 1720714406,
+                "sha1": "fe639d16e2cb876c98debbe937bba76d86e2ec16",
+                "size": 367363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor_verde.mtl": {
+                "mtime": 1720714438,
+                "sha1": "d775004f4463bf13edf32cbae9be3237d7979914",
+                "size": 2631,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/motor_verde.obj": {
+                "mtime": 1720714438,
+                "sha1": "d7aabf0306cdb01a647d8a758f64e56e74c9e5a0",
+                "size": 364126,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/numero.png": {
+                "mtime": 1704654926,
+                "sha1": "999e2ec9627c48479ab6c69db2459059cf69b9d7",
+                "size": 13718,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/numero_mc-82.png": {
+                "mtime": 1720714574,
+                "sha1": "b538b3e5cecc426362b070569f9a559a13bc8afd",
+                "size": 10444,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/puerta.png": {
+                "mtime": 1720714624,
+                "sha1": "6c6911def8c40e50af754f74b142a20b79a9cdec",
+                "size": 15864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/puerta_exterior.png": {
+                "mtime": 1720714624,
+                "sha1": "bfe78fd0f2bc4c804263482f01a8aae68cb7692a",
+                "size": 19642,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/puerta_interior_alt.png": {
+                "mtime": 1720714624,
+                "sha1": "7b5617b5aabfb027bff43caf56f2d94dc16a0eda",
+                "size": 22139,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/relieve_cabina.png": {
+                "mtime": 1720714574,
+                "sha1": "fe3383045df62795c7f452725ec2765f7ca6851d",
+                "size": 3013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/remolque.mtl": {
+                "mtime": 1720714624,
+                "sha1": "c2c3fa96fbc436802bbd55d8169f0ba3f989ba52",
+                "size": 1237,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/remolque.obj": {
+                "mtime": 1720714624,
+                "sha1": "df35640aa4c016aac8b14ec559706cfcb08fff11",
+                "size": 338028,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/remolque_verde.mtl": {
+                "mtime": 1720714598,
+                "sha1": "430bd6641183bd65750459249ae1b137eb22635a",
+                "size": 1226,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/remolque_verde.obj": {
+                "mtime": 1720714598,
+                "sha1": "4b5c172e0c7f8363c57e010a5f31eb89ef443171",
+                "size": 338034,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/rueda.png": {
+                "mtime": 1720714624,
+                "sha1": "4059b26d3580b8a29b6f405d0b25a82dcef250b5",
+                "size": 26435,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/suelo.png": {
+                "mtime": 1720714624,
+                "sha1": "5b7ca2c1720443424027aa53fd8044a131458b6f",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/union_cabina.png": {
+                "mtime": 1720714574,
+                "sha1": "6ba417d46a966eb4a428414350f9fc0c628f4c4d",
+                "size": 175,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nc82/vagon_exterior_alt.png": {
+                "mtime": 1720714598,
+                "sha1": "695e8fb9e6a546012ec71e6775578620ed35af1e",
+                "size": 107553,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/acople.png": {
+                "mtime": 1720716038,
+                "sha1": "202811a73515cf91cb596d2287545c8e9c0cdbef",
+                "size": 2043,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/asiento.png": {
+                "mtime": 1720716038,
+                "sha1": "45376572dbfbca2ec74aa188d56346b2fc9998f0",
+                "size": 165,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/bandera_nacional.png": {
+                "mtime": 1720716038,
+                "sha1": "b12b559db7b098442504ecdb7102f22efb6b6a52",
+                "size": 48438,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/bogie.png": {
+                "mtime": 1720716038,
+                "sha1": "01ff2a13b64ea0e3716951e67223c8b06dc72ae9",
+                "size": 64511,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/bogie_motor.png": {
+                "mtime": 1720716038,
+                "sha1": "f89ee59d15ed697a9d945ab34768f9fb3c29dadb",
+                "size": 69812,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/borde_puerta.png": {
+                "mtime": 1720716038,
+                "sha1": "67ed828a650edf355320ca3bc25e292a9aaa2691",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_exterior_p1.png": {
+                "mtime": 1720716038,
+                "sha1": "d752962cbec155b10f21a4c75fd108ce5f11d2ae",
+                "size": 11919,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_exterior_p2.png": {
+                "mtime": 1720716038,
+                "sha1": "54a6d744501fa5d646ff43957ab2fa23e8c2f08a",
+                "size": 2855,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_interior_p1.png": {
+                "mtime": 1720716038,
+                "sha1": "a991e29ec5516e6717308a3252919b2fd85152be",
+                "size": 10355,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_interior_p2.png": {
+                "mtime": 1704871668,
+                "sha1": "872553b2fb2ad7255302e6d8c1f58e246c01d884",
+                "size": 2075,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_lateral.png": {
+                "mtime": 1720716038,
+                "sha1": "bd7e4ad4fa4c7523542d45a4d78ff54508671aab",
+                "size": 20411,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/cabina_lateral_interior.png": {
+                "mtime": 1720716038,
+                "sha1": "ce23e2a02c3923354156555735b42ee0eb7576ed",
+                "size": 20305,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/color_asiento.png": {
+                "mtime": 1720716038,
+                "sha1": "2d6eebfbec71650390b2945429f0dc8461c0ac85",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/color_bogie.png": {
+                "mtime": 1720716038,
+                "sha1": "162ab72fc7b6ab616dd10eb50ca70674566c704d",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/color_lateral_interior.png": {
+                "mtime": 1720716038,
+                "sha1": "84351caa9900da6a1590d084496f6a5deb536be1",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/credits.png": {
+                "mtime": 1720716038,
+                "sha1": "3b7ea9c8406d6e98a1e3c3f3929e0bb4ed15aca9",
+                "size": 20000,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/exterior.png": {
+                "mtime": 1720716038,
+                "sha1": "4b320abdb4130cf8aa5a08fa6d8428a873e13325",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/fluorescente.png": {
+                "mtime": 1720716038,
+                "sha1": "2b104a495446e9e8e4042faea480c5e67d3ead93",
+                "size": 8046,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/indicador.png": {
+                "mtime": 1720716038,
+                "sha1": "1c53dc887f8d2a96012d31924a13f4bb1ccc2d93",
+                "size": 15039,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/interior_cabina_alt.png": {
+                "mtime": 1720716038,
+                "sha1": "72d65b69f4bdee536dd8fc977ca83c01e397cc8c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/lateral_exterior.png": {
+                "mtime": 1720716038,
+                "sha1": "f68f41bbed5cf82850fcff68de0ae86632072bee",
+                "size": 103181,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/lateral_interior_alt.png": {
+                "mtime": 1720716038,
+                "sha1": "7c12ce9bf7a78674e5991f96466f62332bfc9d4c",
+                "size": 87360,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/luz_blanca.png": {
+                "mtime": 1720716038,
+                "sha1": "8719cca99d15ffbeb0944fba3d23e80dfb773e0d",
+                "size": 1563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/luz_roja.png": {
+                "mtime": 1720716038,
+                "sha1": "c7c7aa1b6b920d8d652293a08f5e37486ab77bf1",
+                "size": 3331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/metal.png": {
+                "mtime": 1720716038,
+                "sha1": "25dd4deb8021394a03adfc85ecb599143d3ed5c4",
+                "size": 1462,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/motor.mtl": {
+                "mtime": 1720716038,
+                "sha1": "e9b389b6e36f21993ede2dad38a7301c201106a7",
+                "size": 2079,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/motor.obj": {
+                "mtime": 1720716038,
+                "sha1": "8b24a1bc117d96cb127e2181a7966d31bcf313b3",
+                "size": 350363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/puerta.png": {
+                "mtime": 1720716038,
+                "sha1": "6c6911def8c40e50af754f74b142a20b79a9cdec",
+                "size": 15864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/puerta_exterior.png": {
+                "mtime": 1720716038,
+                "sha1": "bfe78fd0f2bc4c804263482f01a8aae68cb7692a",
+                "size": 19642,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/puerta_interior_alt.png": {
+                "mtime": 1720716038,
+                "sha1": "7b5617b5aabfb027bff43caf56f2d94dc16a0eda",
+                "size": 22139,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/remolque.mtl": {
+                "mtime": 1720716024,
+                "sha1": "90933b8b42e88e7f41133c5fda62cb935bfb8355",
+                "size": 1212,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/remolque.obj": {
+                "mtime": 1720716024,
+                "sha1": "aa2ea0f701939b2ede8e3266a84781b6d1271d98",
+                "size": 340428,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/rueda.png": {
+                "mtime": 1720716038,
+                "sha1": "4059b26d3580b8a29b6f405d0b25a82dcef250b5",
+                "size": 26435,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/ne92/suelo.png": {
+                "mtime": 1720716038,
+                "sha1": "d26c640302ba847c6ce87b65dc4fe371a5df530c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/acople.png": {
+                "mtime": 1720717474,
+                "sha1": "202811a73515cf91cb596d2287545c8e9c0cdbef",
+                "size": 2043,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/asiento_azul.png": {
+                "mtime": 1720717474,
+                "sha1": "d7e1965937f8424672c9e3b6aeb3f5fa6576f7e3",
+                "size": 165,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/bogie.png": {
+                "mtime": 1720717474,
+                "sha1": "01ff2a13b64ea0e3716951e67223c8b06dc72ae9",
+                "size": 64511,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/bogie_motor.png": {
+                "mtime": 1720717474,
+                "sha1": "f89ee59d15ed697a9d945ab34768f9fb3c29dadb",
+                "size": 69812,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/borde_puerta.png": {
+                "mtime": 1720717474,
+                "sha1": "67ed828a650edf355320ca3bc25e292a9aaa2691",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_caf_p1.png": {
+                "mtime": 1720717474,
+                "sha1": "99c558783986aedf4023ea333d8bf60ddb3e6e36",
+                "size": 11907,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_caf_p1_recuperado.png": {
+                "mtime": 1704828188,
+                "sha1": "05c37fa5d0e84a8ef1d3ce8c8a9329139eab22f9",
+                "size": 31242,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_caf_p2.png": {
+                "mtime": 1704821028,
+                "sha1": "ae7bcb9e653b843262f9d38dd65547f85c79cef0",
+                "size": 2876,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_caf_p2_gris.png": {
+                "mtime": 1720717474,
+                "sha1": "a690aa1f2987c52aaca357144485c0c9c7619f21",
+                "size": 3110,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_caf_p2_recuperado.png": {
+                "mtime": 1704828248,
+                "sha1": "b58ca99ec8cfcb8519995131b03bee5575aa9dbb",
+                "size": 2546,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_p1.png": {
+                "mtime": 1720717250,
+                "sha1": "03c2be79782aec0465d864d7a6ccc44ee62c62f6",
+                "size": 8395,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_exterior_p2.png": {
+                "mtime": 1720717250,
+                "sha1": "b02027d3536a00ffc08f9748bcf4195de544c2c4",
+                "size": 5489,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_interior_caf_p1.png": {
+                "mtime": 1720717474,
+                "sha1": "48ef4ce9c6634175e962123f78ffe671d91c50b9",
+                "size": 10363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_interior_caf_p2.png": {
+                "mtime": 1720717474,
+                "sha1": "7ea9bcac42f7844e20d91421b081e77ef939fe52",
+                "size": 3094,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_interior_p1.png": {
+                "mtime": 1720717250,
+                "sha1": "b7d9477d0a02677e2375e1271c4076a2805f0d1f",
+                "size": 8397,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_interior_p2.png": {
+                "mtime": 1720717250,
+                "sha1": "0fe79ebbcd20d133452452b60c796463852311ca",
+                "size": 4106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_caf.png": {
+                "mtime": 1704826382,
+                "sha1": "419362b28056dcb8862f6acf6fa209342ad45272",
+                "size": 13173,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_caf_gris.png": {
+                "mtime": 1720717474,
+                "sha1": "6cb7fb6937117de7ac61fb74f9f849af4f23b193",
+                "size": 21306,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_caf_interior.png": {
+                "mtime": 1720717474,
+                "sha1": "c4b7b991d1c125b73a57aa6ed2a1612be5427a4f",
+                "size": 20429,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_caf_recuperado.png": {
+                "mtime": 1704828186,
+                "sha1": "a16ec755f3ebd2800f3b03dc4ee46350edc9be5b",
+                "size": 12178,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_exterior.png": {
+                "mtime": 1720717250,
+                "sha1": "aa00a16da59a22ef905c0205c668338f9308df7f",
+                "size": 13671,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/cabina_lateral_interior.png": {
+                "mtime": 1720717250,
+                "sha1": "fcec85bf69bdde347124ed4d21dd86a0188468b8",
+                "size": 12306,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/color_asiento_azul.png": {
+                "mtime": 1720717474,
+                "sha1": "156118d0b0261443f31561f5aa3a7acfa8820d0c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/color_bogie.png": {
+                "mtime": 1720717474,
+                "sha1": "162ab72fc7b6ab616dd10eb50ca70674566c704d",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/color_relieve_cabina.png": {
+                "mtime": 1720717250,
+                "sha1": "093c616558f1ba9101ef85f7713747ffdb5d2b8a",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/contorno_luz.png": {
+                "mtime": 1720717250,
+                "sha1": "f778b71b5dd6d7a565082d91ff5cd0b09eb6a98c",
+                "size": 2263,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/credits.png": {
+                "mtime": 1720717474,
+                "sha1": "3b7ea9c8406d6e98a1e3c3f3929e0bb4ed15aca9",
+                "size": 20000,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/exterior.png": {
+                "mtime": 1720717474,
+                "sha1": "4b320abdb4130cf8aa5a08fa6d8428a873e13325",
+                "size": 89,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/exterior_alt.png": {
+                "mtime": 1720717474,
+                "sha1": "093c616558f1ba9101ef85f7713747ffdb5d2b8a",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/exterior_alt_recuperado.png": {
+                "mtime": 1704828204,
+                "sha1": "9cbd6dd705a9047e463bf09e822492b3d1132c22",
+                "size": 1296,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/fluorescente.png": {
+                "mtime": 1720717474,
+                "sha1": "2b104a495446e9e8e4042faea480c5e67d3ead93",
+                "size": 8046,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/indicador.png": {
+                "mtime": 1720717250,
+                "sha1": "e26ba4586d6449e5414ba8f841fdfe3b1701759a",
+                "size": 16114,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/indicador_caf.png": {
+                "mtime": 1720717474,
+                "sha1": "58ae64779e4c21566d59bb762e4e5db8b3553570",
+                "size": 24556,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/interior.png": {
+                "mtime": 1704581592,
+                "sha1": "b2a75b6c42f4d52a13b8318a7b905275e4952c00",
+                "size": 1296,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/interior_cabina.png": {
+                "mtime": 1720717474,
+                "sha1": "199602ebb580ad1c443069d52ae498200cdcc63c",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/lado_contorno_luz.png": {
+                "mtime": 1720717250,
+                "sha1": "3b04e0e1d2e336cd786c2e35f5b1793a77aaba12",
+                "size": 270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/lateral_exterior_caf.png": {
+                "mtime": 1720717474,
+                "sha1": "a97edc9d85635ce6b33300792e88707239031cb2",
+                "size": 110143,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/lateral_exterior_caf_recuperado.png": {
+                "mtime": 1704828426,
+                "sha1": "5136cbb8490beaee0f66b0b5815999bbf335597c",
+                "size": 33536,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/lateral_exterior_rehabilitado.png": {
+                "mtime": 1720717250,
+                "sha1": "c462d7c70a8c38b82da12d8c75c7e2018bf27adc",
+                "size": 112264,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/lateral_interior.png": {
+                "mtime": 1720717474,
+                "sha1": "e55e1afe675551cd9c74309d52a4e6e3bc825a3d",
+                "size": 87019,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/logo_metro_2.png": {
+                "mtime": 1704656502,
+                "sha1": "133fdaeec6843477e9a405ea914d371525762b50",
+                "size": 6475,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/luz.png": {
+                "mtime": 1720717474,
+                "sha1": "64bbfc64a10ee53f0a528c696552567b207a1212",
+                "size": 8105,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/luz_blanca.png": {
+                "mtime": 1720717474,
+                "sha1": "8719cca99d15ffbeb0944fba3d23e80dfb773e0d",
+                "size": 1563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/luz_roja.png": {
+                "mtime": 1720717474,
+                "sha1": "c7c7aa1b6b920d8d652293a08f5e37486ab77bf1",
+                "size": 3331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/metal.png": {
+                "mtime": 1720717474,
+                "sha1": "25dd4deb8021394a03adfc85ecb599143d3ed5c4",
+                "size": 1462,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor.mtl": {
+                "mtime": 1720717250,
+                "sha1": "e0cfb94a37bdab61162c7be4797c80b40e61c4eb",
+                "size": 2676,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor.obj": {
+                "mtime": 1720717250,
+                "sha1": "ba2aa35b9b3be879bdb132dc7f5b8344403ef2ea",
+                "size": 351845,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor_caf.mtl": {
+                "mtime": 1720717474,
+                "sha1": "7b41eee7edb96c7e0c936ba812c174facc1577fa",
+                "size": 2331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor_caf.obj": {
+                "mtime": 1720717474,
+                "sha1": "e61469b7618a4089c4dc32acbf26f65458e6ee67",
+                "size": 341564,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor_caf_recuperado.mtl": {
+                "mtime": 1720717240,
+                "sha1": "b5d9caaef3fa9767896d6563d342640c69204b77",
+                "size": 2426,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/motor_caf_recuperado.obj": {
+                "mtime": 1720717240,
+                "sha1": "d1ee7edb39b8ca333a49c5f8079a515e80553d80",
+                "size": 342728,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/numero.png": {
+                "mtime": 1704789542,
+                "sha1": "6edd9cbd6ba24c2ab57af98dd005ee87c36a14da",
+                "size": 10247,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/numero_mc-82.png": {
+                "mtime": 1720717250,
+                "sha1": "b538b3e5cecc426362b070569f9a559a13bc8afd",
+                "size": 10444,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/puerta.png": {
+                "mtime": 1720717474,
+                "sha1": "6c6911def8c40e50af754f74b142a20b79a9cdec",
+                "size": 15864,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/puerta_cabina_interior.png": {
+                "mtime": 1720717474,
+                "sha1": "e86044be382428621568e6121b9c86a102ebaf1f",
+                "size": 22385,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/puerta_exterior.png": {
+                "mtime": 1720717474,
+                "sha1": "65b17e7cf25db7f9b60a7e12ff5acacb18ff39a1",
+                "size": 19814,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/puerta_interior.png": {
+                "mtime": 1720717474,
+                "sha1": "f80c6f785f2bb86a0d3f8f6394fdf7dd979fb981",
+                "size": 22129,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/rehabilitado.png": {
+                "mtime": 1720717250,
+                "sha1": "b9b8ff573fa06153ae5b9022b8e31ba27c9afbbc",
+                "size": 50289,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/relieve_cabina.png": {
+                "mtime": 1720717250,
+                "sha1": "fe3383045df62795c7f452725ec2765f7ca6851d",
+                "size": 3013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/remolque.mtl": {
+                "mtime": 1720717298,
+                "sha1": "6af3c8e88c460a0cb7fd8e0c6f5bcd6f539f610a",
+                "size": 1135,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/remolque.obj": {
+                "mtime": 1720717298,
+                "sha1": "f9c693b368c0ba80320fd9e06b836456c0879d60",
+                "size": 326828,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/remolque_recuperado.mtl": {
+                "mtime": 1720717308,
+                "sha1": "774d4599caf3484ae0c1ee6c8c9946ac7a7a2b3b",
+                "size": 1139,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/remolque_recuperado.obj": {
+                "mtime": 1720717308,
+                "sha1": "f8b1b8f773b32c7d41376c6b913a2e26627d361c",
+                "size": 326839,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/rueda.png": {
+                "mtime": 1720717474,
+                "sha1": "4059b26d3580b8a29b6f405d0b25a82dcef250b5",
+                "size": 26435,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/suelo.png": {
+                "mtime": 1720717474,
+                "sha1": "424bd352be9d3cb77b9aa85a7804e8e44eb7b8b7",
+                "size": 90,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/tqm.png": {
+                "mtime": 1720717240,
+                "sha1": "68b309ef7c305393af6acfe9b1c7c7d36c6c5f70",
+                "size": 9409,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/union_cabina.png": {
+                "mtime": 1720717250,
+                "sha1": "b114f8e760b8c065768aa1c08e55de41933b2a79",
+                "size": 173,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/union_cabina_caf.png": {
+                "mtime": 1704821296,
+                "sha1": "bcaec0a9456f58f40a731332c2dea5ac45527851",
+                "size": 1782,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/union_cabina_caf_gris.png": {
+                "mtime": 1720717474,
+                "sha1": "64a86973c8e25862b5ade91360dec7921dbcc7fd",
+                "size": 175,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/union_cabina_caf_recuperado.png": {
+                "mtime": 1704828184,
+                "sha1": "a83954a8053cf561bf06ef9e4e7e497a43c1026f",
+                "size": 1521,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/vagon_exterior.png": {
+                "mtime": 1720717298,
+                "sha1": "38acececad99d19771d340537502acd33717f8ff",
+                "size": 108518,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/jcibravo/nm73/vagon_exterior_alt.png": {
+                "mtime": 1704828392,
+                "sha1": "8c249717fc298cae284657ea21b9a41931b7c20d",
+                "size": 31993,
+                "blame": "chaodee0724"
+            },
             "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744647763,
-                "sha1": "6710ef85ca2dfe8c3a17cba6077d3dde52a7b153",
-                "size": 53931,
+                "mtime": 1744648114,
+                "sha1": "a9d0477dbb81d7b4c3d8e00645adce2d2ffd61c3",
+                "size": 67694,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_fm86_door/door_close.ogg": {
+                "mtime": 1705266216,
+                "sha1": "6e3ac4f5b38fb06e0739a3f23d904e97306638e2",
+                "size": 43523,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_fm86_door/door_open.ogg": {
+                "mtime": 1682363572,
+                "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
+                "size": 29106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_mp68_door/door_close.ogg": {
+                "mtime": 1704650208,
+                "sha1": "931a4b87068fcfe25b622b864bfb58704a03ee08",
+                "size": 45530,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_mp68_door/door_open.ogg": {
+                "mtime": 1682363572,
+                "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
+                "size": 29106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_mp68_original_door/door_close.ogg": {
+                "mtime": 1704650266,
+                "sha1": "b04630351d2b6ad511565e4c6a2e6da89d193011",
+                "size": 31218,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_mp68_original_door/door_open.ogg": {
+                "mtime": 1682363572,
+                "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
+                "size": 29106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_ne92_door/door_close.ogg": {
+                "mtime": 1704831092,
+                "sha1": "655665e2ece297bda0448b22153a9dfb049ada65",
+                "size": 43260,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_ne92_door/door_open.ogg": {
+                "mtime": 1682363572,
+                "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
+                "size": 29106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_nm73_door/door_close.ogg": {
+                "mtime": 1704831384,
+                "sha1": "b1aad5129b8a1c05d7159e418956a77152e57985",
+                "size": 41380,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/stcmetro_nm73_door/door_open.ogg": {
+                "mtime": 1682363572,
+                "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
+                "size": 29106,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1744648139,
+                "sha1": "ceea079620a8698cc3c72e4ad0a9837bbf62752d",
+                "size": 61012,
                 "blame": "chaodee0724"
             }
         }

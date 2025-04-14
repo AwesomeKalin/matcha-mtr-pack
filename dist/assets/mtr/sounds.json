@@ -2642,5 +2642,95 @@
                 "attenuation_distance": 64
             }
         ]
+    },
+    "stcmetro_mp68_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_mp68_door/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_mp68_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_mp68_door/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_mp68_original_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_mp68_original_door/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_mp68_original_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_mp68_original_door/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_nm73_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_nm73_door/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_nm73_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_nm73_door/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_fm86_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_fm86_door/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_fm86_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_fm86_door/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_ne92_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_ne92_door/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "stcmetro_ne92_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:stcmetro_ne92_door/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
