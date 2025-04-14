@@ -1027,6 +1027,34 @@
 			"texture_id": "mtr:class_321/class321_ga_17.png",
 			"model": "mtr:class_321/class_321_17.bbmodel",
 			"model_properties": "mtr:class_321/class_321_17.json"
+		},
+		"153_a": {
+			"name": "British Rail Class 153 (\"A\" cab facing front)",
+			"wikipedia_article": "British_Rail_Class_153",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:class153/153",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"bve_sound_base_id": "153",
+			"rider_offset": 0,
+			"texture_id": "mtr:class153/153.png",
+			"model": "mtr:class153/153_a.bbmodel",
+			"model_properties": "mtr:class153/153_a.json"
+		},
+		"153_b": {
+			"name": "British Rail Class 153 (\"B\" cab facing front)",
+			"wikipedia_article": "British_Rail_Class_153",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:class153/153",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"bve_sound_base_id": "153",
+			"rider_offset": 0,
+			"texture_id": "mtr:class153/153.png",
+			"model": "mtr:class153/153_b.bbmodel",
+			"model_properties": "mtr:class153/153_b.json"
 		}
 	},
 	"custom_signs": {
