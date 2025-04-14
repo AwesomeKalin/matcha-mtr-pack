@@ -2090,5 +2090,205 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "b90_air": {
+        "sounds": [
+            {
+                "name": "mtr:b90/air",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:b90/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_cpend": {
+        "sounds": [
+            {
+                "name": "mtr:b90/cpend",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_cploop": {
+        "sounds": [
+            {
+                "name": "mtr:b90/cploop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_cpstart": {
+        "sounds": [
+            {
+                "name": "mtr:b90/cpstart",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:b90/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:b90/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_flange0": {
+        "sounds": [
+            {
+                "name": "mtr:b90/flange0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_loop": {
+        "sounds": [
+            {
+                "name": "mtr:b90/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:b90/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_point": {
+        "sounds": [
+            {
+                "name": "mtr:b90/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run0": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run1": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run2": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run3": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run4": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run5": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run6": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_run7": {
+        "sounds": [
+            {
+                "name": "mtr:b90/run7",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
