@@ -364,6 +364,16 @@
                 "blame": [
                     "matcha"
                 ]
+            },
+            "assets/novalogin": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/novalogin/lang": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -6132,6 +6142,18 @@
                 "sha1": "ceea079620a8698cc3c72e4ad0a9837bbf62752d",
                 "size": 61012,
                 "blame": "matcha"
+            },
+            "assets/novalogin/lang/en_us.json": {
+                "mtime": 1744651532,
+                "sha1": "21478d99843d7c9ab0c8c6a0ef9e715bc49507e2",
+                "size": 1652,
+                "blame": "chaodee0724"
+            },
+            "assets/novalogin/lang/zh_cn.json": {
+                "mtime": 1744651532,
+                "sha1": "e09745f3fcce38d232acdbdc47b647d5d4bb13df",
+                "size": 1606,
+                "blame": "chaodee0724"
             }
         }
     },
