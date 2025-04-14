@@ -298,6 +298,16 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/dmrp83": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/dmrp86": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -4045,12 +4055,6 @@
                 "size": 593623,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744647384,
-                "sha1": "451586dd3f3ac69baee8d980a96fe56ae0cdb399",
-                "size": 52642,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/metrocar/airhigh.ogg": {
                 "mtime": 1739444091,
                 "sha1": "b9a9e2b4eefc3203e44727837b190dfe3dd0e2f2",
@@ -4145,6 +4149,42 @@
                 "mtime": 1744647400,
                 "sha1": "84d7d70489f1c2a4ae501a12a4f8b79e9c18da93",
                 "size": 58626,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp83/xg919_3door.bbmodel": {
+                "mtime": 1732906715,
+                "sha1": "7164a4eb340575083c76dcd7f65a6c7f99eeb286",
+                "size": 1125088,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp83/xg919_3door.json": {
+                "mtime": 1732907107,
+                "sha1": "74270e9c62ea083ea1a11c9da36b5066bddfa361",
+                "size": 15536,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp83/xg919_3door.png": {
+                "mtime": 1732906715,
+                "sha1": "3ff828a631b2cd35b409d82e04dcf0b02e613af0",
+                "size": 456589,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp86/xg919_3door.bbmodel": {
+                "mtime": 1732906668,
+                "sha1": "2ac87501b9da97417b574ac3310ade4ac886a735",
+                "size": 1120536,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp86/xg919_3door.png": {
+                "mtime": 1732906668,
+                "sha1": "1c31ca3e7a99bb2fd6348885434de6537884b48c",
+                "size": 453398,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744647763,
+                "sha1": "6710ef85ca2dfe8c3a17cba6077d3dde52a7b153",
+                "size": 53931,
                 "blame": "chaodee0724"
             }
         }

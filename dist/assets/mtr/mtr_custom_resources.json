@@ -1223,6 +1223,40 @@
 			"texture_id": "mtr:metrocar/metrocar_rnet",
 			"model": "mtr:metrocar/metrocar.bbmodel",
 			"model_properties": "mtr:metrocar/metrocar.json"
+		},
+		"xg919_dmr": {
+			"name": "DMR P83 Stock",
+			"description": "First generation DMR rolling stock.\nIn Service: 1983 - Now",
+			"wikipedia_article": "",
+			"color": "2EA2C3",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"train_barrier_id": "mtr:textures/entity/mlr",
+			"door_animation_type": "R179",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:dmrp83/xg919_3door",
+			"model": "mtr:dmrp83/xg919_3door.bbmodel",
+			"model_properties": "mtr:dmrp83/xg919_3door.json",
+			"speed_sound_base_id": "mlr",
+			"speed_sound_count": 118,
+			"door_sound_base_id": "m_train"
+		},
+		"dmrp86": {
+			"name": "DMR P86 Stock",
+			"description": "First generation DMR rolling stock with a facelift.\nIn Service: 1986 - Now",
+			"wikipedia_article": "",
+			"color": "2EA2C3",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"train_barrier_id": "mtr:textures/entity/mlr",
+			"door_animation_type": "R179",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:dmrp86/xg919_3door",
+			"model": "mtr:dmrp86/xg919_3door.bbmodel",
+			"model_properties": "mtr:dmrp83/xg919_3door.json",
+			"speed_sound_base_id": "mlr",
+			"speed_sound_count": 118,
+			"door_sound_base_id": "m_train"
 		}
 	},
 	"custom_signs": {
