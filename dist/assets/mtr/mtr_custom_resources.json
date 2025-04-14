@@ -466,6 +466,344 @@
 			"texture_id": "mtr:custom_directory/b_90_long_mini/b_90_mini_classic2b",
 			"model": "mtr:custom_directory/b_90_long_mini/b_90_long_mini2.bbmodel",
 			"model_properties": "mtr:custom_directory/b_90_long_mini/b_90_mini.json"
+		},
+		"briddle_rail_class_320": {
+			"name": "Briddle Rail Class 320 (Regional)",
+			"description": "Class 320 Commutra is an AC Electric Multiple Unit that runs on the regional mainlines.",
+			"wikipedia_article": "",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:commutras/class320",
+			"model": "mtr:commutras/class320.bbmodel",
+			"model_properties": "mtr:commutras/class320.json",
+			"bve_sound_base_id": "aventra"
+		},
+		"briddle_rail_class_320_white": {
+			"name": "Briddle Rail Class 320 (Blank)",
+			"description": "Class 320 Commutra is an AC Electric Multiple Unit that runs on the regional mainlines.",
+			"wikipedia_article": "",
+			"color": "FFFFFF",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:commutras/class320blank",
+			"model": "mtr:commutras/class320.bbmodel",
+			"model_properties": "mtr:commutras/class320.json",
+			"bve_sound_base_id": "aventra"
+		},
+		"briddle_rail_class_420": {
+			"name": "Briddle Rail Class 420 (Regional)",
+			"description": "Unlike the Class 320, the Class 420 Commutra is a DC Electric Multiple Unit that runs on high density commuter lines or short regional lines.",
+			"wikipedia_article": "",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:commutras/class420",
+			"model": "mtr:commutras/class320.bbmodel",
+			"model_properties": "mtr:commutras/class420.json",
+			"bve_sound_base_id": "aventra"
+		},
+		"briddle_rail_class_420_white": {
+			"name": "Briddle Rail Class 420 (Blank)",
+			"description": "Unlike the Class 320, the Class 420 Commutra is a DC Electric Multiple Unit that runs on high density commuter lines or short regional lines.",
+			"wikipedia_article": "",
+			"color": "FFFFFF",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:commutras/class420blank",
+			"model": "mtr:commutras/class320.bbmodel",
+			"model_properties": "mtr:commutras/class420.json",
+			"bve_sound_base_id": "aventra"
+		},
+		"briddle_rail_class_420_commute": {
+			"name": "Briddle Rail Class 420 (Commute)",
+			"description": "Unlike the Class 320, the Class 420 Commutra is a DC Electric Multiple Unit that runs on high density commuter lines or short regional lines.",
+			"wikipedia_article": "",
+			"color": "3A008E",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:commutras/class420comm",
+			"model": "mtr:commutras/class320.bbmodel",
+			"model_properties": "mtr:commutras/class420.json",
+			"bve_sound_base_id": "aventra"
+		},
+		"briddle_rail_class_400_white": {
+			"name": "Briddle Rail Class 400 (Blank)",
+			"description": "The Briddle Rail Class 400 is the perfect train for short commuter branch lines. Sometimes however the trains can be seen running as 3-car variants on low-density commuter lines.",
+			"wikipedia_article": "",
+			"color": "FFFFFF",
+			"has_gangway_connection": false,
+			"door_animation_type": "R179",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:microlectrics/bdr_400",
+			"model": "mtr:microlectrics/bdr_400.bbmodel",
+			"model_properties": "mtr:microlectrics/bdr_400.json",
+			"bve_sound_base_id": "microelectric"
+		},
+		"briddle_rail_class_400_commute": {
+			"name": "Briddle Rail Class 400 (Commute)",
+			"description": "The Briddle Rail Class 400 is the perfect train for short commuter branch lines. Sometimes however the trains can be seen running as 3-car variants on low-density commuter lines.",
+			"wikipedia_article": "",
+			"color": "3A008E",
+			"has_gangway_connection": false,
+			"door_animation_type": "R179",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:microlectrics/bdr_400_commute",
+			"model": "mtr:microlectrics/bdr_400.bbmodel",
+			"model_properties": "mtr:microlectrics/bdr_400.json",
+			"bve_sound_base_id": "microelectric"
+		},
+		"briddle_rail_class_200": {
+			"name": "Briddle Rail Class 200/0 (Regional)",
+			"description": "The Briddle Rail Class 200 is one of the first Diesel Electric multiple units to enter service. It is used primarily on unelectrified regional services.",
+			"wikipedia_article": "",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "BOUNCY_1",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/briddle_rail_class_200",
+			"model": "mtr:runner/briddle_rail_class_200.bbmodel",
+			"model_properties": "mtr:runner/briddle_rail_class_200.json",
+			"bve_sound_base_id": "demu"
+		},
+		"briddle_rail_class_200_1": {
+			"name": "Briddle Rail Class 200/1 (Regional)",
+			"description": "The Briddle Rail Class 200 is one of the first Diesel Electric multiple units to enter service. It is used primarily on unelectrified regional services.",
+			"wikipedia_article": "",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "BOUNCY_1",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/briddle_rail_class_200",
+			"model": "mtr:runner/briddle_rail_class_200.bbmodel",
+			"model_properties": "mtr:runner/briddle_rail_class_200_1.json",
+			"bve_sound_base_id": "demu"
+		},
+		"briddle_rail_class_202": {
+			"name": "Briddle Rail Class 202 (Regional)",
+			"description": "Following the success of the Class 200, Briddle Rail ordered new Class 202s to be used on medium-distance journeys. These trains are primarily used on main lines.",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/class202",
+			"model": "mtr:runner/class202_203.bbmodel",
+			"model_properties": "mtr:runner/class202.json",
+			"bve_sound_base_id": "demu"
+		},
+		"130": {
+			"name": "CLASS 130 TEST",
+			"description": "TEST TRAIN",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/class202",
+			"model": "mtr:runner/class202_203.bbmodel",
+			"model_properties": "mtr:runner/class202.json",
+			"bve_sound_base_id": "dmu"
+		},
+		"130old": {
+			"name": "CLASS 130 OLD TEST",
+			"description": "TEST TRAIN",
+			"color": "FF0000",
+			"gangway_connection_id": "mtr:empty/nothing",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/class202",
+			"model": "mtr:runner/class202_203.bbmodel",
+			"model_properties": "mtr:runner/class202.json",
+			"bve_sound_base_id": "olddmu"
+		},
+		"briddle_rail_class_203": {
+			"name": "Briddle Rail Class 203 (Regional)",
+			"description": "As the need to replace older slam-door units on rural routes became closer, Briddle Rail ordered a batch of Class 202 lookalikes called the Class 203s to be used on rural services & branch lines.",
+			"color": "FF0000",
+			"has_gangway_connection": false,
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:runner/class203",
+			"model": "mtr:runner/class202_203.bbmodel",
+			"model_properties": "mtr:runner/class203.json",
+			"bve_sound_base_id": "demu"
+		},
+		"ferry1": {
+			"name": "Ferry (Tiny)",
+			"description": "A very tiny ferry.",
+			"wikipedia_article": "",
+			"color": "002AFF",
+			"gangway_connection_id": "mtr:textures/entity/c100",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": -1,
+			"texture_id": "mtr:ferry1/ferry1",
+			"model": "mtr:ferry1/ferry1.bbmodel",
+			"model_properties": "mtr:ferry1/ferry1.json"
+		},
+		"ferry_medium": {
+			"name": "Ferry (Small)",
+			"description": "A small ferry.",
+			"wikipedia_article": "",
+			"color": "AD0890",
+			"gangway_connection_id": "",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0,
+			"texture_id": "mtr:ferry_medium/ferry_medium",
+			"model": "mtr:ferry_medium/ferry_medium.bbmodel",
+			"model_properties": "mtr:ferry_medium/ferry_medium.json"
+		}
+	},
+	"custom_signs": {
+		"commute_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/commute.png",
+			"custom_text": "Commute",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"commute_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/commute.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"mainland_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/mainland.png",
+			"custom_text": "Mainland",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"mainland_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/mainland.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"regional_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/regional.png",
+			"custom_text": "Regional",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"regional_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/regional.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"express_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/express.png",
+			"custom_text": "Express",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"express_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/express.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"underground_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/underground.png",
+			"custom_text": "Underground",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"underground_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/underground.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"lrt_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "Light Rail",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"lrt_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"trams_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/trams.png",
+			"custom_text": "Trams",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"trams_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/trams.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"cable_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "Cable Car",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"cable_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"buses_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/buses.png",
+			"custom_text": "Buses",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"buses_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/buses.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"ships_bdrt": {
+			"texture_id": "mtr:briddle_rail_sign/ships.png",
+			"custom_text": "Ships",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"ships_bdr": {
+			"texture_id": "mtr:briddle_rail_sign/ships.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
 		}
 	}
 }

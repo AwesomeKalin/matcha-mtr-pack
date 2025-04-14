@@ -1,0 +1,1 @@
+{"transport_mode":"BOAT","length":2,"width":2,"door_max":16,"parts":[{"name":"body","stage":"EXTERIOR","mirror":false,"skip_rendering_if_too_far":false,"door_offset":"NONE","render_condition":"ALL","positions":[[0,0]],"whitelisted_cars":"","blacklisted_cars":""}]}

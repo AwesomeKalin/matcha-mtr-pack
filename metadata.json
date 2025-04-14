@@ -96,6 +96,76 @@
                 "blame": [
                     "matcha"
                 ]
+            },
+            "assets/mtr/briddle_rail_sign": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/commutras": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/empty": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/ferry_medium": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/ferry1": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/microlectrics": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/runner": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/secret": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/aventra": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/demu": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/dmu": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/olddmu": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/textures": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/textures/block": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -104,18 +174,6 @@
                 "sha1": "d88b6e5367d6d7d0c7e862146095cbf72a3e4d41",
                 "size": 152,
                 "blame": "raw"
-            },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1742142962,
-                "sha1": "067432f5edf1b3471e1e056b4bb912d4679251f5",
-                "size": 19730,
-                "blame": "matcha"
-            },
-            "assets/mtr/sounds.json": {
-                "mtime": 1742142394,
-                "sha1": "3b36afc511b7edbd4bbf0076511b32ed61d6fe74",
-                "size": 18545,
-                "blame": "chaodee0724"
             },
             "assets/mtr/class508/508_connector_exterior.png": {
                 "mtime": 1663279080,
@@ -855,18 +913,6 @@
                 "size": 29019,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/sounds/microelectric/motor.ogg": {
-                "mtime": 1719505570,
-                "sha1": "3a4a397eb6a73274ffdacbd7269ecd7eab8a71f7",
-                "size": 43248,
-                "blame": "chaodee0724"
-            },
-            "assets/mtr/sounds/microelectric/sound.cfg": {
-                "mtime": 1719505572,
-                "sha1": "9893903ea76bd9ea5da8bd615a9ce177ab91a497",
-                "size": 992,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/class_710_overground/class_710_overground.bbmodel": {
                 "mtime": 1703005085,
                 "sha1": "1e59d2cf29e8ccb4d179a202a02ef0ed3d03554a",
@@ -1160,6 +1206,678 @@
                 "sha1": "6f74374197eb217829abb7c8592bedd885aa2975",
                 "size": 247116,
                 "blame": "matcha"
+            },
+            "assets/mtr/briddle_rail_sign/buses.png": {
+                "mtime": 1735328134,
+                "sha1": "483d10369d4c86128a4764ddc8623e3ea343ff0b",
+                "size": 2477,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/cable.png": {
+                "mtime": 1735328134,
+                "sha1": "2581ec02ee44926e0f8fd8a4ac9e87307195e8f5",
+                "size": 2104,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/commute.png": {
+                "mtime": 1735328134,
+                "sha1": "b2665d7e3df3ee33c8e5e9f707d41e380b60c34b",
+                "size": 1940,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/express.png": {
+                "mtime": 1735328133,
+                "sha1": "fab90c7c6acbfbb1c3415fea72ba258a6eedc8b2",
+                "size": 1819,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/lrt.png": {
+                "mtime": 1735328134,
+                "sha1": "d6eddda6b624ac4601c80129ac81aa789d3dded8",
+                "size": 833,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/mainland.png": {
+                "mtime": 1735328133,
+                "sha1": "2bbec11c0dbbef53344a3549e3b5c7fcaf27d961",
+                "size": 1308,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/regional.png": {
+                "mtime": 1735328133,
+                "sha1": "dc8ddb2f6f828dc9db50a4ace097b40938e39b8f",
+                "size": 1772,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/ships.png": {
+                "mtime": 1735328134,
+                "sha1": "b5ca20e8c43a1c0b57a7dc33f36f79d754f7726b",
+                "size": 1434,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/trams.png": {
+                "mtime": 1735328133,
+                "sha1": "05127226a408330a75888b0e8ea361b783577191",
+                "size": 1385,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/briddle_rail_sign/underground.png": {
+                "mtime": 1735328133,
+                "sha1": "540f1258db3bce9ceec291ad373fb86430414bef",
+                "size": 1571,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/Class 314 Idle.m4a": {
+                "mtime": 1735328131,
+                "sha1": "affbc4e04ea38117a164c052dc34f42e6967f505",
+                "size": 46884,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class320.bbmodel": {
+                "mtime": 1735328142,
+                "sha1": "81b1be53ee47feb6631102a83158d9a3933ac027",
+                "size": 903105,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class320.json": {
+                "mtime": 1735328142,
+                "sha1": "e8f5ea8345a82878d9e50d995bac8214f78e97ed",
+                "size": 24452,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class320.png": {
+                "mtime": 1735328142,
+                "sha1": "626fe2a24176553935355ca67097b1feba2fd250",
+                "size": 41750,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class320blank.png": {
+                "mtime": 1735328142,
+                "sha1": "17281bb6c0f11df5b64d949eefe3a741b2063c88",
+                "size": 40941,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class420.json": {
+                "mtime": 1735328142,
+                "sha1": "f3ad51c12dde9548b4c9f4096752cc4382d8ca39",
+                "size": 24242,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class420.png": {
+                "mtime": 1735328142,
+                "sha1": "836d1db0a47aab656fab83031c90e4376cde407f",
+                "size": 41711,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class420blank.png": {
+                "mtime": 1735328142,
+                "sha1": "ada3eb90ff78148dc6379cc8afa3a2a0115ba85b",
+                "size": 40929,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/commutras/class420comm.png": {
+                "mtime": 1735328142,
+                "sha1": "3fc9b6c473dfb2eddd300bd04bab8b0c4c97dfcf",
+                "size": 41632,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/empty/nothing_connector_exterior.png": {
+                "mtime": 1735328132,
+                "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/empty/nothing_connector_floor.png": {
+                "mtime": 1735328132,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/empty/nothing_connector_roof.png": {
+                "mtime": 1735328132,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/empty/nothing_connector_side.png": {
+                "mtime": 1735328132,
+                "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry1/ferry1.bbmodel": {
+                "mtime": 1735328131,
+                "sha1": "deee114482b9a98e6dcc191028bfe48043d58a75",
+                "size": 10870,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry1/ferry1.json": {
+                "mtime": 1735328131,
+                "sha1": "1e56c8863544c5d7eb6b1b2dd43e721796fba74d",
+                "size": 264,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry1/ferry1.png": {
+                "mtime": 1735328131,
+                "sha1": "c482e5765d9667e2cf5107d9e35f857f03971eb2",
+                "size": 2238,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry_medium/ferry_medium.bbmodel": {
+                "mtime": 1735328141,
+                "sha1": "a0caa2e5eac686ad9af964329eff4f7d7a0953fd",
+                "size": 15265,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry_medium/ferry_medium.json": {
+                "mtime": 1735328142,
+                "sha1": "bc9ea6df14c20d0130e6cee61dbbf2f6797e1d09",
+                "size": 6071,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/ferry_medium/ferry_medium.png": {
+                "mtime": 1735328141,
+                "sha1": "989fa81bea1dcd0434696650a987f25f4dd96df2",
+                "size": 7202,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/microlectrics/bdr_400.bbmodel": {
+                "mtime": 1735328132,
+                "sha1": "225088ac0df0d3622af0a58ef837a21ac4b6d5ae",
+                "size": 123873,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/microlectrics/bdr_400.json": {
+                "mtime": 1735328132,
+                "sha1": "46339dea6033f2f2fdd066987c1b8cc676386256",
+                "size": 9071,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/microlectrics/bdr_400.png": {
+                "mtime": 1735328132,
+                "sha1": "58dbc6124ca727f9e78f78227092b4b21b02d742",
+                "size": 10430,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/microlectrics/bdr_400_commute.png": {
+                "mtime": 1735328132,
+                "sha1": "6ba0d4dbbd1ecbc6d8110af846916bfda5c4bda0",
+                "size": 11010,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/briddle_rail_class_200.bbmodel": {
+                "mtime": 1735328132,
+                "sha1": "030b1f319fee90e0c7ae3093672498ff40d2e445",
+                "size": 271114,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/briddle_rail_class_200.json": {
+                "mtime": 1735328133,
+                "sha1": "fffa0d76e47665cb5c8595a207df5b94bcf5797b",
+                "size": 19321,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/briddle_rail_class_200.png": {
+                "mtime": 1735328133,
+                "sha1": "c975aa5944bc4bb4b486089adb2a9e6eda5e061d",
+                "size": 35415,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/briddle_rail_class_200_1.json": {
+                "mtime": 1735328133,
+                "sha1": "53b3e3c996b66c2fe0569e31846dee5df719c874",
+                "size": 19333,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/class202.json": {
+                "mtime": 1735328132,
+                "sha1": "aecf8cb8a28af25819a75a3c198bfe65ae5f0c63",
+                "size": 13628,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/class202.png": {
+                "mtime": 1735328133,
+                "sha1": "3ab12c427319b5f65f0a032eee9874ae5f712d9e",
+                "size": 33350,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/class202_203.bbmodel": {
+                "mtime": 1735328133,
+                "sha1": "9525cde4890084f3f90290ba93f80c7ec197a2c8",
+                "size": 319259,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/class203.json": {
+                "mtime": 1735328132,
+                "sha1": "d248bd19f390932859bc309c98ad0ae5b3efa8aa",
+                "size": 10657,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/runner/class203.png": {
+                "mtime": 1735328133,
+                "sha1": "11e212674a104afc3c78da99aacb0a515b91534f",
+                "size": 33385,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/secret/silliness.png": {
+                "mtime": 1735328142,
+                "sha1": "2588b115b5f6f7f29b871da39ea2571274acb992",
+                "size": 38710,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/secret/zep.ogg": {
+                "mtime": 1735328141,
+                "sha1": "f883df659c2eb14a3494c7ee50a9fd9b68012f6b",
+                "size": 56159,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/air.ogg": {
+                "mtime": 1735328138,
+                "sha1": "0579a5041aadfda564dcccda2a1ee936cd771a82",
+                "size": 8542,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/airzero.ogg": {
+                "mtime": 1735328139,
+                "sha1": "343e72cf80771d939bb63c45855ed2b330e179af",
+                "size": 8270,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/cpend.ogg": {
+                "mtime": 1735328140,
+                "sha1": "4086ecc417235657162977cb09bb4b8d7b8ef00c",
+                "size": 85308,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/cploop.ogg": {
+                "mtime": 1735328140,
+                "sha1": "09421987a1059afdbe9c13f38b58a68c3eda4aad",
+                "size": 66847,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/cpstart.ogg": {
+                "mtime": 1735328139,
+                "sha1": "45a326094cf8da2e608b111a9fe010a827e0930f",
+                "size": 57840,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/doorcls.ogg": {
+                "mtime": 1735328140,
+                "sha1": "213458ea1f224cadc59b18a621a6e661583ce5f8",
+                "size": 16913,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/dooropn.ogg": {
+                "mtime": 1735328138,
+                "sha1": "cd9b3634ece50ecf9fffeaeda46886d3d194c87b",
+                "size": 14455,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/flange0.ogg": {
+                "mtime": 1735328139,
+                "sha1": "13c6a59f390dc1f83f2d2644b7e219aa4d7ccbc6",
+                "size": 43013,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/loop.ogg": {
+                "mtime": 1735328140,
+                "sha1": "a0441550e3e268e4afe51ca4b933124fd3b3eaed",
+                "size": 93659,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/motor0.ogg": {
+                "mtime": 1735328140,
+                "sha1": "1897eaf0907ce5e25f4f82ca3b585c4c12913437",
+                "size": 11331,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/motor3.ogg": {
+                "mtime": 1735328140,
+                "sha1": "1216cc0c7218ab8e6b718bd9f8f3feb6fe1bc12c",
+                "size": 11802,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/motor5.ogg": {
+                "mtime": 1735328139,
+                "sha1": "e7cb757568c4dc531b15b710e8787f9ada913192",
+                "size": 11149,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/motor6.ogg": {
+                "mtime": 1735328138,
+                "sha1": "cf755d687b2941dd96902ac18761fb9c25e82840",
+                "size": 15563,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/point.ogg": {
+                "mtime": 1735328138,
+                "sha1": "de7c4528d2886d2f00b370ab7f17db0484933fd7",
+                "size": 16020,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run0.ogg": {
+                "mtime": 1735328139,
+                "sha1": "7613bdbca3fe03fba182d16a7debac6ef920e78f",
+                "size": 160621,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run1.ogg": {
+                "mtime": 1735328138,
+                "sha1": "794c083f87ce62efd477385dea494c24a8e7257d",
+                "size": 110460,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run2.ogg": {
+                "mtime": 1735328139,
+                "sha1": "6b5dcaa564f321fb69073f91d99e34cb522c9a23",
+                "size": 192363,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run3.ogg": {
+                "mtime": 1735328139,
+                "sha1": "ae4d3c7bd55fa0743c69d28ea90028cea13ec7bd",
+                "size": 110596,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run4.ogg": {
+                "mtime": 1735328140,
+                "sha1": "6af1a1e96997159e93973e6cdd6ce7c7cf467621",
+                "size": 190893,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run5.ogg": {
+                "mtime": 1735328140,
+                "sha1": "56990b754a51b0a0367d2968eee47fba419e0be3",
+                "size": 179895,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run6.ogg": {
+                "mtime": 1735328140,
+                "sha1": "dd62ba1f91a6eaeb514611445f15f7af5d53e4f4",
+                "size": 17552,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/run7.ogg": {
+                "mtime": 1735328139,
+                "sha1": "964dc0ad79a1451770ed24c451e80520c8849758",
+                "size": 183682,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/sound.cfg": {
+                "mtime": 1735328138,
+                "sha1": "ac0c72a9d94834fe839de6173364e998e12d03ff",
+                "size": 941,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/aventra/train.dat": {
+                "mtime": 1735328138,
+                "sha1": "3bf6f5821ce58fcf1968274ca897f56d410774a1",
+                "size": 29019,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/airhigh.ogg": {
+                "mtime": 1735328134,
+                "sha1": "511f367f247fb6d76f8cbf791e864b5dd29a8ad0",
+                "size": 60591,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/airzero.ogg": {
+                "mtime": 1735328136,
+                "sha1": "5aec240899c4e41a43fc8637303a9af349db76a4",
+                "size": 60591,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/brakefreq.csv": {
+                "mtime": 1735328135,
+                "sha1": "25d07ea514d6ce738aaa3389218cd067af4673d7",
+                "size": 56,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/brakevol.csv": {
+                "mtime": 1735328135,
+                "sha1": "104ff9a2ff72918c85c9d4e139790d61bab494a0",
+                "size": 51,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/doorcls.ogg": {
+                "mtime": 1735328136,
+                "sha1": "abe3b8751c5c664fbe4b777d58fe293af248850f",
+                "size": 40583,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/dooropn.ogg": {
+                "mtime": 1735328135,
+                "sha1": "1ae1f54eb2d96e20f049a6f97f911efb77b15ca0",
+                "size": 51639,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/loop.ogg": {
+                "mtime": 1735328136,
+                "sha1": "2b545eeb522fcf2c8145b9aac8cafb08f064c10e",
+                "size": 117341,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/motor1.ogg": {
+                "mtime": 1735328136,
+                "sha1": "43ec8582f8d245318f1808c36996c41053a0c4b8",
+                "size": 26962,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/powerfreq.csv": {
+                "mtime": 1735328135,
+                "sha1": "5ef2c8546e39e54f8f022d0030350ff2d8a561af",
+                "size": 57,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/powervol.csv": {
+                "mtime": 1735328136,
+                "sha1": "7f190fa4be020f3f308ded35d2705ca29fff43fe",
+                "size": 57,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/run2.ogg": {
+                "mtime": 1735328136,
+                "sha1": "b62a9a0aede03e33f981b8315be533017e169ff5",
+                "size": 373147,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/demu/sound.cfg": {
+                "mtime": 1735328135,
+                "sha1": "d217d1dd9d83cf0a9e119947b1e40b531401ffce",
+                "size": 1023,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/air.ogg": {
+                "mtime": 1735328141,
+                "sha1": "f4cb8e47c596eda1a7a3a52ab61bfc0c3d73cd69",
+                "size": 40874,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/brakefreq.csv": {
+                "mtime": 1735329082,
+                "sha1": "d0d6caf13effd6e4e11ffb65cf384e6d737b06cf",
+                "size": 76,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/brakevol.csv": {
+                "mtime": 1735328141,
+                "sha1": "f8d4dc58bd948eaad805dc5366d0721f636c67fb",
+                "size": 41,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/doorcls.ogg": {
+                "mtime": 1735333553,
+                "sha1": "89e830fa95273079deb94ad07bb4366aee0a20ad",
+                "size": 29875,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/dooropn.ogg": {
+                "mtime": 1735328141,
+                "sha1": "21a456e7f56026239146fe873a8814ce1a650c18",
+                "size": 22678,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/motor.ogg": {
+                "mtime": 1735328140,
+                "sha1": "f9f9d811a95e296e90463af0cf748e16db665cd1",
+                "size": 48116,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/point.ogg": {
+                "mtime": 1735328140,
+                "sha1": "f763034f143979058e21404f5ec4ef1d91eaf142",
+                "size": 29179,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/powerfreq.csv": {
+                "mtime": 1735329075,
+                "sha1": "d0d6caf13effd6e4e11ffb65cf384e6d737b06cf",
+                "size": 76,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/powervol.csv": {
+                "mtime": 1735328141,
+                "sha1": "45e165a686e7db526f996a8cbf90d98b6a9d74cf",
+                "size": 52,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/run.ogg": {
+                "mtime": 1735328141,
+                "sha1": "e83b699d718043c4343a6cfb3f702b4a403dd1c1",
+                "size": 182778,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/dmu/sound.cfg": {
+                "mtime": 1735333560,
+                "sha1": "e8a02316ad55b8b2f5a225f80394e411155adc96",
+                "size": 1006,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/airhigh.ogg": {
+                "mtime": 1735328137,
+                "sha1": "b4022e14a15571027534ec09a6becffc9200d3bb",
+                "size": 8830,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/airzero.ogg": {
+                "mtime": 1735328137,
+                "sha1": "859737028e5e8bbd687f7b81a8fb5c3f22d9227a",
+                "size": 28844,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/brakefreq.csv": {
+                "mtime": 1735328137,
+                "sha1": "f81206dc8b57e5e766401a160e832844c21431c8",
+                "size": 46,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/brakevol.csv": {
+                "mtime": 1735328137,
+                "sha1": "998bae3b2ab522a5c579aa4f1484b763d7def182",
+                "size": 53,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/doorcls.ogg": {
+                "mtime": 1735328137,
+                "sha1": "584cb036ea3ee3442c5c7e2f137aec55c05e585f",
+                "size": 60630,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/dooropn.ogg": {
+                "mtime": 1735328137,
+                "sha1": "967a167c3b5e84a4a370c945c322f5c8ec00de9f",
+                "size": 55268,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/motor.ogg": {
+                "mtime": 1735328136,
+                "sha1": "3a4a397eb6a73274ffdacbd7269ecd7eab8a71f7",
+                "size": 43248,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/powerfreq.csv": {
+                "mtime": 1735328137,
+                "sha1": "f81206dc8b57e5e766401a160e832844c21431c8",
+                "size": 46,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/powervol.csv": {
+                "mtime": 1735328137,
+                "sha1": "998bae3b2ab522a5c579aa4f1484b763d7def182",
+                "size": 53,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/run.ogg": {
+                "mtime": 1735328138,
+                "sha1": "9734ae52962c37b09998d94f013e5e05e587eae5",
+                "size": 106300,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/microelectric/sound.cfg": {
+                "mtime": 1735328137,
+                "sha1": "9893903ea76bd9ea5da8bd615a9ce177ab91a497",
+                "size": 992,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/brakefreq.csv": {
+                "mtime": 1735341545,
+                "sha1": "905a7c1a8a2572a6fb5615b7804a835bf3dbcea7",
+                "size": 60,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/brakevol.csv": {
+                "mtime": 1735328141,
+                "sha1": "f8d4dc58bd948eaad805dc5366d0721f636c67fb",
+                "size": 41,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/doorcls.ogg": {
+                "mtime": 1735343953,
+                "sha1": "1c61ab2fbe686c2eae7de87c39f395247abf5eac",
+                "size": 8809,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/dooropn.ogg": {
+                "mtime": 1735341898,
+                "sha1": "44de177751dcf47676219aaea26c81e880a71ee2",
+                "size": 12015,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/powerfreq.csv": {
+                "mtime": 1735341553,
+                "sha1": "905a7c1a8a2572a6fb5615b7804a835bf3dbcea7",
+                "size": 60,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/powervol.csv": {
+                "mtime": 1735328141,
+                "sha1": "45e165a686e7db526f996a8cbf90d98b6a9d74cf",
+                "size": 52,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/olddmu/sound.cfg": {
+                "mtime": 1735343523,
+                "sha1": "ab50df38b6cc14c2fbe66e16b3149704435dfea1",
+                "size": 1008,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1744643572,
+                "sha1": "75b42e9bfe1bf61a5366e30a93233e62f7bc894f",
+                "size": 29366,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/textures/block/platform_na_2.png": {
+                "mtime": 1735328131,
+                "sha1": "575fcb31be085dce5e91a1f93204f18176be47a6",
+                "size": 394,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744643505,
+                "sha1": "2e9c647e8d3197d7a5ea38f1986e8a2f134c0ead",
+                "size": 31970,
+                "blame": "chaodee0724"
             }
         }
     },
