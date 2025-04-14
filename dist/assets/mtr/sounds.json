@@ -1314,5 +1314,149 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "desiro_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/airzero",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_cp": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/cp",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_cpend": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/cpend",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_cpstart": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/cpstart",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_loop": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/loop",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_point": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/point",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor0",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor1",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor2",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor3",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor4",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/motor5",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "desiro_run": {
+        "sounds": [
+            {
+                "name": "mtr:desiro/run",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
