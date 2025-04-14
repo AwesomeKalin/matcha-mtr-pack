@@ -1754,5 +1754,245 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "tm2141_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_loop": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_point": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_run": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_flange": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141/flange",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_loop": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_point": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_run": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tm2141_renatus_flange": {
+        "sounds": [
+            {
+                "name": "mtr:tm2141_renatus/flange",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

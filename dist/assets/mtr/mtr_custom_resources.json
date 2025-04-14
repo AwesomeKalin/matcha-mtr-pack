@@ -999,6 +999,34 @@
 			"model": "mtr:class323/class323.bbmodel",
 			"model_properties": "mtr:class323/class323.json",
 			"bve_sound_base_id": "holec_alstom"
+		},
+		"class_321_ga": {
+			"name": "British Rail Class 321 (Greater Anglia / Varamis Rail Blue Doors)",
+			"wikipedia_article": "British_Rail_Class_321",
+			"color": "001E3C",
+			"gangway_connection_id": "mtr:class_321/321",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0,
+			"bve_sound_base_id": "tm2141",
+			"texture_id": "mtr:class_321/class321_ga.png",
+			"model": "mtr:class_321/class_321.bbmodel",
+			"model_properties": "mtr:class_321/class_321.json"
+		},
+		"class_321_ga_17": {
+			"name": "British Rail Class 321 (Greater Anglia / Varamis Rail Blue Doors, 17m version)",
+			"wikipedia_article": "British_Rail_Class_321",
+			"color": "001E3C",
+			"gangway_connection_id": "mtr:class_321/321_17",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0,
+			"bve_sound_base_id": "tm2141",
+			"texture_id": "mtr:class_321/class321_ga_17.png",
+			"model": "mtr:class_321/class_321_17.bbmodel",
+			"model_properties": "mtr:class_321/class_321_17.json"
 		}
 	},
 	"custom_signs": {
