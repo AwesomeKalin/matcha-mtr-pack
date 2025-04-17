@@ -379,6 +379,11 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/none_gangway": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -6172,12 +6177,6 @@
                 "size": 46638,
                 "blame": "sebpartof2"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744902693,
-                "sha1": "06d2ba60ad2e6c3df346ddcc7259d378a805538d",
-                "size": 69596,
-                "blame": "sebpartof2"
-            },
             "assets/mtr/textures/sign/door_overlay_k_train_left.png": {
                 "mtime": 1744837989,
                 "sha1": "f622837b494dd787ec28c8d9afeebcc71399eaf3",
@@ -6189,6 +6188,54 @@
                 "sha1": "e92c3165c9f199c30687ec1c321259de3479fad7",
                 "size": 8775,
                 "blame": "sebpartof2"
+            },
+            "assets/mtr/metrocar/dmr.bbmodel": {
+                "mtime": 1744842799,
+                "sha1": "584c4a1fb4a2ec3b69c6ed4157bd6f3dfe9ce1c5",
+                "size": 1184033,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/dmr.json": {
+                "mtime": 1744842608,
+                "sha1": "6bd6445e215caa3e85a9f95e75d3f0b19d2dc4d6",
+                "size": 43459,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/metrocar/dmr.png": {
+                "mtime": 1744842799,
+                "sha1": "36ce0cc413e241972d82a7e522548d9e519d1c55",
+                "size": 366128,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744902985,
+                "sha1": "f8fee2c8eb57c783823a4215c3b98a7eacfc124e",
+                "size": 70157,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/none_gangway/none_connector_exterior.png": {
+                "mtime": 1732294994,
+                "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/none_gangway/none_connector_floor.png": {
+                "mtime": 1732294994,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/none_gangway/none_connector_roof.png": {
+                "mtime": 1732294994,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/none_gangway/none_connector_side.png": {
+                "mtime": 1732294994,
+                "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
+                "size": 146,
+                "blame": "chaodee0724"
             }
         }
     },

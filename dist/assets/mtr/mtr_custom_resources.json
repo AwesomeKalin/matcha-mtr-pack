@@ -1563,6 +1563,21 @@
 			"color": "614199",
 			"base_train_type": "k_train_mini",
 			"texture_id": "mtr:custom_directory/island.png"
+		},
+		"metrocar_dmr": {
+			"name": "DMR T90 Stock",
+			"description": "DMR T90 Stock, based on Tyne & Wear Metrocar. Used for shorter, rural branches.",
+			"wikipedia_article": "",
+			"color": "CC0605",
+			"door_animation_type": "PLUG_SLOW",
+			"render_door_overlay": false,
+			"has_gangway_connection": true,
+			"rider_offset": 0,
+			"bve_sound_base_id": "metrocar",
+			"texture_id": "mtr:metrocar/dmr",
+			"model": "mtr:metrocar/dmr.bbmodel",
+			"gangway_connection_id": "mtr:none_gangway/none",
+			"model_properties": "mtr:metrocar/dmr.json"
 		}
 	},
 	"custom_signs": {
