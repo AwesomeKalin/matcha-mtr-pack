@@ -1557,6 +1557,12 @@
 			"model": "mtr:jcibravo/ne92/motor.obj|1;%1;|mtr:jcibravo/ne92/remolque.obj|;1,-1;|mtr:jcibravo/ne92/motor.obj|-1;%1,1;reversed",
 			"model_properties": "mtr:jcibravo/metrocdmx.json",
 			"flipV": true
+		},
+		"m45_srisland": {
+			"name": "Class 345 (SebRail Island Line)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/island.png"
 		}
 	},
 	"custom_signs": {
@@ -1679,6 +1685,66 @@
 			"custom_text": "",
 			"flip_custom_text": false,
 			"small": true
+		},
+		"sebrail": {
+			"texture_id": "mtr:custom_directory/sebrail.png",
+			"flip_texture": false,
+			"custom_text": "SebRail",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_flip": {
+			"texture_id": "mtr:custom_directory/sebrail.png",
+			"flip_texture": false,
+			"custom_text": "SebRail",
+			"flip_custom_text": true,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_icon": {
+			"texture_id": "mtr:custom_directory/sebrail.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_island": {
+			"texture_id": "mtr:custom_directory/srisland.png",
+			"flip_texture": false,
+			"custom_text": "SebRail Island Line",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_island_flip": {
+			"texture_id": "mtr:custom_directory/srisland.png",
+			"flip_texture": false,
+			"custom_text": "SebRail Island Line",
+			"flip_custom_text": true,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_island_simple": {
+			"texture_id": "mtr:custom_directory/srisland.png",
+			"flip_texture": false,
+			"custom_text": "Island Line",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_island_simple_flip": {
+			"texture_id": "mtr:custom_directory/srisland.png",
+			"flip_texture": false,
+			"custom_text": "Island Line",
+			"flip_custom_text": true,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"sebrail_island_icon": {
+			"texture_id": "mtr:custom_directory/srisland.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "1167B1"
 		}
 	}
 }
