@@ -380,6 +380,11 @@
                     "chaodee0724"
                 ]
             },
+            "assets/mtr/textures/sign": {
+                "blame": [
+                    "sebpartof2"
+                ]
+            },
             "assets/mtr/none_gangway": {
                 "blame": [
                     "chaodee0724"
@@ -6197,7 +6202,7 @@
             },
             "assets/mtr/metrocar/dmr.json": {
                 "mtime": 1744842608,
-                "sha1": "6bd6445e215caa3e85a9f95e75d3f0b19d2dc4d6",
+                "sha1": "f351777352988d44c6f5c992ca8e55892706a640",
                 "size": 43459,
                 "blame": "chaodee0724"
             },
