@@ -177,7 +177,8 @@
             },
             "assets/mtr/class350": {
                 "blame": [
-                    "chaodee0724"
+                    "chaodee0724",
+                    "sebpartof2"
                 ]
             },
             "assets/mtr/sounds/desiro": {
@@ -6212,12 +6213,6 @@
                 "size": 366128,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744902985,
-                "sha1": "845823ba856a99a63b1691b569a736d054765453",
-                "size": 70157,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/none_gangway/none_connector_exterior.png": {
                 "mtime": 1732294994,
                 "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
@@ -6241,6 +6236,24 @@
                 "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
                 "size": 146,
                 "blame": "chaodee0724"
+            },
+            "assets/mtr/custom_directory/kordai.png": {
+                "mtime": 1744947206,
+                "sha1": "450cc936290df114740769fbc180923d13c0b944",
+                "size": 13307,
+                "blame": "sebpartof2"
+            },
+            "assets/mtr/custom_directory/noentry.png": {
+                "mtime": 1744917201,
+                "sha1": "56475b40d30e564d63f94b2e63ab50ed6500f9f7",
+                "size": 5644,
+                "blame": "sebpartof2"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1744974589,
+                "sha1": "909274286f5a0acc99f1faa1bfe5b9ad3f5f5f77",
+                "size": 70810,
+                "blame": "sebpartof2"
             }
         }
     },

@@ -1558,12 +1558,6 @@
 			"model_properties": "mtr:jcibravo/metrocdmx.json",
 			"flipV": true
 		},
-		"m45_srisland": {
-			"name": "Class 345 (SebRail Island Line)",
-			"color": "614199",
-			"base_train_type": "k_train_mini",
-			"texture_id": "mtr:custom_directory/island.png"
-		},
 		"metrocar_dmr": {
 			"name": "DMR T90 Stock",
 			"description": "DMR T90 Stock, based on Tyne & Wear Metrocar. Used for shorter, rural branches.",
@@ -1578,6 +1572,26 @@
 			"model": "mtr:metrocar/dmr.bbmodel",
 			"gangway_connection_id": "mtr:none_gangway/none",
 			"model_properties": "mtr:metrocar/dmr.json"
+		},
+		"m45_srisland": {
+			"name": "Class 345 (SebRail Island Line)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/island.png"
+		},
+		"class3504kordai": {
+			"name": "Class 350/4 (Kordai)",
+			"wikipedia_article": "British_Rail_Class_350",
+			"color": "404040",
+			"gangway_connection_id": "mtr:class350/350",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0,
+			"texture_id": "mtr:class350/class3504tpe",
+			"model": "mtr:class350/class350.bbmodel",
+			"model_properties": "mtr:class350/class350.json",
+			"bve_sound_base_id": "desiro"
 		}
 	},
 	"custom_signs": {
@@ -1722,6 +1736,12 @@
 			"flip_texture": false,
 			"small": true,
 			"background_color": "1167B1"
+		},
+		"kordai_icon": {
+			"texture_id": "mtr:custom_directory/kordai.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "FFFFFF"
 		},
 		"sebrail_island": {
 			"texture_id": "mtr:custom_directory/srisland.png",
