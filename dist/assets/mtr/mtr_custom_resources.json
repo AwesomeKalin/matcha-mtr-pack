@@ -1592,6 +1592,17 @@
 			"model": "mtr:class350/class350.bbmodel",
 			"model_properties": "mtr:class350/class350.json",
 			"bve_sound_base_id": "desiro"
+		},
+		"dmrd84": {
+			"name": "DMR D84 Stock",
+			"description": "First generation DMR shuttle rolling stock.\nIn Service: 1984 - Now",
+			"wikipedia_article": "",
+			"color": "2EA2C3",
+			"base_train_type": "london_underground_d78_mini",
+			"texture_id": "mtr:dmrd84/dmrd84",
+			"speed_sound_base_id": "mlr",
+			"speed_sound_count": 118,
+			"door_sound_base_id": "m_train"
 		}
 	},
 	"custom_signs": {

@@ -390,6 +390,11 @@
                 "blame": [
                     "chaodee0724"
                 ]
+            },
+            "assets/mtr/dmrd84": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -6249,11 +6254,17 @@
                 "size": 5644,
                 "blame": "sebpartof2"
             },
+            "assets/mtr/dmrd84/dmrd84.png": {
+                "mtime": 1744973077,
+                "sha1": "cc1a938011031f796bef75e7510c108062457fcd",
+                "size": 276996,
+                "blame": "chaodee0724"
+            },
             "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1744974589,
-                "sha1": "909274286f5a0acc99f1faa1bfe5b9ad3f5f5f77",
-                "size": 70810,
-                "blame": "sebpartof2"
+                "mtime": 1744975331,
+                "sha1": "62ba1abada325f5508a67951cff220b8d0e82720",
+                "size": 71195,
+                "blame": "chaodee0724"
             }
         }
     },
