@@ -1603,6 +1603,18 @@
 			"speed_sound_base_id": "mlr",
 			"speed_sound_count": 118,
 			"door_sound_base_id": "m_train"
+		},
+		"apm_100_purplerail": {
+			"base_train_type": "base_11_2",
+			"color": "00FFFF",
+			"texture_id": "mtr:apm/apm_100_blue",
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "cx100",
+			"door_sound_base_id": "cx100",
+			"has_gangway_connection": false,
+			"model": "mtr:apm/apm_100.bbmodel",
+			"model_properties": "mtr:apm/apm_100.json",
+			"name": "APM 100 PurpleRail"
 		}
 	},
 	"custom_signs": {
