@@ -9,6 +9,7 @@
                     "awesomekalin55",
                     "chaodee0724",
                     "matcha",
+                    "max_o_shea_16",
                     "raw",
                     "sebpartof2"
                 ]
@@ -18,6 +19,7 @@
                     "awesomekalin55",
                     "chaodee0724",
                     "matcha",
+                    "max_o_shea_16",
                     "sebpartof2"
                 ]
             },
@@ -26,6 +28,7 @@
                     "awesomekalin55",
                     "chaodee0724",
                     "matcha",
+                    "max_o_shea_16",
                     "sebpartof2"
                 ]
             },
@@ -399,6 +402,21 @@
             "assets/mtr/apm": {
                 "blame": [
                     "sebpartof2"
+                ]
+            },
+            "assets/mtr/br_mark2_srt": {
+                "blame": [
+                    "max_o_shea_16"
+                ]
+            },
+            "assets/mtr/br_mark3_srt": {
+                "blame": [
+                    "max_o_shea_16"
+                ]
+            },
+            "assets/mtr/srtgangway": {
+                "blame": [
+                    "max_o_shea_16"
                 ]
             }
         },
@@ -6288,6 +6306,582 @@
                 "sha1": "0b475508c00b9b93924141d5fdd9a731ec78da1b",
                 "size": 71587,
                 "blame": "sebpartof2"
+            },
+            "assets/mtr/br_mark2_srt/badak.png": {
+                "mtime": 1692341429,
+                "sha1": "68b565ad185b2ae3a0d53a8fcf0db5ffbd415465",
+                "size": 16520,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/br_mark2.json": {
+                "mtime": 1728222275,
+                "sha1": "1b486452b0377fe334a047da7b13e8a228de5802",
+                "size": 4154,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/chair.png": {
+                "mtime": 1692615838,
+                "sha1": "3bb2356cb92304fc89540aebbbd08a7ed9891231",
+                "size": 140357,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/cheonjang.png": {
+                "mtime": 1619335733,
+                "sha1": "033a60c14a2c263f169cd96918ecae49e1bd7bc6",
+                "size": 8179,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/darkgray.png": {
+                "mtime": 1617293333,
+                "sha1": "90a88a00620310ecea259c548cb2e3837abc161e",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/dt138.png": {
+                "mtime": 1443512556,
+                "sha1": "40b21837ada224ac3afed0f119cb86902848ea31",
+                "size": 20480,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/frontdoor.png": {
+                "mtime": 1692342099,
+                "sha1": "f68be585643be93f1905bdf725e949785436322a",
+                "size": 3711,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/green.png": {
+                "mtime": 1691916249,
+                "sha1": "a93c382239fe52ee4dab110c485127f764065a4d",
+                "size": 1632,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/habu.png": {
+                "mtime": 1596299556,
+                "sha1": "2e1bae29807d70647373d76b2e9d1e39e3ca8417",
+                "size": 31705,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/jibung.png": {
+                "mtime": 1729822942,
+                "sha1": "fc87c2bb0ac45c755c1d7b52eb1211a838f29592",
+                "size": 2178,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/keoteun.png": {
+                "mtime": 1694428036,
+                "sha1": "6e17f1fa9be994bd4721656aaecd962e56ca0622",
+                "size": 18342,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mak.png": {
+                "mtime": 1621496576,
+                "sha1": "d36b701eac6af5a50c4c3f67e9df56e064cac61b",
+                "size": 188260,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br.mtl": {
+                "mtime": 1730293253,
+                "sha1": "fab2dc91a092b8acc85ce4cb1cc27e3dccf5bcfa",
+                "size": 2425,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br.obj": {
+                "mtime": 1730293253,
+                "sha1": "ef8f352bffb43a8162ac6dede31c1734dc0c1ea1",
+                "size": 4382282,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_pullman.mtl": {
+                "mtime": 1730295254,
+                "sha1": "f5d5d9038a5878a64e76e1f2dd0e599d96bdb631",
+                "size": 2431,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_pullman.obj": {
+                "mtime": 1730295254,
+                "sha1": "0aace70af9c0dd99a3f71646dbe8f76592aa2790",
+                "size": 4382290,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_red.mtl": {
+                "mtime": 1730295277,
+                "sha1": "71fff7c69b3d31206ee4bc309df2a8674518aea6",
+                "size": 2417,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_red.obj": {
+                "mtime": 1730295277,
+                "sha1": "f0df95dab9f96356777a88a64646ad818e2ab98a",
+                "size": 4382286,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_swallow.mtl": {
+                "mtime": 1730295222,
+                "sha1": "24f0df1d4936c6eea393bc8f037a825caa3d6f9a",
+                "size": 2431,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_swallow.obj": {
+                "mtime": 1730295222,
+                "sha1": "e53f104bb187245fe60795ad477ee87f40367174",
+                "size": 4382290,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_virgin.mtl": {
+                "mtime": 1730295317,
+                "sha1": "eb1f14aec97ec1f5ce5272a1c559071b9d864f17",
+                "size": 2429,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/mark2coach_br_virgin.obj": {
+                "mtime": 1730295317,
+                "sha1": "30395193efce8d9b5d01764d474b5d4c7c5aeb92",
+                "size": 4382289,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/red.png": {
+                "mtime": 1692343675,
+                "sha1": "4854980263ab5132cc6b91c91a0e30c099757c20",
+                "size": 1413,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_brinc_blue.png": {
+                "mtime": 1729823792,
+                "sha1": "e9976470b9b797ebf5060aa65e2cbf4aef22f2c6",
+                "size": 10806,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_brinc_blue_1.png": {
+                "mtime": 1729824119,
+                "sha1": "6a230d360bed9f8bcb2da604ee848e2c679a622f",
+                "size": 10822,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_brinc_swallow.png": {
+                "mtime": 1730028004,
+                "sha1": "8eb90275f22fc23d1a523f6758a24e69df6c91c6",
+                "size": 9930,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_brinc_swallow_1.png": {
+                "mtime": 1730043476,
+                "sha1": "a3709cae1577030c450c53437725008911fdc0b5",
+                "size": 9904,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_br_red.png": {
+                "mtime": 1730208301,
+                "sha1": "3930cec5936de9eb436dd731f93bcf4d58dbecb9",
+                "size": 17301,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_br_red_1.png": {
+                "mtime": 1730208503,
+                "sha1": "14070beaa847e9937bc127777d6d1f7ef58561e2",
+                "size": 17321,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_pullman_brown.png": {
+                "mtime": 1730206470,
+                "sha1": "0beb1d162f29210843663857d785a97e626fbd27",
+                "size": 27972,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_pullman_brown_1.png": {
+                "mtime": 1730208355,
+                "sha1": "a667d82d0813acfa53bed5e57155d21f8cb0cd75",
+                "size": 27909,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_virgintrains.png": {
+                "mtime": 1730207010,
+                "sha1": "d13d36213b5d60c55f1efb2e23fd30496c33ed96",
+                "size": 14049,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/side_virgintrains_1.png": {
+                "mtime": 1730208466,
+                "sha1": "1ef90a943b25876f2ad83688c212ab56e867c84e",
+                "size": 14990,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/silver.png": {
+                "mtime": 1674461268,
+                "sha1": "ad31b58768ae47065ac4c641771323551be02dad",
+                "size": 1837,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/white.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/yellow.png": {
+                "mtime": 1670323914,
+                "sha1": "9cbdb1d40166df5efb8de3c2840473d9073143e0",
+                "size": 1617,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark2_srt/yellowdoor.png": {
+                "mtime": 1728220093,
+                "sha1": "8e10dd06d5889afd38a55aef214ad5fd2cb4570d",
+                "size": 2912,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/back_in.png": {
+                "mtime": 1619349164,
+                "sha1": "521e13219d175a538f4887a681167d5dee79df42",
+                "size": 6061,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/badak.png": {
+                "mtime": 1692341429,
+                "sha1": "68b565ad185b2ae3a0d53a8fcf0db5ffbd415465",
+                "size": 16520,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/blue.png": {
+                "mtime": 1619334830,
+                "sha1": "b87f08e25d6cbd7ce53c124711d99d25c95d25a7",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/bluegray.png": {
+                "mtime": 1702188549,
+                "sha1": "fbd3060798e91f772658d1091af57a14450219bb",
+                "size": 2072,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/br_mark3_srt.json": {
+                "mtime": 1693377114,
+                "sha1": "5657e646468a4a763816667f2075f26669b03007",
+                "size": 8790,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/br_mark3_srt.png": {
+                "mtime": 1693376770,
+                "sha1": "9e417366825b90a8f2b4aab919bb57166ffe1787",
+                "size": 2802,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/chair.png": {
+                "mtime": 1735541655,
+                "sha1": "101b896d7f44e3a44d7042d43e6671a262fc6b0d",
+                "size": 39630,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/cheonjang.png": {
+                "mtime": 1726931427,
+                "sha1": "7f30b92b8690f98c3bd4bc3c5003589615729dff",
+                "size": 4145,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/coachside.png": {
+                "mtime": 1693370548,
+                "sha1": "89bb24677a2003cd3c26a6519f1b4aca27e549ad",
+                "size": 15433,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/coachside2.png": {
+                "mtime": 1671776448,
+                "sha1": "c1dc4b9285e38122b2f0eecdb8cd36844d027b56",
+                "size": 8508,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/coachside2_1.png": {
+                "mtime": 1671806370,
+                "sha1": "0bf64ff3a2304e0a3ad8da4beac2b9c58dc4f43d",
+                "size": 8314,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/coachside_1.png": {
+                "mtime": 1693370920,
+                "sha1": "0c739f12ebe5234835502b01c833fda2fe98a15d",
+                "size": 15399,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/darkgray.png": {
+                "mtime": 1670381956,
+                "sha1": "0d9c1eb0b7a1b0770fbc74ef5390417e0b75b90e",
+                "size": 1647,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/dt138.png": {
+                "mtime": 1443512556,
+                "sha1": "40b21837ada224ac3afed0f119cb86902848ea31",
+                "size": 20480,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/frontdoor.png": {
+                "mtime": 1735541402,
+                "sha1": "4df593596ffe951ce391c6f5dc4de8f8ab537168",
+                "size": 6057,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/gray.png": {
+                "mtime": 1617430298,
+                "sha1": "9e417366825b90a8f2b4aab919bb57166ffe1787",
+                "size": 2802,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/gray_1.png": {
+                "mtime": 1682939502,
+                "sha1": "929eeefd2cc29e07537e6a9e22706eb50b47cc1a",
+                "size": 130,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/gray_2.png": {
+                "mtime": 1682942902,
+                "sha1": "f7a0382eb453a5c088a8faa6a9ae1679a4cc8728",
+                "size": 131,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/green.png": {
+                "mtime": 1693378742,
+                "sha1": "02597f83b14be84444e094ad037a4466f034d9d0",
+                "size": 1632,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/habu.png": {
+                "mtime": 1619344391,
+                "sha1": "5fcc6dcf736373ad76baf77261f1eca7fa8ddac3",
+                "size": 31328,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/headlight.png": {
+                "mtime": 1693373578,
+                "sha1": "3da123dbf175d38cd29ad4dc341413738c62094f",
+                "size": 8593,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/headlight_real.png": {
+                "mtime": 1621180124,
+                "sha1": "3efb43d8331e6340e98d2ce34ecc9e0b5a3ff66f",
+                "size": 6996,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/info.png": {
+                "mtime": 1645725913,
+                "sha1": "ef06056e770e7b511a9ccc8e4752851f2dffe2f6",
+                "size": 41682,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/insidedoor.png": {
+                "mtime": 1685160053,
+                "sha1": "a619cd5fa8e28c98f236f5244944bf17c28c0d3d",
+                "size": 2553,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/intercity125.png": {
+                "mtime": 1670381449,
+                "sha1": "0ca140ea6932847af8c0d8b9e91e604834917ef7",
+                "size": 13710,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/intercity125_1.png": {
+                "mtime": 1670400643,
+                "sha1": "fb7621b1fca08c3fde137e36546abb7302b8ef60",
+                "size": 13392,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/intercityxpt.png": {
+                "mtime": 1693373094,
+                "sha1": "fad3b8f1ba33b8e141343f699d1ec14df70986ac",
+                "size": 30330,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/intercityxpt_1.png": {
+                "mtime": 1693373104,
+                "sha1": "0f38a099a84ab98a246705710c2fea242ba3c41a",
+                "size": 30299,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/jibunggray.png": {
+                "mtime": 1671773738,
+                "sha1": "1c00af44838366347b54bf9d970a13b969ad8c5f",
+                "size": 1852,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/led.png": {
+                "mtime": 1735541424,
+                "sha1": "13b3c54910d9a4e04d16242dc55a3a3d4ab83db1",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/locoside.png": {
+                "mtime": 1693373805,
+                "sha1": "c9330197fad1a7dfbf512514711f0c01ef9a67e3",
+                "size": 65397,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/locoside125.png": {
+                "mtime": 1671792287,
+                "sha1": "f0b2f64c38d9586b716108175f9464ae9c7efe3a",
+                "size": 34079,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/red.png": {
+                "mtime": 1619347392,
+                "sha1": "1023b25a9a9ab915a7b45ce31a75d36719f05f1f",
+                "size": 2798,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/silver.png": {
+                "mtime": 1619334868,
+                "sha1": "14e36bed8204cea587437a0ba031edca91e35516",
+                "size": 2799,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brclass43_3_crosscountry.mtl": {
+                "mtime": 1735694807,
+                "sha1": "b3eca9735bb23381c127f852903ede68e2022b53",
+                "size": 3302,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brclass43_3_crosscountry.obj": {
+                "mtime": 1735694807,
+                "sha1": "c526f0ba8a67d7c940ddb39a8630d71a1b733ec0",
+                "size": 831358,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brclass43_3_intercity.mtl": {
+                "mtime": 1735694855,
+                "sha1": "71deeef9669312623de9607c8c351836f470d0a8",
+                "size": 3309,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brclass43_3_intercity.obj": {
+                "mtime": 1735694855,
+                "sha1": "3c488fc806d98daf478e1f2ee7b855865f545b6e",
+                "size": 831925,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brmark3_crosscountry.mtl": {
+                "mtime": 1735544069,
+                "sha1": "6d8f4ce4ccafeded97ba5cb4179e4d2a704262ad",
+                "size": 2535,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brmark3_crosscountry.obj": {
+                "mtime": 1735544069,
+                "sha1": "09c0931014365fa4679142a02e0340a10015af75",
+                "size": 4029644,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brmark3_intercity.mtl": {
+                "mtime": 1735623358,
+                "sha1": "54be572c977a09b95cd44f95a1a3334ebef09de6",
+                "size": 2537,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/srt_brmark3_intercity.obj": {
+                "mtime": 1735623358,
+                "sha1": "a0544091caada98c12ade6f03d5ee9c0656ce2e2",
+                "size": 4029641,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/sub.png": {
+                "mtime": 1621496576,
+                "sha1": "d36b701eac6af5a50c4c3f67e9df56e064cac61b",
+                "size": 188260,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/toiletdoor.png": {
+                "mtime": 1624349785,
+                "sha1": "954d2856aa0c1eb18c3c69b3b207b47b00b99424",
+                "size": 7472,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/white.png": {
+                "mtime": 1650947715,
+                "sha1": "825b27287c3c5f64018953383213c3863ccf53f7",
+                "size": 1414,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/wine.png": {
+                "mtime": 1693373209,
+                "sha1": "93ecd610616f1ebe409c01a3b511b188498802ad",
+                "size": 1837,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/wiper1.png": {
+                "mtime": 1599210588,
+                "sha1": "3935a36f5c505e94466e4cc9e465c4651640f69a",
+                "size": 99,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/wiper2.png": {
+                "mtime": 1599210589,
+                "sha1": "bb457bd00fa2e5594fccdce842e080d993b13773",
+                "size": 99,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/wood.png": {
+                "mtime": 1682417774,
+                "sha1": "23e80e5852c472d37330eb563f359e8527f716be",
+                "size": 6454,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/br_mark3_srt/yellow.png": {
+                "mtime": 1670323914,
+                "sha1": "9cbdb1d40166df5efb8de3c2840473d9073143e0",
+                "size": 1617,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745228461,
+                "sha1": "c9cd53e47079a84dce8a2dc1f5b952a8d1989b4d",
+                "size": 75860,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/srtgangway/srtgangway_connector_exterior.png": {
+                "mtime": 1678776310,
+                "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
+                "size": 146,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/srtgangway/srtgangway_connector_floor.png": {
+                "mtime": 1678776310,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/srtgangway/srtgangway_connector_roof.png": {
+                "mtime": 1678776310,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/srtgangway/srtgangway_connector_side.png": {
+                "mtime": 1678776310,
+                "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
+                "size": 146,
+                "blame": "max_o_shea_16"
             }
         }
     },
