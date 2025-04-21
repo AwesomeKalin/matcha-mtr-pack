@@ -2126,6 +2126,36 @@
 			"base_train_type": "r_train_mini",
 			"texture_id": "mtr:custom_directory\/p2_4010.png",
 			"color": "3c78d8"
+		},
+		"sebluestripe_377": {
+			"name": "British Rail Class 377 SouthEastern (Dark Blue stripe w/Light Blue doors)",
+			"color": "8BA9E3",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:southeastern/class_377_southeasterndarkbluestripe.png"
+		},
+		"seyellowstripe_377": {
+			"name": "British Rail Class 377 SouthEastern (Yellow stripe w/Yellow doors)",
+			"color": "8BA9E3",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:southeastern/class_377_southeasternwhiteyellowstripe.png"
+		},
+		"seyellowdoor_377": {
+			"name": "British Rail Class 377 SouthEastern (No stripe w/Yellow doors)",
+			"color": "8BA9E3",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:southeastern/class_377_southeasternwhiteyellow.png"
+		},
+		"sebluedoor_377": {
+			"name": "British Rail Class 377 SouthEastern (No stripe w/Light Blue doors)",
+			"color": "8BA9E3",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:southeastern/class_377_southeasternlightblue.png"
+		},
+		"seroyaltunbridgewells_377": {
+			"name": "British Rail Class 377 SouthEastern (Royal Tunbridge Wells [one-off special livery])",
+			"color": "8BA9E3",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:southeastern/class_377_southeasterntonbridge.png"
 		}
 	},
 	"custom_signs": {

@@ -442,6 +442,11 @@
                 "blame": [
                     "alivekrikan"
                 ]
+            },
+            "assets/mtr/southeastern": {
+                "blame": [
+                    "max_o_shea_16"
+                ]
             }
         },
         "files": {
@@ -7243,12 +7248,6 @@
                 "size": 4746,
                 "blame": "alivekrikan"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1745228902,
-                "sha1": "ba206e93a5bc074cab5db3a60ccaebf5b5a7612e",
-                "size": 98034,
-                "blame": "alivekrikan"
-            },
             "assets/jsblock/custom_directory/normal.png": {
                 "mtime": 1683708502,
                 "sha1": "c3330df045cd179ed278253b75f768c154c2d749",
@@ -7488,6 +7487,42 @@
                 "sha1": "b9f49a3dd7689b782bfbaed6a1508ab3f05afd2f",
                 "size": 1502,
                 "blame": "alivekrikan"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745229328,
+                "sha1": "06eef2546dae447d378763c0cbb7699e49dafc1a",
+                "size": 99319,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/southeastern/class_377_southeasterndarkbluestripe.png": {
+                "mtime": 1717698571,
+                "sha1": "401dac5fedf0570e3d8cba758decdbd2628a2f5c",
+                "size": 289123,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/southeastern/class_377_southeasternlightblue.png": {
+                "mtime": 1717698571,
+                "sha1": "82f2c4c5c31571df4e6e47e2e1a08e734a97d5cd",
+                "size": 281616,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/southeastern/class_377_southeasterntonbridge.png": {
+                "mtime": 1717698571,
+                "sha1": "70e4cceb84f060c1a425ceb010f0deca3debcf61",
+                "size": 288221,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/southeastern/class_377_southeasternwhiteyellow.png": {
+                "mtime": 1717698571,
+                "sha1": "639e51d4ddba1fd946fa3a0ee407d7835cdc716b",
+                "size": 280525,
+                "blame": "max_o_shea_16"
+            },
+            "assets/mtr/southeastern/class_377_southeasternwhiteyellowstripe.png": {
+                "mtime": 1717698571,
+                "sha1": "2132749a228a340bfc07251358b69672ff23ea2f",
+                "size": 288105,
+                "blame": "max_o_shea_16"
             }
         }
     },
