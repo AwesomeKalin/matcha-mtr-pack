@@ -1,0 +1,84 @@
+{
+	"pids_images": [
+		{
+			"id": "normal",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [false, false, false, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/normal.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "normal_1_row",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/stand_back_from_the_gates.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "200kview",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [false, false, false, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_shugochara.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "200kview_1_row",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/stand_back_from_the_gates_shugo_chara.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "train_status_3car",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/train_status_3car.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "train_status_4car",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/train_status_4car.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "train_status_5car",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/train_status_5car.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "shugochara_200k",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/shugo_kirameku.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		}
+	]
+}

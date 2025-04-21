@@ -1,0 +1,98 @@
+{
+		"line9_hongshan": {
+		"category": "master",
+		  "sounds": [
+			"srs_hongshan"
+		  ]
+	},
+	"line9_kardy": {
+		"category": "master",
+		  "sounds": [
+			"srs_kardyvillage"
+		  ]
+	},
+	"common_rainbowcoast": {
+		"category": "master",
+		  "sounds": [
+			"bcl_and_oml_rainbowcoast"
+		  ]
+	},
+	"common_seapower": {
+		"category": "master",
+		  "sounds": [
+			"bsl_and_ool_seapower"
+		  ]
+	},
+	"common_cosmospoint": {
+		"category": "master",
+		  "sounds": [
+			"cosmospoint"
+		  ]
+	},
+	"common_hikarigaoka": {
+		"category": "master",
+		  "sounds": [
+			"hikarigaoka"
+		  ]
+	},
+	"common_hikarijima": {
+		"category": "master",
+		  "sounds": [
+			"hikarijima"
+		  ]
+	},
+	"common_lakeofheart": {
+		"category": "master",
+		  "sounds": [
+			"lakeofheart"
+		  ]
+	},
+	"common_matsusama": {
+		"category": "master",
+		  "sounds": [
+			"matsusama"
+		  ]
+	},
+	"common_northbay": {
+		"category": "master",
+		  "sounds": [
+			"northbay"
+		  ]
+	},
+	"common_northport": {
+		"category": "master",
+		  "sounds": [
+			"northport"
+		  ]
+	},
+	"common_notinservice": {
+		"category": "master",
+		  "sounds": [
+			"notinservice"
+		  ]
+	},
+	"common_ottoland": {
+		"category": "master",
+		  "sounds": [
+			"ottoland"
+		  ]
+	},
+	"common_podzolofabyssal": {
+		"category": "master",
+		  "sounds": [
+			"podzolofabyssal"
+		  ]
+	},
+	"common_yokochoplains": {
+		"category": "master",
+		  "sounds": [
+			"yokochoplains"
+		  ]
+	},
+	"common_railwayacademy": {
+		"category": "master",
+		  "sounds": [
+			"bcl_and_bsl_railwayacademy"
+		  ]
+	}
+  }
