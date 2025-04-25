@@ -2848,5 +2848,61 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "osaka21igbt_run": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/run",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "osaka21igbt_air": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/air",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "osaka21igbt_m1": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/m1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "osaka21igbt_m2": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/m2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "osaka21igbt_m0": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/m0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "osaka21igbt_door": {
+        "sounds": [
+            {
+                "name": "mtr:m_train/door_close",
+                "pitch": 0.5
+            }
+        ]
+    },
+    "osaka21igbt_loop": {
+        "sounds": [
+            {
+                "name": "mtr:osaka21igbt/loop",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

@@ -9,6 +9,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "foxball17",
                     "matcha",
                     "max_o_shea_16",
                     "raw",
@@ -20,6 +21,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "foxball17",
                     "matcha",
                     "max_o_shea_16",
                     "sebpartof2"
@@ -30,6 +32,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "foxball17",
                     "matcha",
                     "max_o_shea_16",
                     "sebpartof2"
@@ -44,6 +47,7 @@
                 "blame": [
                     "awesomekalin55",
                     "chaodee0724",
+                    "foxball17",
                     "matcha"
                 ]
             },
@@ -435,12 +439,14 @@
             },
             "assets/minecraft": {
                 "blame": [
-                    "alivekrikan"
+                    "alivekrikan",
+                    "foxball17"
                 ]
             },
             "assets/minecraft/sounds": {
                 "blame": [
-                    "alivekrikan"
+                    "alivekrikan",
+                    "foxball17"
                 ]
             },
             "assets/mtr/southeastern": {
@@ -586,6 +592,26 @@
             "assets/mtr/sounds/doors": {
                 "blame": [
                     "chaodee0724"
+                ]
+            },
+            "assets/mtr/osaka_metro_21_series": {
+                "blame": [
+                    "foxball17"
+                ]
+            },
+            "assets/mtr/sounds/osaka21igbt": {
+                "blame": [
+                    "foxball17"
+                ]
+            },
+            "assets/minecraft/sounds/osaka_station_sounds": {
+                "blame": [
+                    "foxball17"
+                ]
+            },
+            "assets/sounds": {
+                "blame": [
+                    "foxball17"
                 ]
             }
         },
@@ -9254,12 +9280,6 @@
                 "size": 694,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1745586096,
-                "sha1": "9c67e05bacae9d45d064031f2ca82eb68f24991b",
-                "size": 106923,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/doors/door_close.ogg": {
                 "mtime": 1651671524,
                 "sha1": "caa9034c7b961308dc5274234e1099330b265ac3",
@@ -9282,12 +9302,6 @@
                 "mtime": 1651673110,
                 "sha1": "1aca9803885d021662191ec680b4be60f00ce8f0",
                 "size": 23669,
-                "blame": "chaodee0724"
-            },
-            "assets/mtr/sounds.json": {
-                "mtime": 1745586115,
-                "sha1": "69f302baeada8195c0bb993688ccba48e3095305",
-                "size": 63546,
                 "blame": "chaodee0724"
             },
             "assets/mtr/z0a/z0a.bbmodel": {
@@ -9355,6 +9369,246 @@
                 "sha1": "3a7d304b03666db43b773397c80e7899befd5b7c",
                 "size": 4836,
                 "blame": "chaodee0724"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_announcement.ogg": {
+                "mtime": 1732295615,
+                "sha1": "bee3c69ae1516fdf094b828e87932ce417a22acf",
+                "size": 33452,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_arriving_1.ogg": {
+                "mtime": 1732295617,
+                "sha1": "2aaa05418fe988c7a152ed4ee55cdb5b873d1099",
+                "size": 241263,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_arriving_2.ogg": {
+                "mtime": 1732295616,
+                "sha1": "44eb2ec40d4b11036522598939c2cabe66d11d26",
+                "size": 235286,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_arriving_3.ogg": {
+                "mtime": 1732295617,
+                "sha1": "1738f12c76e3bf149c36c0bcef867355241304ec",
+                "size": 93924,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_arriving_4.ogg": {
+                "mtime": 1732295618,
+                "sha1": "a94f27f3af0dce309ffe7dfed0a9e0ecea27201a",
+                "size": 127475,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_door_close.ogg": {
+                "mtime": 1732295616,
+                "sha1": "2e475fe9020a54bbbd9e155096658e9da9736a3b",
+                "size": 38488,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_door_open.ogg": {
+                "mtime": 1732295615,
+                "sha1": "39835b2c7212da9de391adb4ad4bb0655e2d55d6",
+                "size": 43784,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_final_stop_interior.ogg": {
+                "mtime": 1732295615,
+                "sha1": "e9974143504cb59d36ec117cd45c5f6549bcfb6f",
+                "size": 52696,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_final_train_notification.ogg": {
+                "mtime": 1732295616,
+                "sha1": "1cf85069a5f3d05b1189f2474970ec340c0fa1a9",
+                "size": 30295,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_leaving_1.ogg": {
+                "mtime": 1732295617,
+                "sha1": "3810eaeafa4523bd75af9b0e05c232a5f30d76bb",
+                "size": 70033,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_leaving_2.ogg": {
+                "mtime": 1732295616,
+                "sha1": "c06eb0f627854dd7fdc80487ee59049031a09e63",
+                "size": 62615,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_leaving_3.ogg": {
+                "mtime": 1732295617,
+                "sha1": "66976c90bfe82e15726067c564e8824e5870db29",
+                "size": 82970,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_leaving_4.ogg": {
+                "mtime": 1732295618,
+                "sha1": "9d70657465046882c30aa65884a53ab75eb75c92",
+                "size": 98619,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_leaving_5.ogg": {
+                "mtime": 1732295618,
+                "sha1": "9da856652340f199bb311bea80e9349573e74c98",
+                "size": 80228,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_notification.ogg": {
+                "mtime": 1732295615,
+                "sha1": "ee3063ef3979dccc9504ae686a3f6f98b348b5af",
+                "size": 30789,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_notification_2.ogg": {
+                "mtime": 1732295618,
+                "sha1": "431d12482b6c204649eed27bc69ea0e78431cfcd",
+                "size": 42645,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_notification_3.ogg": {
+                "mtime": 1732295618,
+                "sha1": "1768db1ea1613f30e2a810d7b99c7e26809ac4cc",
+                "size": 45985,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_terminates_here.ogg": {
+                "mtime": 1732295619,
+                "sha1": "f43129a927675527517a2fc5d444b0a3aa523065",
+                "size": 35707,
+                "blame": "foxball17"
+            },
+            "assets/minecraft/sounds/osaka_station_sounds/osaka_metro_yaominami.ogg": {
+                "mtime": 1732295616,
+                "sha1": "a26bb64635e940ea5c331e409cc9eb8f85c93c6f",
+                "size": 83721,
+                "blame": "foxball17"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745586377,
+                "sha1": "57b8c80c5561092fe9cfa5f6efe954c858408e18",
+                "size": 110037,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_21_series.bbmodel": {
+                "mtime": 1732819902,
+                "sha1": "5d28b0e4755c2c9006e462f7fcb97f8ffed7cd69",
+                "size": 4086104,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_21_series.json": {
+                "mtime": 1732295573,
+                "sha1": "793abd4773fd5809da95cddf82629623f1891ce9",
+                "size": 12620,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_21_series.png": {
+                "mtime": 1732819901,
+                "sha1": "07fc84527a8d900509a6574a1a568d4e57c7b4a3",
+                "size": 387348,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_22_series.png": {
+                "mtime": 1732819901,
+                "sha1": "d4db8d2cad7796fcb85cc7d0c27df76afd96c0c3",
+                "size": 387438,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_23_series.png": {
+                "mtime": 1732819901,
+                "sha1": "6a1d0be2c127626600642fec74bc4d1facf63da0",
+                "size": 387430,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_24_series.png": {
+                "mtime": 1732819901,
+                "sha1": "e9efc1837975e62fbc4efe8f3fe502d3a6cb8809",
+                "size": 387487,
+                "blame": "foxball17"
+            },
+            "assets/mtr/osaka_metro_21_series/osaka_metro_25_series.png": {
+                "mtime": 1732819900,
+                "sha1": "4e088271bd8c9040f58c7a2f76ce072231d88274",
+                "size": 387454,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/air.ogg": {
+                "mtime": 1732829256,
+                "sha1": "0e8c7e35b971da60e3044eec49437bb94d98a368",
+                "size": 20801,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/brakefreq.csv": {
+                "mtime": 1733426555,
+                "sha1": "c2de70261aa9fe75654928bb3c06133a2821a8bf",
+                "size": 108,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/brakevol.csv": {
+                "mtime": 1732866131,
+                "sha1": "d96f409f01435d48f829a3186706fbcf207e4dca",
+                "size": 113,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/loop.ogg": {
+                "mtime": 1732822282,
+                "sha1": "710e569d22c716ed2f057328cd6d7919d107bca8",
+                "size": 107136,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/m0.ogg": {
+                "mtime": 1732821575,
+                "sha1": "219a45966ad568a6132349cef801c0368c28620a",
+                "size": 12990,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/m1.ogg": {
+                "mtime": 1732821853,
+                "sha1": "ec743c340c5cd159c9bc2061a239be754f1c97a4",
+                "size": 48106,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/m2.ogg": {
+                "mtime": 1733426497,
+                "sha1": "686d6cb05c511bdc06b30e6de26bc147fcf87ffd",
+                "size": 51486,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/powerfreq.csv": {
+                "mtime": 1733426564,
+                "sha1": "8fe1bb52b7e3048a397ab3606259df3029b93cea",
+                "size": 108,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/powervol.csv": {
+                "mtime": 1732866139,
+                "sha1": "648d22c3fc049f4d463b1afb4454ccbef2d0a1cd",
+                "size": 115,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/run.ogg": {
+                "mtime": 1732822537,
+                "sha1": "61422b65674052b98858a28c5767dda73d8d19df",
+                "size": 77633,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds/osaka21igbt/sound.cfg": {
+                "mtime": 1732866957,
+                "sha1": "e1f546e780e8d944554240a7cd474c87a2226cc1",
+                "size": 1023,
+                "blame": "foxball17"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1745586407,
+                "sha1": "c81835b5706a609fe170a14fecc6f0352132083b",
+                "size": 64792,
+                "blame": "foxball17"
+            },
+            "assets/sounds/sounds.json": {
+                "mtime": 1732815718,
+                "sha1": "58b6eb609abaac023b10759b1482afb59798b305",
+                "size": 2235,
+                "blame": "foxball17"
             }
         }
     },

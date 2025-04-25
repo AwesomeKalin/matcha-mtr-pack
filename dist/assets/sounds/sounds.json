@@ -1,0 +1,97 @@
+{
+  "osaka_metro_final_stop_interior": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_final_stop_interior"
+    ]
+  },
+  "osaka_metro_door_open": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_door_open"
+    ]
+  },
+  "osaka_metro_notification": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification"
+    ]
+  },
+  "osaka_metro_announcement": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_announcement"
+    ]
+  },
+  "osaka_metro_yaominami": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_yaominami"
+    ]
+  },
+  "osaka_metro_door_close": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_door_close"
+    ]
+  },
+  "osaka_metro_final_train_notification": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_final_train_notification"
+    ]
+  },
+  "osaka_metro_leaving_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_2"
+    ]
+  },
+  "osaka_metro_arriving_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_2"
+    ]
+  },
+  "osaka_metro_arriving_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_3"
+    ]
+  },
+  "osaka_metro_leaving_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_3"
+    ]
+  },
+  "osaka_metro_leaving_1": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_1"
+    ]
+  },
+  "osaka_metro_arriving_1": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_1"
+    ]
+  },
+  "osaka_metro_leaving_4": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_4"
+    ]
+  },
+  "osaka_metro_arriving_4": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_4"
+    ]
+  },
+  "osaka_metro_leaving_5": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_5"
+    ]
+  },
+  "osaka_metro_notification_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification_2"
+    ]
+  },
+  "osaka_metro_notification_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification_3"
+    ]
+  },
+  "osaka_metro_terminates_here": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_terminates_here"
+    ]
+  }
+}
