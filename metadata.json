@@ -504,7 +504,7 @@
                     "chaodee0724"
                 ]
             },
-            "asset/smtr/241/crt41": {
+            "assets/mtr/241/crt41": {
                 "blame": [
                     "chaodee0724"
                 ]
@@ -9606,7 +9606,7 @@
             },
             "assets/sounds/sounds.json": {
                 "mtime": 1732815718,
-                "sha1": "58b6eb609abaac023b10759b1482afb59798b305",
+                "sha1": "365a3f02a109d88fcfe0dcf7a82e78abd2522413",
                 "size": 2235,
                 "blame": "foxball17"
             }
