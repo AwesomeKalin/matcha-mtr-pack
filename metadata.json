@@ -8832,7 +8832,7 @@
             },
             "assets/mtr/8car/door/door.mtl": {
                 "mtime": 1682142810,
-                "sha1": "61d738d6b2d984b2e23f945963b88ad3b50ba680",
+                "sha1": "88594373234efdfc398c26718a4e2b91c41e82ab",
                 "size": 1008,
                 "blame": "chaodee0724"
             },
@@ -8916,7 +8916,7 @@
             },
             "assets/mtr/lang/en_us.json": {
                 "mtime": 1728120199,
-                "sha1": "607e8ce1af38539ed0a6185740ee2291af3a453d",
+                "sha1": "6b40999e0977ff518a4564759bf70471d7d5aa3e",
                 "size": 580,
                 "blame": "chaodee0724"
             },
@@ -9174,7 +9174,7 @@
             },
             "assets/mtrsteamloco/rails/dangui.obj": {
                 "mtime": 1698465027,
-                "sha1": "f966805c81aa8a0a02ddec3534a3010544fbcf73",
+                "sha1": "c045f0539603ebccd3a24ae367586316f7c2447a",
                 "size": 34784,
                 "blame": "chaodee0724"
             },
