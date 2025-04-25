@@ -529,12 +529,12 @@
                     "chaodee0724"
                 ]
             },
-            "assets/mtr/lg300": {
+            "assets/mtr/lg3": {
                 "blame": [
                     "chaodee0724"
                 ]
             },
-            "assets/mtr/lg300/textures": {
+            "assets/mtr/lg3/tex": {
                 "blame": [
                     "chaodee0724"
                 ]
@@ -8220,7 +8220,7 @@
             },
             "assets/mtr/241/2.obj": {
                 "mtime": 1725086141,
-                "sha1": "568c416698b9cb6066ebe819537178a6a03eb7fb",
+                "sha1": "1d9e6ca97588e89f524762280599a9e519bb0238",
                 "size": 3250166,
                 "blame": "chaodee0724"
             },
@@ -8556,7 +8556,7 @@
             },
             "assets/mtr/241/led.mtl": {
                 "mtime": 1724677637,
-                "sha1": "6ead91f482368b38a9d71f851396447c4b36834d",
+                "sha1": "ac8936dffbadc63135747b57bbf38166739702f4",
                 "size": 342,
                 "blame": "chaodee0724"
             },
