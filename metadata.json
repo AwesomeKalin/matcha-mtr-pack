@@ -447,6 +447,146 @@
                 "blame": [
                     "max_o_shea_16"
                 ]
+            },
+            "assets/mtr/8car": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/8car/8main": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/8car/door": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/8car/door/door": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/222": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/223": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/226": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/226/light": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/226/textures": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/241": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "asset/smtr/241/crt41": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/241/led": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/gc": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/crtdgjx": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/lang": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/lg300": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/lg300/textures": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sign": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/226": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/eyecandies": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/eyecandies/zhu": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/eyecandies/zhu/danguizhu1": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/lang": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/rails/dangui": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/rails/dangui_long": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtrsteamloco/rails/dangui_n": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/z0a": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/sounds/doors": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -8796,12 +8936,6 @@
                 "size": 91,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1745585265,
-                "sha1": "05b863adc1c9acb2d611bce6ec1717795ff48efd",
-                "size": 107610,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sign/black.png": {
                 "mtime": 1702819476,
                 "sha1": "907a24000ef0de04e0d1d0a9dab5abb65fea310e",
@@ -8884,12 +9018,6 @@
                 "mtime": 1724139946,
                 "sha1": "ffe9332c37f9f26980e3d95208d2c60a3b4e88eb",
                 "size": 100943,
-                "blame": "chaodee0724"
-            },
-            "assets/mtr/sounds.json": {
-                "mtime": 1745585297,
-                "sha1": "6f555ffeb1df1ba516c1db2baa37834cfcbbc246",
-                "size": 65523,
                 "blame": "chaodee0724"
             },
             "assets/mtrsteamloco/eyecandies/c.json": {
@@ -9124,6 +9252,108 @@
                 "mtime": 1724144460,
                 "sha1": "ea9c996c48643bc0d24d8f83fb015882d758d28a",
                 "size": 694,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745586096,
+                "sha1": "9c67e05bacae9d45d064031f2ca82eb68f24991b",
+                "size": 106923,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/doors/door_close.ogg": {
+                "mtime": 1651671524,
+                "sha1": "caa9034c7b961308dc5274234e1099330b265ac3",
+                "size": 24278,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/doors/door_open.ogg": {
+                "mtime": 1651671540,
+                "sha1": "ceb105728e4f06e941fb07a08d636690cffc7764",
+                "size": 20548,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/doors/ghost_close.ogg": {
+                "mtime": 1651673226,
+                "sha1": "7f18efd9fb6bd8231b3c6ab9bbdd388c9a0cbedb",
+                "size": 27253,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds/doors/ghost_open.ogg": {
+                "mtime": 1651673110,
+                "sha1": "1aca9803885d021662191ec680b4be60f00ce8f0",
+                "size": 23669,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1745586115,
+                "sha1": "69f302baeada8195c0bb993688ccba48e3095305",
+                "size": 63546,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a.bbmodel": {
+                "mtime": 1689552866,
+                "sha1": "d98e2c7e5ee1186bea7cf900b57ca3c31781833f",
+                "size": 456137,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a.json": {
+                "mtime": 1689555802,
+                "sha1": "784cba289274215e4f72a6d8b04b83095292e832",
+                "size": 4840,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a.png": {
+                "mtime": 1689737804,
+                "sha1": "7223606e5dd07e8981972ae0080ee4530e37d14d",
+                "size": 184983,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0alhd.bbmodel": {
+                "mtime": 1689716129,
+                "sha1": "5b0215c7494a40f9967a3818392c0147d3eb15fe",
+                "size": 462621,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0alhd.json": {
+                "mtime": 1689740604,
+                "sha1": "5c840f4b756eed283614561a5236bd6b456716d0",
+                "size": 4819,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0alhd.png": {
+                "mtime": 1689737812,
+                "sha1": "8d3f0ef16b676f91f80e8ad0c59f25468a5433d9",
+                "size": 185168,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0alhd_low.bbmodel": {
+                "mtime": 1689716146,
+                "sha1": "db243629f1652ef3e938c47fd22cfc27ed8371f8",
+                "size": 463123,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a_ghost.bbmodel": {
+                "mtime": 1689559914,
+                "sha1": "632d92be2d17778148d0cc5c17cc073c27d884e0",
+                "size": 510725,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a_ghost.png": {
+                "mtime": 1651608232,
+                "sha1": "4f3b67d262b3352e0456ca4e8aaa5c5c18a6a8a6",
+                "size": 260192,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a_low.bbmodel": {
+                "mtime": 1689553390,
+                "sha1": "5c523fc0bc208138b6210b077564bf8de1d86ef2",
+                "size": 456638,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/z0a/z0a_se.json": {
+                "mtime": 1689599784,
+                "sha1": "3a7d304b03666db43b773397c80e7899befd5b7c",
+                "size": 4836,
                 "blame": "chaodee0724"
             }
         }

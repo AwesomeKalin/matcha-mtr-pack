@@ -2812,5 +2812,41 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "u12_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:doors/door_open",
+                "pitch": 1.2,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "u12_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:doors/door_close",
+                "pitch": 1.2,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ghost_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:doors/ghost_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ghost_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:doors/ghost_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

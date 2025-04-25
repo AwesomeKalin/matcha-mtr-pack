@@ -2293,6 +2293,77 @@
 			"bve_sound_base_id": "226",
 			"model_properties": "mtr:gc/jcc.json",
 			"flipV": true
+		},
+		"jsz0a": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0a.png",
+			"door_sound_base_id": "u12",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"rider_offset": 0.1,
+			"model": "mtr:z0a/z0a.bbmodel",
+			"model_properties": "mtr:z0a/z0a.json",
+			"name": "§lYutong U12 §7standard"
+		},
+		"jsz0a_lower": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0a.png",
+			"door_sound_base_id": "u12",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"rider_offset": -0.8,
+			"model": "mtr:z0a/z0a_low.bbmodel",
+			"model_properties": "mtr:z0a/z0a.json",
+			"name": "§lYutong U12 §7OnRail"
+		},
+		"jsz0a_lower_se": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0a.png",
+			"door_sound_base_id": "u12",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"rider_offset": -0.8,
+			"model": "mtr:z0a/z0a_low.bbmodel",
+			"model_properties": "mtr:z0a/z0a_se.json",
+			"name": "§lYutong U12 §7OnRail LongerLED"
+		},
+		"jsz0alhd": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0alhd.png",
+			"door_sound_base_id": "u12",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"rider_offset": 0.1,
+			"model": "mtr:z0a/z0alhd.bbmodel",
+			"model_properties": "mtr:z0a/z0alhd.json",
+			"name": "§lYutong U12 §7RHD standard"
+		},
+		"jsz0alhd_lower": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0alhd.png",
+			"door_sound_base_id": "u12",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"rider_offset": -0.8,
+			"model": "mtr:z0a/z0alhd_low.bbmodel",
+			"model_properties": "mtr:z0a/z0alhd.json",
+			"name": "§lYutong U12 §7RHD OnRail"
+		},
+		"jsz0a_ghost": {
+			"base_train_type": "base_9_2",
+			"color": "3CEBC2",
+			"texture_id": "mtr:z0a/z0a_ghost.png",
+			"door_sound_base_id": "ghost",
+			"door_animation_type": "PLUG_SLOW",
+			"has_gangway_connection": false,
+			"model": "mtr:z0a/z0a_ghost.bbmodel",
+			"model_properties": "mtr:z0a/z0a.json",
+			"name": "§lYutong U12 §uGhostbus :)"
 		}
 	},
 	"custom_signs": {
