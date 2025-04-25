@@ -2156,6 +2156,23 @@
 			"color": "8BA9E3",
 			"base_train_type": "class_377_southern",
 			"texture_id": "mtr:southeastern/class_377_southeasterntonbridge.png"
+		},
+		"dmre84": {
+			"name": "DMR E84 Stock",
+			"description": "First generation DMR OHLE rolling stock.\nIn Service: 1984 - Now",
+			"wikipedia_article": "",
+			"color": "2EA2C3",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"train_barrier_id": "mtr:textures/entity/mlr",
+			"door_animation_type": "R179",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:dmrp83/dmre84",
+			"model": "mtr:dmrp83/dmre84.bbmodel",
+			"model_properties": "mtr:dmrp83/dmre84.json",
+			"speed_sound_base_id": "mlr",
+			"speed_sound_count": 118,
+			"door_sound_base_id": "m_train"
 		}
 	},
 	"custom_signs": {
