@@ -7836,7 +7836,7 @@
             },
             "assets/mtr/226/ct.mtl": {
                 "mtime": 1725008749,
-                "sha1": "5646b33bac7a35a7778558867d26c1c5af57e2e1",
+                "sha1": "340b995cf9ac7f491683d01571bb4ed8e61f1431",
                 "size": 8184,
                 "blame": "chaodee0724"
             },
@@ -8188,7 +8188,7 @@
                 "size": 82723,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/226/tex/_11.png": {
+            "assets/mtr/226/tex/11.png": {
                 "mtime": 1697551364,
                 "sha1": "68fa93feac8a7fbe5f81895950168df8e6e0c14c",
                 "size": 73276,
@@ -8196,7 +8196,7 @@
             },
             "assets/mtr/226/zj.mtl": {
                 "mtime": 1725008749,
-                "sha1": "2f1cfef83aa7c0fa7874ab417fbf6e8609ded497",
+                "sha1": "48a1b822212915733f78e7e0e258d334d313a92b",
                 "size": 6350,
                 "blame": "chaodee0724"
             },
@@ -9102,7 +9102,7 @@
             },
             "assets/mtrsteamloco/eyecandies/zhu/jintou.obj": {
                 "mtime": 1710648444,
-                "sha1": "699c861302e3ae82e2bb573d7243b073d6c5e4e1",
+                "sha1": "7dcab996d732cc5e66e4fbb2db0c7d5188dcb7e9",
                 "size": 12931,
                 "blame": "chaodee0724"
             },
