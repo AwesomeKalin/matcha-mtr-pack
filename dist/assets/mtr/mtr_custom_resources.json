@@ -2173,6 +2173,126 @@
 			"speed_sound_base_id": "mlr",
 			"speed_sound_count": 118,
 			"door_sound_base_id": "m_train"
+		},
+		"crt26": {
+			"name": "train.mtr.crt26",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "BOUNCY_1",
+			"script_files": [
+				"mtr:led.js"
+			],
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"description": "Made by LG STDUIO-ysmmz",
+			"model": "mtr:226/ct.obj|1;%1;reversed|mtr:226/ct.obj|-1;%1;|mtr:226/zj.obj|%2;%1,1,-1;|mtr:226/zj.obj|%2+1;%1,1,-1;reversed|mtr:226/light.obj|;;",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:226.json",
+			"flipV": true
+		},
+		"crt22": {
+			"name": "train.mtr.crt22",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "BOUNCY_1",
+			"script_files": [
+				"mtr:led.js"
+			],
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"description": "Made by LG STDUIO-ysmmz",
+			"model": "mtr:222/pids.obj|1;%1;reversed|mtr:222/pids.obj|-1;%1;|mtr:222/ct.obj|1;%1;reversed|mtr:222/ct.obj|-1;%1;|mtr:222/zj.obj|%2;%1,1,-1;|mtr:222/zj.obj|%2+1;%1,1,-1;reversed|mtr:226/light.obj|;;",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:226.json",
+			"flipV": true
+		},
+		"crt23": {
+			"name": "train.mtr.crt23",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "BOUNCY_1",
+			"script_files": [
+				"mtr:led.js"
+			],
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"description": "Made by LG STDUIO-ysmmz",
+			"model": "mtr:223/ct.obj|1;%1;reversed|mtr:223/ct.obj|-1;%1;|mtr:223/zj.obj|%2;%1,1,-1;|mtr:223/zj.obj|%2+1;%1,1,-1;reversed|mtr:226/light.obj|;;",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:223.json",
+			"flipV": true
+		},
+		"crt41": {
+			"name": "train.mtr.crt41_6",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "BOUNCY_1",
+			"script_files": [
+				"mtr:led_241.js"
+			],
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"description": "Made by LG STDUIO-ysmmz",
+			"model": "mtr:241/1.obj|1;%1;|mtr:241/1.obj|-1;%1;reversed|mtr:241/3.obj|%4+1;%1,1,-1;|mtr:241/2.obj|%4+2;%1,1,-1;|mtr:241/2.obj|%4+3;%1,1,-1;reversed|mtr:241/3.obj|%4+4;%1,1,-1;reversed|mtr:226/light.obj|;;",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:241.json",
+			"flipV": true
+		},
+		"crt41_8": {
+			"name": "train.mtr.crt41_8",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "BOUNCY_1",
+			"script_files": [
+				"mtr:led_241.js"
+			],
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"description": "Made by LG STDUIO-ysmmz",
+			"model": "mtr:241/1.obj|1;%1;|mtr:241/2.obj|2;%1;|mtr:241/2.obj|3;%1;|mtr:241/3.obj|4;%1,1,-1;|mtr:241/3.obj|5;%1,1,-1;reversed|mtr:241/2.obj|6;%1,1,-1;reversed|mtr:241/2.obj|7;%1,1,-1;reversed|mtr:241/1.obj|8;%1;reversed|mtr:226/light.obj|;;",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:241.json",
+			"flipV": true
+		},
+		"crt28": {
+			"name": "§28节编组列车 半成品",
+			"base_train_type": "test",
+			"color": "008337",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"speed_sound_count": 114,
+			"door_sound_base_id": "sp1900",
+			"rider_offset": 1,
+			"description": "对应现实02050-02061\n本车为半成品,仅供体验\n\nLG STDUIO-要什么名字制作",
+			"model": "mtr:8car/8main.obj|;;|mtr:8car/door/door.obj|;1;|mtr:8car/door/door.obj|1;%1;reversed",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:crt28.json"
+		},
+		"dggc": {
+			"name": "train.mtr.dggc",
+			"base_train_type": "lg3as",
+			"color": "008337",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"texture_id": "minecraft:6.png",
+			"gangway_connection_id": "mtr:air",
+			"rider_offset": 1,
+			"model": "mtr:gc/crtdgjx.obj",
+			"bve_sound_base_id": "226",
+			"model_properties": "mtr:gc/jcc.json",
+			"flipV": true
 		}
 	},
 	"custom_signs": {
@@ -2761,6 +2881,30 @@
 			"flip_custom_text": true,
 			"small": false,
 			"background_color": "810FD7"
+		},
+		"monorail_1": {
+			"texture_id": "mtr:sign/white.png",
+			"flip_texture": false,
+			"custom_text": "列车|Trains",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"monorail_2": {
+			"texture_id": "mtr:sign/white.png",
+			"flip_texture": false,
+			"custom_text": "列车|Trains",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"monorail_3": {
+			"texture_id": "mtr:sign/white.png",
+			"flip_texture": false,
+			"small": true
+		},
+		"monorail_4": {
+			"texture_id": "mtr:sign/black.png",
+			"flip_texture": false,
+			"small": true
 		}
 	}
 }

@@ -1,0 +1,22 @@
+{
+    "dangui": {
+        "name": "rail.mtrsteamloco.dangui",
+        "model": "mtrsteamloco:rails/dangui.obj",
+        "repeatInterval": 0.9
+    },
+    "dangui_n": {
+        "name": "rail.mtrsteamloco.dangui_n",
+        "model": "mtrsteamloco:rails/dangui_n.obj",
+        "repeatInterval": 0.9
+    },
+    "dangui_long": {
+        "name": "rail.mtrsteamloco.dangui_long",
+        "model": "mtrsteamloco:rails/dangui_long/dangui_long.csv",
+        "repeatInterval": 0.9
+    },
+    "dangui_long_middle": {
+        "name": "rail.mtrsteamloco.dangui_long_middle",
+        "model": "mtrsteamloco:rails/dangui_long/dangui_long_middle.csv",
+        "repeatInterval": 1.9
+    }
+}

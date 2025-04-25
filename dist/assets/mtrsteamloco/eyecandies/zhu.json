@@ -1,0 +1,18 @@
+{
+    "zhu1": {
+        "name": "单轨桥墩（2道并行;标准）",
+        "model": "mtrsteamloco:eyecandies/zhu/danguizhu1.obj"
+    },
+    "zhu2": {
+        "name": "单轨桥墩（1道;标准）",
+        "model": "mtrsteamloco:eyecandies/zhu/danguizhu2.obj"
+    },
+    "jintou": {
+        "name": "单轨支柱（只有头部无桥墩）",
+        "model": "mtrsteamloco:eyecandies/zhu/jintou.obj"
+    },
+    "jinzhu": {
+        "name": "单轨支柱（只有桥墩无头部）",
+        "model": "mtrsteamloco:eyecandies/zhu/jinzhu.obj"
+    }
+}

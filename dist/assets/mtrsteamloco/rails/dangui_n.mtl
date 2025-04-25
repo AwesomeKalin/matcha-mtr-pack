@@ -1,0 +1,40 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl hs1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/hs.png
+
+newmtl bs1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/bs.png
+
+newmtl dl1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/dl.png
+
+newmtl up1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/up.png
+
+newmtl side1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/side.png
+
+newmtl jm1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks 0.330000 0.330000 0.330000
+map_Kd dangui_n/jm.png
+

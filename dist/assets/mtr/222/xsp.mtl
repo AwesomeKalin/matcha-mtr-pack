@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl xsp#light
+Ka 0.000000 0.000000 0.000000
+kd 0.8 0.8 0.8
+Ks 0.330000 0.330000 0.330000
+map_Kd xsp.png
+

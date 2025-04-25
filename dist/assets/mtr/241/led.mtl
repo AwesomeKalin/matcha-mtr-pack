@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl zzpk#interior
+Ka 0.000000 0.000000 0.000000
+kd 0.9 0.9 0.9
+Ks 0.330000 0.330000 0.330000
+map_Kd led/zzpk.png
+
+newmtl zzp#light
+Ka 0.000000 0.000000 0.000000
+kd 0.9 0.9 0.9
+Ks 0.000000 0.000000 0.000000
+map_Kd led/zzp.png
+
