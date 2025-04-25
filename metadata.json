@@ -7782,7 +7782,7 @@
             },
             "assets/mtr/223/ct.mtl": {
                 "mtime": 1725008643,
-                "sha1": "f943acb20e1f4cb459fdb2323f6e9a56370c321e",
+                "sha1": "fc17f8a7f6f0e9279bab558505a0ff606463e112",
                 "size": 8532,
                 "blame": "chaodee0724"
             },
@@ -8530,7 +8530,7 @@
                 "size": 78479,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/241/crt41/_11.png": {
+            "assets/mtr/241/crt41/11.png": {
                 "mtime": 1724647280,
                 "sha1": "8ce1cab91af881165c9a71ccda626038eda9cee5",
                 "size": 26764,
@@ -8538,7 +8538,7 @@
             },
             "assets/mtr/241/crt41.mtl": {
                 "mtime": 1724771160,
-                "sha1": "60e8dad45b56a50ae6c671d43d4c34f97c36d365",
+                "sha1": "1f65c164e20dc0164235ae558114b98638c1ae3b",
                 "size": 8928,
                 "blame": "chaodee0724"
             },
@@ -9198,7 +9198,7 @@
             },
             "assets/mtrsteamloco/rails/dangui_long/dangui_long_middle.csv": {
                 "mtime": 1724158050,
-                "sha1": "3981bc19a3b3f1addf0842728344491d7c22a8da",
+                "sha1": "c907d8fa735d6c16bb7bdd28510b4c7c974ae37b",
                 "size": 16088,
                 "blame": "chaodee0724"
             },
