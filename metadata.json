@@ -45,6 +45,7 @@
             },
             "assets/mtr/sounds": {
                 "blame": [
+                    "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
                     "foxball17",
@@ -259,6 +260,7 @@
             },
             "assets/mtrsteamloco": {
                 "blame": [
+                    "alivekrikan",
                     "chaodee0724"
                 ]
             },
@@ -304,6 +306,7 @@
             },
             "assets/mtrsteamloco/rails": {
                 "blame": [
+                    "alivekrikan",
                     "chaodee0724"
                 ]
             },
@@ -612,6 +615,26 @@
             "assets/sounds": {
                 "blame": [
                     "foxball17"
+                ]
+            },
+            "assets/mtr/cum": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/cum/properties": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/cum/transparent": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/sounds/mono": {
+                "blame": [
+                    "alivekrikan"
                 ]
             }
         },
@@ -9274,12 +9297,6 @@
                 "size": 34786,
                 "blame": "chaodee0724"
             },
-            "assets/mtrsteamloco/rails/rails.json": {
-                "mtime": 1724144460,
-                "sha1": "befb18d57890635ff9b8e4c3ec0be32630328816",
-                "size": 694,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/doors/door_close.ogg": {
                 "mtime": 1651671524,
                 "sha1": "caa9034c7b961308dc5274234e1099330b265ac3",
@@ -9484,12 +9501,6 @@
                 "size": 83721,
                 "blame": "foxball17"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1745586377,
-                "sha1": "57b8c80c5561092fe9cfa5f6efe954c858408e18",
-                "size": 110037,
-                "blame": "foxball17"
-            },
             "assets/mtr/osaka_metro_21_series/osaka_metro_21_series.bbmodel": {
                 "mtime": 1732819902,
                 "sha1": "5d28b0e4755c2c9006e462f7fcb97f8ffed7cd69",
@@ -9598,17 +9609,305 @@
                 "size": 1023,
                 "blame": "foxball17"
             },
-            "assets/mtr/sounds.json": {
-                "mtime": 1745586407,
-                "sha1": "c81835b5706a609fe170a14fecc6f0352132083b",
-                "size": 64792,
-                "blame": "foxball17"
-            },
             "assets/sounds/sounds.json": {
                 "mtime": 1732815718,
                 "sha1": "365a3f02a109d88fcfe0dcf7a82e78abd2522413",
                 "size": 2235,
                 "blame": "foxball17"
+            },
+            "assets/mtr/cum/0d_tech.png": {
+                "mtime": 1727033711,
+                "sha1": "94199bb05b30fafdae4cccbcbef05be57193d8a8",
+                "size": 4098573,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_body.png": {
+                "mtime": 1727376514,
+                "sha1": "097a76b6f0b1d999be1e5aced98351ec93866eaa",
+                "size": 3422525,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_body_n.png": {
+                "mtime": 1727033876,
+                "sha1": "4137669f1494ced4923231ae99e0fd9630bc1eef",
+                "size": 2196424,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_body_s.png": {
+                "mtime": 1727127719,
+                "sha1": "965b6ec1eee5c2a2a4838b4dc5b0a2c39cbe9768",
+                "size": 1564005,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_cab.png": {
+                "mtime": 1727211242,
+                "sha1": "94b0a59204ffcd5169f0d0a7365909b2abc3af23",
+                "size": 2099162,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_int.png": {
+                "mtime": 1727210422,
+                "sha1": "5e520476382701b4e27cab91b37fcb5117ac0621",
+                "size": 2929329,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0s_seat.png": {
+                "mtime": 1727210447,
+                "sha1": "15b98ab0ec94b95364e7d66c6de0e95eb23bc182",
+                "size": 4119205,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0_series_head.mtl": {
+                "mtime": 1736202708,
+                "sha1": "db47d85ab646b46ea807fe11f1ea9ee00e8b2b95",
+                "size": 1824,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0_series_head.obj": {
+                "mtime": 1736202708,
+                "sha1": "4f702f48bc918439ed1349f1d60d1c552e2256cb",
+                "size": 6450796,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0_series_rear.mtl": {
+                "mtime": 1736203262,
+                "sha1": "db47d85ab646b46ea807fe11f1ea9ee00e8b2b95",
+                "size": 1824,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/0_series_rear.obj": {
+                "mtime": 1736203262,
+                "sha1": "5c2cd7c200881cd87df03b03860cc5bc37292dd6",
+                "size": 6450796,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/cube.mtl": {
+                "mtime": 1718919170,
+                "sha1": "4299290e14a0bf8f76a5538e336da4848a5a75fe",
+                "size": 229,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/cube.obj": {
+                "mtime": 1718919170,
+                "sha1": "ad5b7f9b781ebcce7daf1e60ea31ba85f12e8a46",
+                "size": 952,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/dark.png": {
+                "mtime": 1718920337,
+                "sha1": "e4de512d0e124f3661a652775ef892ef2bbb855d",
+                "size": 4224,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/floor.bbmodel": {
+                "mtime": 1727124949,
+                "sha1": "3bd55bd1992cbb4ff92ce5f2b7c019ee6a3b8f09",
+                "size": 5811,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/glass.png": {
+                "mtime": 1718033353,
+                "sha1": "68cea29b59d4ed3cc51fe2c919854fa35f8df3bc",
+                "size": 301,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/glass_s.png": {
+                "mtime": 1729712674,
+                "sha1": "f44defe4686aa1ac2954f097e542eeda06c8e569",
+                "size": 3047,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/gray.png": {
+                "mtime": 1727126381,
+                "sha1": "001d6979a90b4c2077f1ef412347e5c5bf2b251e",
+                "size": 609,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/main_body_2D_View.png": {
+                "mtime": 1727297030,
+                "sha1": "c05082a94d198c2532421f92f36901ee2873a077",
+                "size": 3674100,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/properties/mono.json": {
+                "mtime": 1736200571,
+                "sha1": "b416c004883d6b8e4e071f02ce5a24c2211d0cfa",
+                "size": 5090,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/red.png": {
+                "mtime": 1699050082,
+                "sha1": "066513eda337d516e2fca96fb87fa1f364f558c3",
+                "size": 369,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/transparent/transparent_connector_exterior.png": {
+                "mtime": 1699048930,
+                "sha1": "a55cfded42bb18377031607964de4b289fc5e3c4",
+                "size": 334,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/transparent/transparent_connector_floor.png": {
+                "mtime": 1699048930,
+                "sha1": "b66e1ae90edf59d7b72bd05585f46848f1aaac9a",
+                "size": 334,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/transparent/transparent_connector_roof.png": {
+                "mtime": 1699048930,
+                "sha1": "61bb04c1e490c660921b71543e761e4a45cbf005",
+                "size": 334,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/transparent/transparent_connector_side.png": {
+                "mtime": 1699048930,
+                "sha1": "7516053e97f4a6e43dd3ad6255826005ae00d709",
+                "size": 334,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/true_white.png": {
+                "mtime": 1698939442,
+                "sha1": "a723dae600a543b4bf79bee46872911658045810",
+                "size": 594,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/cum/zero.png": {
+                "mtime": 1699050082,
+                "sha1": "e4557111816fd4ba034cee92accdf6e381f7eb03",
+                "size": 365,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745680069,
+                "sha1": "5e6bd21b8fc221516801cd089f4a7e14453d9098",
+                "size": 113740,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/airhigh.ogg": {
+                "mtime": 1722457636,
+                "sha1": "956e55a01e5f343a026bf72c578c58c647370136",
+                "size": 28459,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/airzero.ogg": {
+                "mtime": 1722457636,
+                "sha1": "956e55a01e5f343a026bf72c578c58c647370136",
+                "size": 28459,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/brakefreq.csv": {
+                "mtime": 1728380816,
+                "sha1": "a267caec663269cbda5b474d64d1911d063d31fa",
+                "size": 139,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/brakevol.csv": {
+                "mtime": 1728381322,
+                "sha1": "dbcd7f37219890271fc1c1972839c09d4cb88198",
+                "size": 193,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/door.ogg": {
+                "mtime": 1728322548,
+                "sha1": "c42ea8f596e96999a61cf051a2abf1d319e257f0",
+                "size": 39617,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/motor0.ogg": {
+                "mtime": 1728322254,
+                "sha1": "bfcb7a2bfda08542f246f020253e31e169dcd0b1",
+                "size": 49563,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/motor1.ogg": {
+                "mtime": 1678431978,
+                "sha1": "da9139cd0a532230669b4f3c3e4e593d294762cf",
+                "size": 26684,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/motor11.ogg": {
+                "mtime": 1728322254,
+                "sha1": "a7fa56ab3bf2d4b9ad8e2433ab1589d11006e0ff",
+                "size": 39832,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/motor2.ogg": {
+                "mtime": 1729616443,
+                "sha1": "bb32d617a676790798a8a2f223e02435f5471d2d",
+                "size": 30419,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/powerfreq.csv": {
+                "mtime": 1728380858,
+                "sha1": "a267caec663269cbda5b474d64d1911d063d31fa",
+                "size": 139,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/powervol.csv": {
+                "mtime": 1728381272,
+                "sha1": "dbcd7f37219890271fc1c1972839c09d4cb88198",
+                "size": 193,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/run.ogg": {
+                "mtime": 1728382816,
+                "sha1": "ab9dc3da55d5d64996554d282a5bc09b77ad3893",
+                "size": 56335,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/run1.ogg": {
+                "mtime": 1728322254,
+                "sha1": "c14e09cfd6a2f240c6d7e6e8d3f1e74dabf55645",
+                "size": 63131,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/mono/sound.cfg": {
+                "mtime": 1728380364,
+                "sha1": "cece82664c469dbcc95656b079361e8c2e266129",
+                "size": 970,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1745680119,
+                "sha1": "27bc412cc7633f964bd4bc23bef7ce7f43521910",
+                "size": 84946,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails.json": {
+                "mtime": 1745680263,
+                "sha1": "2df7efb004ebccda4a5862f6e82668136ef4f9a4",
+                "size": 875,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails.png": {
+                "mtime": 1727377659,
+                "sha1": "5e8ba02b9c40b066c4d958598dbe008ee07d58b1",
+                "size": 2451523,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails_n.png": {
+                "mtime": 1727126047,
+                "sha1": "cc6e3e3c0a17dab145536bdbaa8c432d00f451bd",
+                "size": 2763436,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails_regular.mtl": {
+                "mtime": 1736203401,
+                "sha1": "f68ad652cb6f7050f9dd84e2386da5b4bcf81e64",
+                "size": 243,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails_regular.obj": {
+                "mtime": 1736203401,
+                "sha1": "5fb51adedd6fd2129987fc1f3a4e8d08b657440a",
+                "size": 45350,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/rails_s.png": {
+                "mtime": 1727127628,
+                "sha1": "09ca99c9ddec309f812ca4c1fc857dcaecee7b35",
+                "size": 2043155,
+                "blame": "alivekrikan"
             }
         }
     },

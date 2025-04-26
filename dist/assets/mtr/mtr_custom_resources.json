@@ -2439,6 +2439,24 @@
 			"model": "mtr:osaka_metro_21_series/osaka_metro_21_series.bbmodel",
 			"model_properties": "mtr:osaka_metro_21_series/osaka_metro_21_series.json",
 			"bve_sound_base_id": "osaka21igbt"
+		},
+		"cum_mon": {
+			"name": "Mitsubishi 0 series",
+			"description": "Monorail from Chiba, Japan",
+			"wikipedia_article": "",
+			"color": "e0e0de",
+			"gangway_connection_id": "",
+			"has_gangway_connection": false,
+			"train_barrier_id": "",
+			"door_animation_type": "STANDART",
+			"render_door_overlay": false,
+			"rider_offset": -1,
+			"texture_id": "mtrsteamloco:textures/block/nte_tile_faded.png",
+			"speed_sound_count": 24,
+			"bve_sound_base_id": "mono",
+			"model": "mtr:cum/0_series_head.obj|1;%1;|mtr:cum/0_series_rear.obj|-1;%1,1;reversed",
+			"model_properties": "mtr:cum/properties/mono.json",
+			"flipV": true
 		}
 	},
 	"custom_signs": {

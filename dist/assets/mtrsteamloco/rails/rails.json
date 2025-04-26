@@ -18,5 +18,11 @@
         "name": "rail.mtrsteamloco.dangui_long_middle",
         "model": "mtrsteamloco:rails/dangui_long/dangui_long_middle.csv",
         "repeatInterval": 1.9
+    },
+    "monorail_regular": {
+        "name": "regular_monorail",
+        "model": "mtrsteamloco:rails/rails_regular.obj",
+        "repeatInterval": 2,
+        "flipV": true
     }
 }
