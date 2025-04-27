@@ -3637,5 +3637,23 @@
                 "attenuation_distance": 48
             }
         ]
+    },
+    "korail_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:korail/door_open",
+                "pitch": 1.0,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "korail_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:korail/door_close",
+                "pitch": 1.0,
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
