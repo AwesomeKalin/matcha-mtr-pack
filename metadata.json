@@ -672,6 +672,31 @@
                 "blame": [
                     "alivekrikan"
                 ]
+            },
+            "assets/mtr/nsw_bset": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/nsw_kset": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/nsw_tset": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/sounds/sydney": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtr/sydney_metro_metropolis_stock": {
+                "blame": [
+                    "alivekrikan"
+                ]
             }
         },
         "files": {
@@ -12201,12 +12226,6 @@
                 "size": 3308,
                 "blame": "alivekrikan"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1745750738,
-                "sha1": "a3b8800f9496e0644de001babe6a82b1788167d2",
-                "size": 128972,
-                "blame": "alivekrikan"
-            },
             "assets/mtr/sounds/korail/door_close.ogg": {
                 "mtime": 1723383020,
                 "sha1": "335c0ee1132dbf0c72557703cf7f79778c7d5e6b",
@@ -12217,12 +12236,6 @@
                 "mtime": 1723382986,
                 "sha1": "2d1662ea08be90cab354a7b18756e08d3a679615",
                 "size": 17169,
-                "blame": "alivekrikan"
-            },
-            "assets/mtr/sounds.json": {
-                "mtime": 1745750764,
-                "sha1": "68da3ca1dd666152212b2f386c26f4d93c87ad77",
-                "size": 81732,
                 "blame": "alivekrikan"
             },
             "assets/mtrsteamloco/eyecandies/korailticketssub.mtl": {
@@ -12247,6 +12260,1260 @@
                 "mtime": 1707966851,
                 "sha1": "d5b06cbc9742065a1d8d07cc0598319adb66b96a",
                 "size": 317,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1745751053,
+                "sha1": "1977c7c9829635fc65838b918abb24f77cc24709",
+                "size": 148545,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/back_in.png": {
+                "mtime": 1624644026,
+                "sha1": "807d78fe58d52ae729f38a38988ad57481fabde2",
+                "size": 7114,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/badak.png": {
+                "mtime": 1624698815,
+                "sha1": "c4a8e2fa4b9babd6f27b80edaffe6c0b7a0fa48f",
+                "size": 2850,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/blue.png": {
+                "mtime": 1630431273,
+                "sha1": "50ac7121b7f1e334db6edb233591fbda78c1ddb1",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/canmagi_1.png": {
+                "mtime": 1626523723,
+                "sha1": "ebfa558a24a6a6bd2e39ecd48aa9cd37f2920f2f",
+                "size": 6502,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/chair.png": {
+                "mtime": 1674636025,
+                "sha1": "781ee7e26d081a5a2a6b713608ca1ebce6bd0986",
+                "size": 512019,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/cheonjang.png": {
+                "mtime": 1621058045,
+                "sha1": "2697582999ef182e985287ab99152b1cbcc49013",
+                "size": 76101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/darkgray.png": {
+                "mtime": 1617293333,
+                "sha1": "90a88a00620310ecea259c548cb2e3837abc161e",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/door.png": {
+                "mtime": 1650955957,
+                "sha1": "fca73d791cc5b1ab5374b0a7d0be727303a7936a",
+                "size": 3415,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/doorside.png": {
+                "mtime": 1624639234,
+                "sha1": "062c08995b6805b3cdb3ca2fbf898cf2388b44fb",
+                "size": 9480,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/doort.png": {
+                "mtime": 1630412507,
+                "sha1": "233476ca3136b9398691081eb61bc6962e8687fd",
+                "size": 7669,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/doort_in.png": {
+                "mtime": 1688563553,
+                "sha1": "03840ee94bfffc1e2afe5c40da25ef1f9c978f44",
+                "size": 3664,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/door_in.png": {
+                "mtime": 1617332042,
+                "sha1": "b38280be1da57e3e1e7eb88042128b9bb5a47398",
+                "size": 4845,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/driverwall_in.png": {
+                "mtime": 1601791768,
+                "sha1": "addb32e2e3b566bec8588a16bbdc3cd7e0fcd6d4",
+                "size": 65891,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/dt71.png": {
+                "mtime": 1494320738,
+                "sha1": "44548ca305b3d71cca04f37ad2db28e6b92a5933",
+                "size": 12030,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/front.png": {
+                "mtime": 1651033212,
+                "sha1": "69ddc4b5900d0a0b8cc20570b14119d206d44a3d",
+                "size": 11680,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/fronta.png": {
+                "mtime": 1657971968,
+                "sha1": "0f717e554af3a680012011d721b4da70a447eb35",
+                "size": 8086,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/frontgray.png": {
+                "mtime": 1630427608,
+                "sha1": "de87427269a13172b827dc193ac7039cee59da23",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/frontm.png": {
+                "mtime": 1630411780,
+                "sha1": "85db21d80fd8858fc83ebf682809428b1eab8fac",
+                "size": 21441,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/gray.png": {
+                "mtime": 1621082315,
+                "sha1": "59175ce3cf5ec6048917bf3c083bd649039b8b76",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/headlight.png": {
+                "mtime": 1621180124,
+                "sha1": "3efb43d8331e6340e98d2ce34ecc9e0b5a3ff66f",
+                "size": 6996,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/item.png": {
+                "mtime": 1674729320,
+                "sha1": "009e1858603ed1b47db3d33f838ed056cb7dc735",
+                "size": 53580,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/jibung.png": {
+                "mtime": 1617333903,
+                "sha1": "46cb41ada360eed7634f23502aa1ae9bb33f2383",
+                "size": 28145,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/jibung_1.png": {
+                "mtime": 1617333930,
+                "sha1": "91b38265969db945397b25f1f9274fc51b0d78fe",
+                "size": 22108,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/lcda.png": {
+                "mtime": 1723393446,
+                "sha1": "c950d485237c7150a23d358acc3afa2a42cef4ac",
+                "size": 121030,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/lineinfo.png": {
+                "mtime": 1651040831,
+                "sha1": "a82eb60161a047318824d6aacce8a4bfb509eff7",
+                "size": 9655,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/lineinfo_1.png": {
+                "mtime": 1624644364,
+                "sha1": "e68c1afa30d9cf96688146a1f0e160270f227c24",
+                "size": 6230,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetcoach.mtl": {
+                "mtime": 1723393508,
+                "sha1": "fce942a28f556c860514944030028977a307abc3",
+                "size": 3156,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetcoach.obj": {
+                "mtime": 1688558787,
+                "sha1": "6edfa2b71ea0e4a1c38b2584f94773eef093a738",
+                "size": 2426640,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetfront.mtl": {
+                "mtime": 1723393519,
+                "sha1": "013d5d3cd065a4ffcf14640f315455d530cbfba8",
+                "size": 4662,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetfront.obj": {
+                "mtime": 1688650563,
+                "sha1": "7c82ef98f40a4e9e50c56bf86153f2af5c0e1c1e",
+                "size": 2721640,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetpanto.mtl": {
+                "mtime": 1723393527,
+                "sha1": "a038e214958989b49510cf8acbc62059923c5989",
+                "size": 3158,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswasetpanto.obj": {
+                "mtime": 1688558869,
+                "sha1": "b83217f05194511a77fee70a3adc00fae9a92608",
+                "size": 2705989,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetcoach.mtl": {
+                "mtime": 1723393534,
+                "sha1": "a0d6f3713e9c3bc57844feaf868a1d5c5eadf123",
+                "size": 3154,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetcoach.obj": {
+                "mtime": 1688383843,
+                "sha1": "f2fce54ca5c08fbfdb00739b13f11ba0bc961474",
+                "size": 2427060,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetfront.mtl": {
+                "mtime": 1723393551,
+                "sha1": "9f68cf6019001b7d7f29c5717962c84628f546a4",
+                "size": 4659,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetfront.obj": {
+                "mtime": 1688383865,
+                "sha1": "cea1d31aacbc6d712da609ff6d26c18ab313dbb7",
+                "size": 2720593,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetpanto.mtl": {
+                "mtime": 1723393560,
+                "sha1": "14436bbecbefaffb42a22ee4557af6b7800f520a",
+                "size": 3156,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswbsetpanto.obj": {
+                "mtime": 1688383903,
+                "sha1": "dcd827b4d40491393c30b9f064c1210079813ac9",
+                "size": 2706409,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswmsetcoach.mtl": {
+                "mtime": 1723393566,
+                "sha1": "a7eee4189e2b1009ed40d4288077ea02ec54655e",
+                "size": 2916,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswmsetcoach.obj": {
+                "mtime": 1688565389,
+                "sha1": "e0f7e9cf299372e98b68abf3258f8c13e291253f",
+                "size": 2441864,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswmsetfront.mtl": {
+                "mtime": 1723393573,
+                "sha1": "6a2f165d00301e7784e9b7c6b21b595f832cdd2a",
+                "size": 4791,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nswmsetfront.obj": {
+                "mtime": 1688565540,
+                "sha1": "e6eedbb393c21909004c55da8d0eef68586e0743",
+                "size": 2626575,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/nsw_bset.json": {
+                "mtime": 1688387187,
+                "sha1": "d9f894b3b0a096992e5b55319e8fd29adf6dc559",
+                "size": 14882,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/number.png": {
+                "mtime": 1630410287,
+                "sha1": "04f61f3b93730fc5836d6eebe3dd8db89b1f8867",
+                "size": 5347,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/orange.png": {
+                "mtime": 1651030749,
+                "sha1": "556337db76cb5b0bf7827d30137e8ad53e03eda1",
+                "size": 1413,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/red.png": {
+                "mtime": 1617940311,
+                "sha1": "e6a23c9351c29bd313076c221bfd59c09544af01",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_m.png": {
+                "mtime": 1650957183,
+                "sha1": "502d6adeedae5a9b196c9849b216f583c7f722e0",
+                "size": 28679,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_ma.png": {
+                "mtime": 1657970185,
+                "sha1": "54c25d13a77b0aeb90b825addf1b0aef1e4adb31",
+                "size": 23865,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_ma_1.png": {
+                "mtime": 1657970244,
+                "sha1": "c9b18f5232747b4b8d62381d30f0f6af94a1692a",
+                "size": 23851,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mc.png": {
+                "mtime": 1651030687,
+                "sha1": "c4b6cb0773048772104d248819e94c3669aeb83c",
+                "size": 33964,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mca.png": {
+                "mtime": 1657972221,
+                "sha1": "77f8d05e2fed9d706eb626bd26423e0cba5916c7",
+                "size": 28479,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mca_1.png": {
+                "mtime": 1657972307,
+                "sha1": "178b6204d5f28129bccb2cfbced0c624c453bf1c",
+                "size": 28676,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mct.png": {
+                "mtime": 1630431313,
+                "sha1": "0a12739aa30ecf9017494e9f353a8f10c6d5fd06",
+                "size": 25021,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mct_1.png": {
+                "mtime": 1630431356,
+                "sha1": "02c792079810fa933e28bb4515ac52fdf6fae272",
+                "size": 24954,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mc_1.png": {
+                "mtime": 1651036771,
+                "sha1": "50db839634e9e16face45a08858aa303d24e8ef9",
+                "size": 33949,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_mt.png": {
+                "mtime": 1630414571,
+                "sha1": "971294d358bdc68b18807b230634e5bed3653459",
+                "size": 11287,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/side_m_1.png": {
+                "mtime": 1650959052,
+                "sha1": "b7bda3223d66ea8f10add1def5418c43a1f4dc4d",
+                "size": 28725,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/sonjabi.png": {
+                "mtime": 1617374347,
+                "sha1": "41efafa9ddb9bee0eaf4b31830a63368fcca2894",
+                "size": 8434,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/sub.png": {
+                "mtime": 1596816624,
+                "sha1": "7462e6806451806ce14c332b3a56f345db74633f",
+                "size": 207088,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/sydneymap.png": {
+                "mtime": 1624709201,
+                "sha1": "5285053ec24612dbdc9de40d4470d434ad192831",
+                "size": 681354,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/uija.png": {
+                "mtime": 1621337557,
+                "sha1": "8a6417809e03801e25439f39a4009e8f827f06ba",
+                "size": 8497,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/white.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/wiper1.png": {
+                "mtime": 1599210588,
+                "sha1": "3935a36f5c505e94466e4cc9e465c4651640f69a",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/wiper2.png": {
+                "mtime": 1599210589,
+                "sha1": "bb457bd00fa2e5594fccdce842e080d993b13773",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_bset/yellow.png": {
+                "mtime": 1617897786,
+                "sha1": "ec410a1a8e986e8dfa4f175b0e0848d7fde195db",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/badak.png": {
+                "mtime": 1640270301,
+                "sha1": "afc1d9bec984efba74154ea1f5659329885f2931",
+                "size": 1451,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/blue.png": {
+                "mtime": 1619334830,
+                "sha1": "b87f08e25d6cbd7ce53c124711d99d25c95d25a7",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/bupum.png": {
+                "mtime": 1617949850,
+                "sha1": "4d84f5ff60069a9eee9065b1dec974ada8a86146",
+                "size": 8895,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/chairimsi.png": {
+                "mtime": 1640073451,
+                "sha1": "0df37b4be47d46418cce8d7458fd82fc017bc8b9",
+                "size": 105610,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/cheonjang.png": {
+                "mtime": 1621058045,
+                "sha1": "2697582999ef182e985287ab99152b1cbcc49013",
+                "size": 76101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/darkgray.png": {
+                "mtime": 1617293333,
+                "sha1": "90a88a00620310ecea259c548cb2e3837abc161e",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/door.png": {
+                "mtime": 1640094280,
+                "sha1": "cf4fa10f06ce75126813df819f73616ca90a1d96",
+                "size": 1895,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/dt138.png": {
+                "mtime": 1443512556,
+                "sha1": "40b21837ada224ac3afed0f119cb86902848ea31",
+                "size": 20480,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/front.png": {
+                "mtime": 1640142652,
+                "sha1": "2b6ef6ece5639ac6b2a52a7ea086d828b78b33e9",
+                "size": 3544,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/frontdoor.png": {
+                "mtime": 1640087577,
+                "sha1": "23bd74218b7b640b628ccc156dee304ab52f3444",
+                "size": 3326,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/frontled.png": {
+                "mtime": 1640199654,
+                "sha1": "7cb9ba7cbbd4a17d9f6c3d98431622d08781c6cc",
+                "size": 3328,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/gray.png": {
+                "mtime": 1621082315,
+                "sha1": "59175ce3cf5ec6048917bf3c083bd649039b8b76",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/headlight.png": {
+                "mtime": 1621180124,
+                "sha1": "3efb43d8331e6340e98d2ce34ecc9e0b5a3ff66f",
+                "size": 6996,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/insidedoor.png": {
+                "mtime": 1688118092,
+                "sha1": "7a9deb73a6b18acb79b92e62e7a007c2935c65d2",
+                "size": 3260,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/item.png": {
+                "mtime": 1674729320,
+                "sha1": "009e1858603ed1b47db3d33f838ed056cb7dc735",
+                "size": 53580,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/jibung.png": {
+                "mtime": 1621080369,
+                "sha1": "2fbdc284d6778f4219391f591a03ba41177023bd",
+                "size": 27828,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/ksetgray.png": {
+                "mtime": 1640087786,
+                "sha1": "146f7b2c51d4b9a28d551029c59fe94df0531871",
+                "size": 1537,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/lineinfo.png": {
+                "mtime": 1624644364,
+                "sha1": "e68c1afa30d9cf96688146a1f0e160270f227c24",
+                "size": 6230,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/logo.png": {
+                "mtime": 1640199416,
+                "sha1": "7231d5bf898baa50eda1940c9c826f4e879216c0",
+                "size": 46829,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/logo1.png": {
+                "mtime": 1640244063,
+                "sha1": "b69b0cbc272287f4f1db98e05d4817b6c7beb8f2",
+                "size": 46445,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nswksetcoach.mtl": {
+                "mtime": 1688119988,
+                "sha1": "e252106d5637ea6bb92ebfb7f0b5b2b32c8c7f5e",
+                "size": 2663,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nswksetcoach.obj": {
+                "mtime": 1688119988,
+                "sha1": "3427ce79b4cbe25c38fcab0e031b08ee571362fa",
+                "size": 1676768,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nswksetfront.mtl": {
+                "mtime": 1688120067,
+                "sha1": "e8a72dadf5de32645a3705b731134bd67e126a34",
+                "size": 4407,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nswksetfront.obj": {
+                "mtime": 1688120067,
+                "sha1": "3d276d824b8fb9d85d69ff041f169f124e0839bb",
+                "size": 1959877,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nsw_kset.json": {
+                "mtime": 1688119259,
+                "sha1": "41825cf9112e15310d680a729eb6b754b4038c2b",
+                "size": 13815,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/nsw_kset_m.png": {
+                "mtime": 1688113596,
+                "sha1": "59175ce3cf5ec6048917bf3c083bd649039b8b76",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/number.png": {
+                "mtime": 1640001399,
+                "sha1": "7ba7d4da1d065b410911dc19c08d330cfacaa762",
+                "size": 6021,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/red.png": {
+                "mtime": 1617940311,
+                "sha1": "e6a23c9351c29bd313076c221bfd59c09544af01",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sidecoach.png": {
+                "mtime": 1640083158,
+                "sha1": "332346234129e5672b498b3d368a9d237dd1042f",
+                "size": 6107,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sidecoach_s.png": {
+                "mtime": 1640083206,
+                "sha1": "e33b066c053cae83917b7aeafcee9c85f17d89ab",
+                "size": 5901,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sidefront.png": {
+                "mtime": 1640082445,
+                "sha1": "9de95b801c0a90aa4ace70e74578e043a93ce4dc",
+                "size": 6007,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sidefront_s.png": {
+                "mtime": 1640082701,
+                "sha1": "40b3a8c020ae08e37abdf29117911aa5665c01d3",
+                "size": 5888,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/silver.png": {
+                "mtime": 1619334868,
+                "sha1": "14e36bed8204cea587437a0ba031edca91e35516",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sub.png": {
+                "mtime": 1619353813,
+                "sha1": "c81dfdd887e704e8b1b8e4d94d3a988d14411560",
+                "size": 188324,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sub2.png": {
+                "mtime": 1656504125,
+                "sha1": "93a4961432f4f097895be91975a12718e0046405",
+                "size": 277987,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/sydneymap.png": {
+                "mtime": 1624709201,
+                "sha1": "5285053ec24612dbdc9de40d4470d434ad192831",
+                "size": 681354,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/uija.png": {
+                "mtime": 1621337557,
+                "sha1": "8a6417809e03801e25439f39a4009e8f827f06ba",
+                "size": 8497,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/wiper1.png": {
+                "mtime": 1599210588,
+                "sha1": "3935a36f5c505e94466e4cc9e465c4651640f69a",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/wiper2.png": {
+                "mtime": 1599210589,
+                "sha1": "bb457bd00fa2e5594fccdce842e080d993b13773",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_kset/yellow.png": {
+                "mtime": 1621060181,
+                "sha1": "13444499348e495f3cd659413d43597a241bc4d6",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/back_in.png": {
+                "mtime": 1624644026,
+                "sha1": "807d78fe58d52ae729f38a38988ad57481fabde2",
+                "size": 7114,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/badak.png": {
+                "mtime": 1624698815,
+                "sha1": "c4a8e2fa4b9babd6f27b80edaffe6c0b7a0fa48f",
+                "size": 2850,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/blue.png": {
+                "mtime": 1630431273,
+                "sha1": "50ac7121b7f1e334db6edb233591fbda78c1ddb1",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/canmagi_1.png": {
+                "mtime": 1626523723,
+                "sha1": "ebfa558a24a6a6bd2e39ecd48aa9cd37f2920f2f",
+                "size": 6502,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/chair.png": {
+                "mtime": 1674636025,
+                "sha1": "781ee7e26d081a5a2a6b713608ca1ebce6bd0986",
+                "size": 512019,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/cheonjang.png": {
+                "mtime": 1621058045,
+                "sha1": "2697582999ef182e985287ab99152b1cbcc49013",
+                "size": 76101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/darkgray.png": {
+                "mtime": 1617293333,
+                "sha1": "90a88a00620310ecea259c548cb2e3837abc161e",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/door.png": {
+                "mtime": 1630412507,
+                "sha1": "233476ca3136b9398691081eb61bc6962e8687fd",
+                "size": 7669,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/doorg.png": {
+                "mtime": 1688626063,
+                "sha1": "e8d4355e4a8ed5175edae81e047ba5aa513f6cc6",
+                "size": 3588,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/doorside.png": {
+                "mtime": 1624639234,
+                "sha1": "062c08995b6805b3cdb3ca2fbf898cf2388b44fb",
+                "size": 9480,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/door_in.png": {
+                "mtime": 1624694812,
+                "sha1": "fa5217b44981f8a76efa1dd20315677b39a78d53",
+                "size": 5885,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/driverwall_in.png": {
+                "mtime": 1601791768,
+                "sha1": "addb32e2e3b566bec8588a16bbdc3cd7e0fcd6d4",
+                "size": 65891,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/dt71.png": {
+                "mtime": 1494320738,
+                "sha1": "44548ca305b3d71cca04f37ad2db28e6b92a5933",
+                "size": 12030,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/emergency.png": {
+                "mtime": 1632593244,
+                "sha1": "bf935bb05d9a5c15ce20d75dbd347c1570baf9d5",
+                "size": 5422,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/front.png": {
+                "mtime": 1632581276,
+                "sha1": "a670c02ed748dfa03c136378987fd7ac527afc88",
+                "size": 12131,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/frontg.png": {
+                "mtime": 1688622423,
+                "sha1": "e4910820d9fec1ac2b083ec95405431d3b9b8f76",
+                "size": 10507,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/gray.png": {
+                "mtime": 1621082315,
+                "sha1": "59175ce3cf5ec6048917bf3c083bd649039b8b76",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/item.png": {
+                "mtime": 1674729320,
+                "sha1": "009e1858603ed1b47db3d33f838ed056cb7dc735",
+                "size": 53580,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/jibung.png": {
+                "mtime": 1617333903,
+                "sha1": "46cb41ada360eed7634f23502aa1ae9bb33f2383",
+                "size": 28145,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/jibung_1.png": {
+                "mtime": 1617333930,
+                "sha1": "91b38265969db945397b25f1f9274fc51b0d78fe",
+                "size": 22108,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/lcda.png": {
+                "mtime": 1723393376,
+                "sha1": "3d734dd9004236a9c3daef36ef625839e2f1b8a2",
+                "size": 120811,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/lineinfo.png": {
+                "mtime": 1624644364,
+                "sha1": "e68c1afa30d9cf96688146a1f0e160270f227c24",
+                "size": 6230,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswgsetcoach.mtl": {
+                "mtime": 1688647470,
+                "sha1": "1cadea4cbd8e0ce8f2e0edc549a25b0c53980ec3",
+                "size": 2786,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswgsetcoach.obj": {
+                "mtime": 1688627248,
+                "sha1": "6ffe3444677298bc66226235a8d7845f7bca2442",
+                "size": 2341280,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswgsetfront.mtl": {
+                "mtime": 1688647483,
+                "sha1": "597d291769d8e8871b2fc383f146b054613f26db",
+                "size": 4406,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswgsetfront.obj": {
+                "mtime": 1688630803,
+                "sha1": "49f5854a8068c55464da442a8b7326e5aa30f75a",
+                "size": 2764328,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswtsetcoach.mtl": {
+                "mtime": 1688180093,
+                "sha1": "f2da53a3b2fbff2f6d37cf99e0f645e6e662dde4",
+                "size": 2776,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswtsetcoach.obj": {
+                "mtime": 1688180093,
+                "sha1": "ba781495a70d72ab3f7fb99d1f7347dc65a93a53",
+                "size": 2306360,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswtsetfront.mtl": {
+                "mtime": 1688181748,
+                "sha1": "52d6721776c0aef38f9fd9f4ff804914ffb26437",
+                "size": 4398,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nswtsetfront.obj": {
+                "mtime": 1688181748,
+                "sha1": "814185e6bd2a3a5737480ee0432ba2a80fa2e1d6",
+                "size": 2576291,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nsw_tset.json": {
+                "mtime": 1688181770,
+                "sha1": "a55d9660fbbf6912a097c9fc84525f149d2e52ba",
+                "size": 14471,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/nsw_tset_m.png": {
+                "mtime": 1688180990,
+                "sha1": "59175ce3cf5ec6048917bf3c083bd649039b8b76",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/number.png": {
+                "mtime": 1632540760,
+                "sha1": "3b63627c9e252cd8ca6de2f14b3ed1911287b559",
+                "size": 4570,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/numberg.png": {
+                "mtime": 1688626163,
+                "sha1": "c0cb715167940e4ab8cc0435176930587fc42ee7",
+                "size": 5486,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_m.png": {
+                "mtime": 1632561430,
+                "sha1": "e99dfef8d79d3f6c958b9805ab95e437736c59d9",
+                "size": 22875,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_m1.png": {
+                "mtime": 1632561448,
+                "sha1": "96094987ffe4f9284dd0f1c2f743b3c653eb7c98",
+                "size": 22942,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mc.png": {
+                "mtime": 1632590104,
+                "sha1": "a5c6f4480dcf7e9d6a5e18194d800c8409c55ecf",
+                "size": 32416,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mc1.png": {
+                "mtime": 1632590695,
+                "sha1": "295a665d0bcd40363b2efd3dc38b8339040532fd",
+                "size": 32439,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mcg.png": {
+                "mtime": 1688627521,
+                "sha1": "93a714be4a8ed9c047d4dfbe676dfd9f79bfdd2a",
+                "size": 28721,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mcg_1.png": {
+                "mtime": 1688627592,
+                "sha1": "4d8d6ba714199c54fe97232895b470652e4ff661",
+                "size": 28894,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mg.png": {
+                "mtime": 1688627699,
+                "sha1": "41029945ff7f865a7711e66ddd6fec346b45f842",
+                "size": 23293,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/side_mg_1.png": {
+                "mtime": 1688627742,
+                "sha1": "db0aa2ddce36c7add347dcf03e84a53dbbefafd7",
+                "size": 23499,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/silver.png": {
+                "mtime": 1619334868,
+                "sha1": "14e36bed8204cea587437a0ba031edca91e35516",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/sonjabi.png": {
+                "mtime": 1617374347,
+                "sha1": "41efafa9ddb9bee0eaf4b31830a63368fcca2894",
+                "size": 8434,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/sub.png": {
+                "mtime": 1596816624,
+                "sha1": "7462e6806451806ce14c332b3a56f345db74633f",
+                "size": 207088,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/sydneymap.png": {
+                "mtime": 1624709201,
+                "sha1": "5285053ec24612dbdc9de40d4470d434ad192831",
+                "size": 681354,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/sydneymap_1.png": {
+                "mtime": 1688647445,
+                "sha1": "cc90515df85471f1bb9ba75a6db1005635b2f3c3",
+                "size": 935634,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/toilet.png": {
+                "mtime": 1617964626,
+                "sha1": "337652b86ff4bda60719757b96c038bca762c9ef",
+                "size": 19017,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/uija.png": {
+                "mtime": 1621337557,
+                "sha1": "8a6417809e03801e25439f39a4009e8f827f06ba",
+                "size": 8497,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/white.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/wiper1.png": {
+                "mtime": 1599210588,
+                "sha1": "3935a36f5c505e94466e4cc9e465c4651640f69a",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/wiper2.png": {
+                "mtime": 1599210589,
+                "sha1": "bb457bd00fa2e5594fccdce842e080d993b13773",
+                "size": 99,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/nsw_tset/yellow.png": {
+                "mtime": 1617897786,
+                "sha1": "ec410a1a8e986e8dfa4f175b0e0848d7fde195db",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/sydney/door_close.ogg": {
+                "mtime": 1723382627,
+                "sha1": "48ba6e0fdc94dffdc4cdac36008a593297ba6068",
+                "size": 21774,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds/sydney/door_open.ogg": {
+                "mtime": 1723382829,
+                "sha1": "02d506330a1f0dc3b0b2d2cacbd911d579ca6eba",
+                "size": 19016,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1745751069,
+                "sha1": "710577febb7b31fbe5a2813977cbc2c31fca2fd1",
+                "size": 82158,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/busanair.png": {
+                "mtime": 1685449571,
+                "sha1": "789faad4490fc16a05dd57d5d4844ec8b9e7db28",
+                "size": 159707,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/cheonjang.png": {
+                "mtime": 1619335733,
+                "sha1": "033a60c14a2c263f169cd96918ecae49e1bd7bc6",
+                "size": 8179,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/darkgray.png": {
+                "mtime": 1674712329,
+                "sha1": "7c67128c666cf4d4f1b461a25cd9dfc3ab4ec938",
+                "size": 1413,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/doorside.png": {
+                "mtime": 1674659972,
+                "sha1": "01351f2f8f52e6cb4cbe1fb95bc7a3c3f1070c78",
+                "size": 23415,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/driverdoor.png": {
+                "mtime": 1674631768,
+                "sha1": "9c84e69b5d711b563b0a659039b0f4271d30a5be",
+                "size": 3584,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/dt71.png": {
+                "mtime": 1494320738,
+                "sha1": "44548ca305b3d71cca04f37ad2db28e6b92a5933",
+                "size": 12030,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/floor.png": {
+                "mtime": 1674631657,
+                "sha1": "c5de928e97befb460ce14b6d6bcbcabb001c32ab",
+                "size": 2713585,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/floordoor.png": {
+                "mtime": 1674631991,
+                "sha1": "0c452404408e115c02946cd635cb16fe14d92203",
+                "size": 2151953,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/front.png": {
+                "mtime": 1685714043,
+                "sha1": "13db79a020d035cd84e4f7395e8a1d1f52f5f8e3",
+                "size": 35529,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/front2_a.png": {
+                "mtime": 1643192056,
+                "sha1": "8d55ad3b6caa7d02b2e544e53650e4807c567d68",
+                "size": 51830,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/gray.png": {
+                "mtime": 1617430298,
+                "sha1": "9e417366825b90a8f2b4aab919bb57166ffe1787",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/item1.png": {
+                "mtime": 1674729320,
+                "sha1": "009e1858603ed1b47db3d33f838ed056cb7dc735",
+                "size": 53580,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/jibung.png": {
+                "mtime": 1674635036,
+                "sha1": "bc7aee6ae815e02671944ec20afd3aa850916578",
+                "size": 3994,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/jibungno.png": {
+                "mtime": 1674560266,
+                "sha1": "e7d113549b22cbaa4eeb8cc2fa1bc0090a0df914",
+                "size": 4324,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/led.png": {
+                "mtime": 1674708202,
+                "sha1": "240cf4f43da253715c4f5ea73d80f1a1241f5b3b",
+                "size": 2658,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/mcside.png": {
+                "mtime": 1674704602,
+                "sha1": "be059ec25db7dc229bc950ff6730efc5a6e14114",
+                "size": 11624,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/metroblue.png": {
+                "mtime": 1674632177,
+                "sha1": "9939fea2c279bfb9493821c71fa78abe4d7ea154",
+                "size": 1413,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/metrowhite.png": {
+                "mtime": 1674632321,
+                "sha1": "c160f1ae29f362705124303ed1e4df7a87e2121c",
+                "size": 1619,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/mside.png": {
+                "mtime": 1674643688,
+                "sha1": "5f077dcd3e9a3f3aff11e082dc171fb6a1ad0082",
+                "size": 5195,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/mts.png": {
+                "mtime": 1674704847,
+                "sha1": "8c4ccc68464c1ce066c8c8479f8204ced707eacb",
+                "size": 13119,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/munder1.png": {
+                "mtime": 1596299556,
+                "sha1": "2e1bae29807d70647373d76b2e9d1e39e3ca8417",
+                "size": 31705,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sidedoor.png": {
+                "mtime": 1674644033,
+                "sha1": "165585826f6db5681d3fd803bd35ef15993e08f5",
+                "size": 5611,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/silver.png": {
+                "mtime": 1619334868,
+                "sha1": "14e36bed8204cea587437a0ba031edca91e35516",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sit.png": {
+                "mtime": 1685448069,
+                "sha1": "5183e1f500f02a0b1e64eae7717a7e13b7d038ec",
+                "size": 41010,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sit2.png": {
+                "mtime": 1685447963,
+                "sha1": "92eacc3a0aa2b968e958b50a3c3693588274aa72",
+                "size": 65909,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sub.png": {
+                "mtime": 1656504125,
+                "sha1": "93a4961432f4f097895be91975a12718e0046405",
+                "size": 277987,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sub1.png": {
+                "mtime": 1596816624,
+                "sha1": "7462e6806451806ce14c332b3a56f345db74633f",
+                "size": 207088,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/subno.png": {
+                "mtime": 1640085106,
+                "sha1": "8612836189a95e3fa99f7f6b014ed8a2029f9f7b",
+                "size": 7986,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymap.png": {
+                "mtime": 1624709201,
+                "sha1": "5285053ec24612dbdc9de40d4470d434ad192831",
+                "size": 681354,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_m.mtl": {
+                "mtime": 1723396074,
+                "sha1": "0596316a0d1eb4427af7765294f5d63089125b88",
+                "size": 3892,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_m.obj": {
+                "mtime": 1723396074,
+                "sha1": "20838ed757d655d1b6b5a64c7d4cfb0187386975",
+                "size": 4142105,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_t.mtl": {
+                "mtime": 1723396121,
+                "sha1": "67996d8f2e2ba8d41a9b609da41429599d41b782",
+                "size": 3648,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_t.obj": {
+                "mtime": 1723396121,
+                "sha1": "75b09b30389ce9714192c1664f3332b0e52e68bb",
+                "size": 3871908,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_tc.mtl": {
+                "mtime": 1723396300,
+                "sha1": "4c2a20069e64d11729f78ae3c51026926b35c667",
+                "size": 3891,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydneymetro_tc.obj": {
+                "mtime": 1723396300,
+                "sha1": "ac12a972f5c77cffed46814c7af3a5d88b241e88",
+                "size": 3877993,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydney_metro_metropolis_stock.json": {
+                "mtime": 1723396372,
+                "sha1": "ea7786c0f860cfaf901f304409531d4d1bbe9fda",
+                "size": 14677,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/sydney_metro_metropolis_stock.png": {
+                "mtime": 1685791982,
+                "sha1": "9e417366825b90a8f2b4aab919bb57166ffe1787",
+                "size": 2802,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/white.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "alivekrikan"
+            },
+            "assets/mtr/sydney_metro_metropolis_stock/yellow.png": {
+                "mtime": 1617367863,
+                "sha1": "e328d6cc77e7513e456af8910f6d2ca3ea26c4e9",
+                "size": 2798,
                 "blame": "alivekrikan"
             }
         }
