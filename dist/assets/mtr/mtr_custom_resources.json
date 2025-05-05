@@ -1612,7 +1612,7 @@
 			"speed_sound_base_id": "cx100",
 			"door_sound_base_id": "cx100",
 			"has_gangway_connection": false,
-			"model": "mtr:apm/apm_100.bbmodel",
+			"model": "mtr:custom_directory/apm_100.bbmodel",
 			"model_properties": "mtr:apm/apm_100.json",
 			"name": "APM 100 PurpleRail"
 		},
@@ -3239,6 +3239,30 @@
 			"texture_id": "mtr:nsw_bset/gray",
 			"model": "mtr:nsw_bset/nswbsetfront.obj|1;%1;|mtr:nsw_bset/nswbsetcoach.obj|;1,-1;|mtr:nsw_bset/nswbsetfront.obj|-1;%1,1;reversed",
 			"model_properties": "mtr:nsw_bset/nsw_bset.json"
+		},
+		"apm_100_red": {
+			"base_train_type": "base_11_2",
+			"color": "FF0000",
+			"texture_id": "mtr:custom_directory/apm_100_red",
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "cx100",
+			"door_sound_base_id": "cx100",
+			"has_gangway_connection": false,
+			"model": "mtr:custom_directory/apm_100.bbmodel",
+			"model_properties": "mtr:custom_directory/apm_100.json",
+			"name": "APM 100 Red (TPA)"
+		},
+		"apm_100_blue": {
+			"base_train_type": "base_11_2",
+			"color": "00FFFF",
+			"texture_id": "mtr:custom_directory/apm_100_blue",
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "cx100",
+			"door_sound_base_id": "cx100",
+			"has_gangway_connection": false,
+			"model": "mtr:custom_directory/apm_100.bbmodel",
+			"model_properties": "mtr:custom_directory/apm_100.json",
+			"name": "APM 100 Blue (TPA)"
 		}
 	},
 	"custom_signs": {
@@ -3851,6 +3875,62 @@
 			"texture_id": "mtr:sign/black.png",
 			"flip_texture": false,
 			"small": true
+		},
+		"dmr_logo": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_l_short": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "鐸鐵|DMR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_r_short": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "鐸鐵|DMR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"dmr_l_long": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "鐸克林地鐵|Docklands Metro",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_r_long": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "鐸克林地鐵|Docklands Metro",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"dmr_l_welcome": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "歡迎乘搭鐸鐵|Welcome onboard DMR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_r_welcome": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "歡迎乘搭鐸鐵|Welcome onboard DMR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"dmr_exit_1": {
+			"texture_id": "mtr:dmrsigns/exit1.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "00944F"
+		},
+		"dmr_exit_2": {
+			"texture_id": "mtr:dmrsigns/exit2.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "00944F"
 		}
 	}
 }
