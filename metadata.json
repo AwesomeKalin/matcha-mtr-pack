@@ -719,6 +719,21 @@
                 "blame": [
                     "awesomekalin55"
                 ]
+            },
+            "assets/mtr/dmrb16": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/dmrp02": {
+                "blame": [
+                    "chaodee0724"
+                ]
+            },
+            "assets/mtr/dmrv12": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -13580,12 +13595,6 @@
                 "size": 307992,
                 "blame": "awesomekalin55"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1746432887,
-                "sha1": "503de8d70cdefa144d9d44a9eabaea2de55c09af",
-                "size": 146950,
-                "blame": "awesomekalin55"
-            },
             "assets/mtr/sounds/cx100/acceleration/speed_0a.ogg": {
                 "mtime": 1636278084,
                 "sha1": "59ef644fe2ca182a9b980444e1b32643543fe2bf",
@@ -14179,6 +14188,78 @@
                 "sha1": "9b6ab705811cd06c10e989753ddbea0101330e5c",
                 "size": 108812,
                 "blame": "awesomekalin55"
+            },
+            "assets/mtr/dmrb16/dmrb16.bbmodel": {
+                "mtime": 1746873141,
+                "sha1": "edf89b11835d8ac668b89a69f56d0508f09545f0",
+                "size": 868291,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrb16/dmrb16.json": {
+                "mtime": 1746872687,
+                "sha1": "abcee9604a1c1a373d17744d4b0947fca61e6cad",
+                "size": 15591,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrb16/dmrb16.png": {
+                "mtime": 1746873141,
+                "sha1": "aa4519414029dfc9c5d014f26bf476fdeed37ed2",
+                "size": 318598,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp02/dmrp02.bbmodel": {
+                "mtime": 1746819474,
+                "sha1": "ba70534a9ec71739bf98c2de2ed6397a024450de",
+                "size": 829286,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp02/dmrp02.json": {
+                "mtime": 1746820778,
+                "sha1": "48e7851e4718249fa63a5a728f968857d2062690",
+                "size": 15381,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp02/dmrp02.png": {
+                "mtime": 1746814842,
+                "sha1": "8f5967adee2066aa91fba4cd0041d23580efbec9",
+                "size": 314292,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrp02/dmrp03.json": {
+                "mtime": 1732907107,
+                "sha1": "74270e9c62ea083ea1a11c9da36b5066bddfa361",
+                "size": 15536,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrv12/dmrv11.json": {
+                "mtime": 1746816091,
+                "sha1": "2c43c42e4a3ded6aa4b9e9ac601e4ff11c34890e",
+                "size": 15516,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrv12/dmrv12.bbmodel": {
+                "mtime": 1746873976,
+                "sha1": "96986e504b87055270c70ce14aa869a3035522fd",
+                "size": 1015332,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrv12/dmrv12.json": {
+                "mtime": 1746816826,
+                "sha1": "fd3b59c1404c44f7381461f6b649a7bb2c856829",
+                "size": 13546,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/dmrv12/dmrv12.png": {
+                "mtime": 1746873976,
+                "sha1": "d411281edb174b62d3405f63b3d3088aacf01d86",
+                "size": 383787,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1746881025,
+                "sha1": "20d75d348c5497bee037d87d1812d5e55e1c7dc1",
+                "size": 154055,
+                "blame": "chaodee0724"
             }
         }
     },
