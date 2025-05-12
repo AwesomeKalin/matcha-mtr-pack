@@ -14,7 +14,8 @@
                     "matcha",
                     "max_o_shea_16",
                     "raw",
-                    "sebpartof2"
+                    "sebpartof2",
+                    "tbtg"
                 ]
             },
             "assets": {
@@ -26,7 +27,8 @@
                     "l_kao",
                     "matcha",
                     "max_o_shea_16",
-                    "sebpartof2"
+                    "sebpartof2",
+                    "tbtg"
                 ]
             },
             "assets/mtr": {
@@ -38,7 +40,8 @@
                     "l_kao",
                     "matcha",
                     "max_o_shea_16",
-                    "sebpartof2"
+                    "sebpartof2",
+                    "tbtg"
                 ]
             },
             "assets/mtr/class508": {
@@ -53,7 +56,8 @@
                     "chaodee0724",
                     "foxball17",
                     "l_kao",
-                    "matcha"
+                    "matcha",
+                    "tbtg"
                 ]
             },
             "assets/mtr/sounds/class507": {
@@ -831,6 +835,16 @@
             "assets/mtr/sounds/singing_gto_vvvf": {
                 "blame": [
                     "l_kao"
+                ]
+            },
+            "assets/mtr/n700a": {
+                "blame": [
+                    "tbtg"
+                ]
+            },
+            "assets/mtr/sounds/n700a": {
+                "blame": [
+                    "tbtg"
                 ]
             }
         },
@@ -14587,12 +14601,6 @@
                 "size": 6179,
                 "blame": "l_kao"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1747065029,
-                "sha1": "d14918c892e653a5619b762b1217cd8cbd56161f",
-                "size": 171645,
-                "blame": "l_kao"
-            },
             "assets/mtr/road_train/red.png": {
                 "mtime": 1711537237,
                 "sha1": "64e9f54121d7dc124eb6d9bdfcb4bdbed30f31de",
@@ -15565,12 +15573,6 @@
                 "size": 1031,
                 "blame": "l_kao"
             },
-            "assets/mtr/sounds.json": {
-                "mtime": 1747065052,
-                "sha1": "e6f210d9392bd09e02afa4fe0516dfc62579cf40",
-                "size": 139412,
-                "blame": "l_kao"
-            },
             "assets/mtrsteamloco/eyecandies/lucasshire_railways.mtl": {
                 "mtime": 1718380068,
                 "sha1": "0661c41dd8a7b29556cb5970a08802726cbf511b",
@@ -15636,6 +15638,222 @@
                 "sha1": "b359fe0e3ee5b41b56db95851b6d95b66cc2d9af",
                 "size": 2819,
                 "blame": "l_kao"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1747065909,
+                "sha1": "46eafbe3be71abd6248edef2dac407f5bf6a09a0",
+                "size": 175556,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a.bbmodel": {
+                "mtime": 1723826684,
+                "sha1": "cfd2099e668879b30180bfab0f4adee4dcad88d6",
+                "size": 1664455,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a.png": {
+                "mtime": 1723826684,
+                "sha1": "101b4d3147754d6dc2f1cae5628a1076700145c8",
+                "size": 208543,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a10.json": {
+                "mtime": 1723884282,
+                "sha1": "df262e910c147ee1b8565793d2ad5dd4653dbf26",
+                "size": 14908,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a12.json": {
+                "mtime": 1723884080,
+                "sha1": "dd0c6fb84d6baf052571bde4d8223daf0393bce9",
+                "size": 15322,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a16.json": {
+                "mtime": 1723826684,
+                "sha1": "cb7801f3a8e7f31d82f74e0e33f9deb7e91ab52a",
+                "size": 16151,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a6.json": {
+                "mtime": 1723884526,
+                "sha1": "f4d086b9b7d0bf80229886be9e3588a35afab235",
+                "size": 14087,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700a8.json": {
+                "mtime": 1723884434,
+                "sha1": "7f4ed80bac6203261c9c37654146d55f2d6c054b",
+                "size": 14497,
+                "blame": "tbtg"
+            },
+            "assets/mtr/n700a/n700afl.json": {
+                "mtime": 1723885098,
+                "sha1": "265d7cc88908bdd8d76022c82f58947c5fc82107",
+                "size": 12011,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/air.ogg": {
+                "mtime": 1307020722,
+                "sha1": "3671f54565ed0576f8a40680da685f0bb28df719",
+                "size": 15937,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/airhigh.ogg": {
+                "mtime": 1321193442,
+                "sha1": "d3097cfe490ab24ed08debb5d0425634062654ef",
+                "size": 23775,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/airzero.ogg": {
+                "mtime": 1319606324,
+                "sha1": "236f9f08ebc83135a6e039efa047cda42637aee6",
+                "size": 35050,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/brakefreq.csv": {
+                "mtime": 1673793066,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/brakevol.csv": {
+                "mtime": 1673793054,
+                "sha1": "33cc4a65bb1cac5d924576ce16c962c345c1c781",
+                "size": 81,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/door_close.ogg": {
+                "mtime": 1723571582,
+                "sha1": "d2c7c744bca835157ed79d690b3cd51031dc9b5e",
+                "size": 31852,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/door_open.ogg": {
+                "mtime": 1723571590,
+                "sha1": "8b87a46dfde7f58378926f2e468b31f796e8c441",
+                "size": 75933,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/emr.ogg": {
+                "mtime": 1307856318,
+                "sha1": "3888c73c03b0cdb54d38bbf12c8c0448aed528e0",
+                "size": 6629,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/flange.ogg": {
+                "mtime": 1488249541,
+                "sha1": "dd8634ce7aacc1aeeca32854a6cc1586c3e8f124",
+                "size": 65963,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/loop.ogg": {
+                "mtime": 1321256578,
+                "sha1": "e29f2248d370f33e1f37198b160d010ec32634e4",
+                "size": 37623,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor0.ogg": {
+                "mtime": 1723831483,
+                "sha1": "c90dd62739d2a2674ae70f2c07a1eceffc8a70a7",
+                "size": 45776,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor1.ogg": {
+                "mtime": 1723831500,
+                "sha1": "ed810ed853e129f4ee28824ac1d15ff73621039b",
+                "size": 46123,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor2.ogg": {
+                "mtime": 1723831516,
+                "sha1": "be28494f7ba669acea2fc0b0337587f7ce98b4b8",
+                "size": 109446,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor3.ogg": {
+                "mtime": 1723831529,
+                "sha1": "003f1005f86738033fa4687d668e3c1e9c0e4e71",
+                "size": 52510,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor4.ogg": {
+                "mtime": 1723831544,
+                "sha1": "145a91ad67e3d85831575ed457553a0e22a87829",
+                "size": 46909,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor5.ogg": {
+                "mtime": 1723831206,
+                "sha1": "da74cbde10d8a338544957b676882a24ac97544a",
+                "size": 59525,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/motor6.ogg": {
+                "mtime": 1723831254,
+                "sha1": "3b10e00d2b77557c9503e142feac7a7cdf01d08b",
+                "size": 52647,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/point.ogg": {
+                "mtime": 1322162592,
+                "sha1": "5a7444a95dcea2fcc97a6e38642376156895c325",
+                "size": 60739,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/powerfreq.csv": {
+                "mtime": 1675258934,
+                "sha1": "5714bc840a6d98b096742cabe4e0bd0ef6f3644c",
+                "size": 244,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/powervol.csv": {
+                "mtime": 1673793052,
+                "sha1": "c4aca1b50fb88f30101b02bf1eae87876d65e2b5",
+                "size": 305,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/rub.ogg": {
+                "mtime": 1723831825,
+                "sha1": "828e01153bd39fabcda898848500aedd5f64b54e",
+                "size": 29048,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/run.ogg": {
+                "mtime": 1723834018,
+                "sha1": "29fde53cd269f978ee701d055ac4cb5eba8e208a",
+                "size": 43461,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/run5.ogg": {
+                "mtime": 1723832160,
+                "sha1": "35826749acc7952ab6e2c87a49756554218419ee",
+                "size": 35488,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/run6.ogg": {
+                "mtime": 1723832082,
+                "sha1": "2bd228d4c0a88916d83d2eac8be6125ae7f8082d",
+                "size": 25800,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/run7.ogg": {
+                "mtime": 1723831953,
+                "sha1": "e07d16d21885a63d3f257ef4a81faad6773740f1",
+                "size": 147562,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds/n700a/sound.cfg": {
+                "mtime": 1676114642,
+                "sha1": "02da7ca9f5d2c929f7758845bfc613149b62948c",
+                "size": 1034,
+                "blame": "tbtg"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1747065926,
+                "sha1": "7534f4ee28197cb1681a1473cda097ba357d5a2c",
+                "size": 136070,
+                "blame": "tbtg"
             }
         }
     },

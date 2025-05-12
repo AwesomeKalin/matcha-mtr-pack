@@ -5840,5 +5840,119 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "n700a_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/door_close",
+                "attenuation_distance": 32,
+                "pitch": 1
+            }
+        ]
+    },
+    "n700a_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/door_open",
+                "attenuation_distance": 32,
+                "pitch": 1
+            }
+        ]
+    },
+    "n700a_loop": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor2",
+                "attenuation_distance": 48
+            }
+        ]
+    },
+    "n700a_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor3",
+                "attenuation_distance": 48
+            }
+        ]
+    },
+    "n700a_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor1",
+                "attenuation_distance": 48
+            }
+        ]
+    },
+    "n700a_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor4",
+                "attenuation_distance": 48
+            }
+        ]
+    },
+    "n700a_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor5",
+                "attenuation_distance": 48
+            }
+        ]
+    },
+    "n700a_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_point": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_rub": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/rub",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "n700a_run": {
+        "sounds": [
+            {
+                "name": "mtr:n700a\/run",
+                "attenuation_distance": 32
+            }
+        ]
     }
 }
