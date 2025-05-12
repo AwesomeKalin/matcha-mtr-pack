@@ -3348,6 +3348,431 @@
 			"speed_sound_base_id": "s_train",
 			"speed_sound_count": 200,
 			"door_sound_base_id": "sp1900"
+		},
+		"class_463_southern_clipper_3": {
+			"base_train_type": "m_train",
+			"name": "LCR | Class 463/3 | Southern Clipper Livery",
+			"color": "3F78C9",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"texture_id": "mtr:463/southern_clipper.png",
+			"model": "mtr:463/class463.bbmodel",
+			"model_properties": "mtr:463/class463_3.json",
+			"bve_sound_base_id": "463",
+			"door_animation_type": "PLUG_FAST"
+		},
+		"class_463_pnr_3": {
+			"base_train_type": "m_train",
+			"name": "LCR | Class 463/3 | PNR Livery (for prl)",
+			"color": "3F78C9",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"texture_id": "mtr:463/pnr.png",
+			"model": "mtr:463/class463.bbmodel",
+			"model_properties": "mtr:463/class463_3.json",
+			"bve_sound_base_id": "463",
+			"door_animation_type": "PLUG_FAST"
+		},
+		"class_463_southern_clipper_4": {
+			"base_train_type": "m_train",
+			"name": "LCR | Class 463/4 | Southern Clipper Livery",
+			"color": "3F78C9",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"texture_id": "mtr:463/southern_clipper.png",
+			"model": "mtr:463/class463.bbmodel",
+			"model_properties": "mtr:463/class463_4.json",
+			"bve_sound_base_id": "463",
+			"door_animation_type": "PLUG_FAST"
+		},
+		"class_463_pnr_4": {
+			"base_train_type": "m_train",
+			"name": "LCR | Class 463/4 | PNR Livery (for prl)",
+			"color": "3F78C9",
+			"gangway_connection_id": "mtr:textures/entity/m_train",
+			"texture_id": "mtr:463/pnr.png",
+			"model": "mtr:463/class463.bbmodel",
+			"model_properties": "mtr:463/class463_4.json",
+			"bve_sound_base_id": "463",
+			"door_animation_type": "PLUG_FAST"
+		},
+		"road_train_red": {
+			"name": "LCR | Great Yarmouth Seafront Road Train | Red",
+			"color": "3F78C9",
+			"texture_id": "mtr:road_train/red.png",
+			"model": "mtr:road_train/road_train.bbmodel",
+			"model_properties": "mtr:road_train/road_train.json",
+			"rider_offset": -0.5,
+			"has_gangway_connection": false,
+			"bve_sound_base_id": "road_train",
+			"door_animation_type": "PLUG_FAST"
+		},
+		"class_99_alexander_intercity_k99": {
+			"name": "LCR | Class 99 + K99 | Alexander Intercity Livery",
+			"color": "21996e",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:99/alexander_intercity.png",
+			"model": "mtr:99/class99.bbmodel",
+			"model_properties": "mtr:99/class99_k99.json",
+			"bve_sound_base_id": "99"
+		},
+		"class_99_calhoun_skipper_k99": {
+			"name": "LCR | Class 99 + K99 | Calhoun Skipper Livery",
+			"color": "2b569c",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:99/calhoun_skipper.png",
+			"model": "mtr:99/class99.bbmodel",
+			"model_properties": "mtr:99/class99_k99.json",
+			"bve_sound_base_id": "99"
+		},
+		"class_715_blank": {
+			"name": "LCR | Class 715 | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/blank.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/715.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_215_blank": {
+			"name": "LCR | Class 215 | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/blank.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/215.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_715_bridgelink": {
+			"name": "LCR | Class 715 | Bridgelink Livery",
+			"color": "ffca18",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/bridgelink.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/715.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_215_bridgelink": {
+			"name": "LCR | Class 215 | Bridgelink Livery",
+			"color": "ffca18",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/bridgelink.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/215.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_715_lucassian_railways": {
+			"name": "LCR | Class 715 | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/lucassian_railways.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/715.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_215_lucassian_railways": {
+			"name": "LCR | Class 215 | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/lucassian_railways.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/215.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_716_1_blank": {
+			"name": "LCR | Class 716/1 | Kyslink G3 | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/blank_metro.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/716_1.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_716_1_gama": {
+			"name": "LCR | Class 716/1 | Kyslink G3 | Greater Alexander Metro Association Livery",
+			"color": "23b263",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/gama.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/716_1.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_716_2_blank": {
+			"name": "LCR | Class 716/2 | Kyslink G3 | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/blank_metro.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/716_2.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_716_2_gama": {
+			"name": "LCR | Class 716/2 | Kyslink G3 | Greater Alexander Metro Association Livery",
+			"color": "23b263",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:kyslink/gama.png",
+			"model": "mtr:kyslink/kyslink.bbmodel",
+			"model_properties": "mtr:kyslink/716_2.json",
+			"bve_sound_base_id": "715"
+		},
+		"class_330_blank": {
+			"name": "LCR | Class 330 | Cehntro | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/blank.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_330_lucassian_railways": {
+			"name": "LCR | Class 330 | Cehntro | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/lucassian_railways.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_330_calhoun_railway": {
+			"name": "LCR | Class 330 | Cehntro | Calhoun Railway Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/calhoun_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_330_great_western_railway": {
+			"name": "LCR | Class 330 | Cehntro | Great Western Railway Livery",
+			"color": "543869",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/great_western_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_330_northern_rail": {
+			"name": "LCR | Class 330 | Cehntro | Northern Rail Livery",
+			"color": "2fa1e6",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/northern_rail.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_330_refurbished_blank": {
+			"name": "LCR | Class 330 Refurbished | Cehntro | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/blank.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330_rf.json",
+			"bve_sound_base_id": "hitachi_a"
+		},
+		"class_330_refurbished_lucassian_railways": {
+			"name": "LCR | Class 330 Refurbished | Cehntro | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/lucassian_railways.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330_rf.json",
+			"bve_sound_base_id": "hitachi_a"
+		},
+		"class_330_refurbished_calhoun_railway": {
+			"name": "LCR | Class 330 Refurbished | Cehntro | Calhoun Railway Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/calhoun_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330_rf.json",
+			"bve_sound_base_id": "hitachi_a"
+		},
+		"class_330_refurbished_great_western_railway": {
+			"name": "LCR | Class 330 Refurbished | Cehntro | Great Western Railway Livery",
+			"color": "543869",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/great_western_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330_rf.json",
+			"bve_sound_base_id": "hitachi_a"
+		},
+		"class_330_refurbished_northern_rail": {
+			"name": "LCR | Class 330 Refurbished | Cehntro | Northern Rail Livery",
+			"color": "2fa1e6",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/northern_rail.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/330_rf.json",
+			"bve_sound_base_id": "hitachi_a"
+		},
+		"class_430_blank": {
+			"name": "LCR | Class 430 | Cehntro | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/blank.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/430.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_430_lucassian_railways": {
+			"name": "LCR | Class 430 | Cehntro | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/lucassian_railways.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/430.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_430_calhoun_railway": {
+			"name": "LCR | Class 430 | Cehntro | Calhoun Railway Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/calhoun_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/430.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_430_great_western_railway": {
+			"name": "LCR | Class 430 | Cehntro | Great Western Railway Livery",
+			"color": "543869",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/great_western_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/430.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_430_northern_rail": {
+			"name": "LCR | Class 430 | Cehntro | Northern Rail Livery",
+			"color": "2fa1e6",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/northern_rail.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/430.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_431_blank": {
+			"name": "LCR | Class 431 | Cehntro | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/blank.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/431.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_431_lucassian_railways": {
+			"name": "LCR | Class 431 | Cehntro | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/lucassian_railways.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/431.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_431_calhoun_railway": {
+			"name": "LCR | Class 431 | Cehntro | Calhoun Railway Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/calhoun_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/431.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_431_great_western_railway": {
+			"name": "LCR | Class 431 | Cehntro | Great Western Railway Livery",
+			"color": "543869",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/great_western_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/431.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_431_northern_rail": {
+			"name": "LCR | Class 431 | Cehntro | Northern Rail Livery",
+			"color": "2fa1e6",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/northern_rail.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/431.json",
+			"bve_sound_base_id": "singing_gto_vvvf"
+		},
+		"class_161_blank": {
+			"name": "LCR | Class 161 | Cehntro | Blank Livery",
+			"color": "ffffff",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/blank.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/161.json",
+			"bve_sound_base_id": "cummins"
+		},
+		"class_161_lucassian_railways": {
+			"name": "LCR | Class 161 | Cehntro | Lucassian Railways Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/lucassian_railways.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/161.json",
+			"bve_sound_base_id": "cummins"
+		},
+		"class_161_calhoun_railway": {
+			"name": "LCR | Class 161 | Cehntro | Calhoun Railway Livery",
+			"color": "37558e",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/calhoun_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/161.json",
+			"bve_sound_base_id": "cummins"
+		},
+		"class_161_great_western_railway": {
+			"name": "LCR | Class 161 | Cehntro | Great Western Railway Livery",
+			"color": "543869",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/great_western_railway.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/161.json",
+			"bve_sound_base_id": "cummins"
+		},
+		"class_161_northern_rail": {
+			"name": "LCR | Class 161 | Cehntro | Northern Rail Livery",
+			"color": "2fa1e6",
+			"gangway_connection_id": "mtr:blank/blank",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:cehntro/northern_rail.png",
+			"model": "mtr:cehntro/cehntro.bbmodel",
+			"model_properties": "mtr:cehntro/161.json",
+			"bve_sound_base_id": "cummins"
 		}
 	},
 	"custom_signs": {
@@ -4016,6 +4441,30 @@
 			"flip_custom_text": false,
 			"small": false,
 			"background_color": "00944F"
+		},
+		"lcr_lucasshire_railways": {
+			"texture_id": "mtr:lucasshire_rail_sign/lucasshire_railways.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"lcr_regional_trains": {
+			"texture_id": "mtr:lucasshire_rail_sign/kyslink.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"lcr_regional_trains_text": {
+			"texture_id": "mtr:lucasshire_rail_sign/kyslink.png",
+			"custom_text": "Rheihcünil Ehcreines|Regional Trains",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"lcr_regional_trains_text_flip": {
+			"texture_id": "mtr:lucasshire_rail_sign/kyslink.png",
+			"custom_text": "Rheihcünil Ehcreines|Regional Trains",
+			"flip_custom_text": false,
+			"small": false
 		}
 	}
 }

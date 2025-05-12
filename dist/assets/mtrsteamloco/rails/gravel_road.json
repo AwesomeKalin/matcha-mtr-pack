@@ -1,0 +1,8 @@
+{
+    "gravel_road": {
+        "name": "Gravel Road",
+        "model": "mtrsteamloco:rails/gravel_road.obj",
+        "DEPRECATED_flipv": true,
+        "repeatInterval": 1
+    }
+}
