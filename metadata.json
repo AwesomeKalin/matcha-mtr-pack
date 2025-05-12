@@ -15257,7 +15257,7 @@
             },
             "assets/mtr/sounds/hitachi_a/brakefreq.csv": {
                 "mtime": 1740927095,
-                "sha1": "5ab97d087e78e20f9fde6ff03715425eb5045d05",
+                "sha1": "d1470d86ef11daa909fab62fc38480e7897fb201",
                 "size": 81,
                 "blame": "l_kao"
             },
@@ -15329,7 +15329,7 @@
             },
             "assets/mtr/sounds/hitachi_a/powerfreq.csv": {
                 "mtime": 1740927096,
-                "sha1": "5ab97d087e78e20f9fde6ff03715425eb5045d05",
+                "sha1": "d1470d86ef11daa909fab62fc38480e7897fb201",
                 "size": 81,
                 "blame": "l_kao"
             },
@@ -15809,7 +15809,7 @@
             },
             "assets/mtr/sounds/n700a/powervol.csv": {
                 "mtime": 1673793052,
-                "sha1": "c4aca1b50fb88f30101b02bf1eae87876d65e2b5",
+                "sha1": "bd4503ee6fe641ceb04d5894f30e2d7fd7a5f3a7",
                 "size": 305,
                 "blame": "tbtg"
             },
