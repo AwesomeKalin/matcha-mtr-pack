@@ -15,7 +15,8 @@
                     "max_o_shea_16",
                     "raw",
                     "sebpartof2",
-                    "tbtg"
+                    "tbtg",
+                    "tribalking2025"
                 ]
             },
             "assets": {
@@ -28,7 +29,8 @@
                     "matcha",
                     "max_o_shea_16",
                     "sebpartof2",
-                    "tbtg"
+                    "tbtg",
+                    "tribalking2025"
                 ]
             },
             "assets/mtr": {
@@ -41,7 +43,8 @@
                     "matcha",
                     "max_o_shea_16",
                     "sebpartof2",
-                    "tbtg"
+                    "tbtg",
+                    "tribalking2025"
                 ]
             },
             "assets/mtr/class508": {
@@ -845,6 +848,11 @@
             "assets/mtr/sounds/n700a": {
                 "blame": [
                     "tbtg"
+                ]
+            },
+            "assets/mtr/wmt_class730_srt": {
+                "blame": [
+                    "tribalking2025"
                 ]
             }
         },
@@ -15639,12 +15647,6 @@
                 "size": 2819,
                 "blame": "l_kao"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1747065909,
-                "sha1": "f45a6253aafd7fcab47ac558eee2a26db5acd130",
-                "size": 175556,
-                "blame": "tbtg"
-            },
             "assets/mtr/n700a/n700a.bbmodel": {
                 "mtime": 1723826684,
                 "sha1": "cfd2099e668879b30180bfab0f4adee4dcad88d6",
@@ -15854,6 +15856,390 @@
                 "sha1": "7534f4ee28197cb1681a1473cda097ba357d5a2c",
                 "size": 136070,
                 "blame": "tbtg"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1748796664,
+                "sha1": "1c5050d4dc87a256a02348ae801037a9ee8e4e92",
+                "size": 184078,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/badak_imu.png": {
+                "mtime": 1726931679,
+                "sha1": "67aefa654cce9972ad4202f7774e5a20c870437b",
+                "size": 52012,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/badak_imu_door.png": {
+                "mtime": 1727787086,
+                "sha1": "9d96ddc2249855e11980c99e60095cc7f5bbacca",
+                "size": 48233,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/black.png": {
+                "mtime": 1617425588,
+                "sha1": "4404964e3fcdcd7758a65fbb6261f0587ff4cbde",
+                "size": 2798,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/chair.png": {
+                "mtime": 1727330064,
+                "sha1": "0e9bf263227b9c7c26040bf501071b9509ebeed0",
+                "size": 36199,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/chair_lnwr.png": {
+                "mtime": 1727927859,
+                "sha1": "15339a8cb098d3d4bf11d7e5c7cc789d3f335c75",
+                "size": 36671,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/cheonjang.png": {
+                "mtime": 1726931427,
+                "sha1": "7f30b92b8690f98c3bd4bc3c5003589615729dff",
+                "size": 4145,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/darkgray.png": {
+                "mtime": 1617293333,
+                "sha1": "90a88a00620310ecea259c548cb2e3837abc161e",
+                "size": 2798,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/darkgreen.png": {
+                "mtime": 1727927499,
+                "sha1": "35703130d37ffaf2186a0c2d3bea0bd13b845ae1",
+                "size": 1837,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/doorside.png": {
+                "mtime": 1727330999,
+                "sha1": "ebb7a1a285b2c97e964d8e9a14e84b80efbf8a0a",
+                "size": 9499,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/door_inside.png": {
+                "mtime": 1727846946,
+                "sha1": "31a7c3a9c65d0342b9bd33db80118a2e4ebfd27f",
+                "size": 9783,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/door_inside_lnwr.png": {
+                "mtime": 1727931147,
+                "sha1": "86ca64b1d6fa9037afef9be6bc9e74a200ff1a55",
+                "size": 9793,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/dt71.png": {
+                "mtime": 1494320738,
+                "sha1": "44548ca305b3d71cca04f37ad2db28e6b92a5933",
+                "size": 12030,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/front.png": {
+                "mtime": 1726854143,
+                "sha1": "f7b9cd2d12161f0c8d9d6b3d17d3f2dd231fc2f4",
+                "size": 41562,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/front_lnwr.png": {
+                "mtime": 1727930602,
+                "sha1": "322736675ce62a196b4c88d37c6643fcb153b41e",
+                "size": 41791,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/glass.png": {
+                "mtime": 1706362149,
+                "sha1": "7254da022218b6f7802acc99509bd0ac59e2e235",
+                "size": 1827,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/gray.png": {
+                "mtime": 1708609988,
+                "sha1": "480f4ea9c58abd95bc9dce44a933ff24a44937f6",
+                "size": 1619,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/green.png": {
+                "mtime": 1727927795,
+                "sha1": "e0a9d41666b0fd4236d1518dccb0682468c364dc",
+                "size": 1837,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/habu.png": {
+                "mtime": 1596299556,
+                "sha1": "2e1bae29807d70647373d76b2e9d1e39e3ca8417",
+                "size": 31705,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/headlight.png": {
+                "mtime": 1621180124,
+                "sha1": "3efb43d8331e6340e98d2ce34ecc9e0b5a3ff66f",
+                "size": 6996,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/item1.png": {
+                "mtime": 1727927123,
+                "sha1": "2092041fb33e3ac3f307c06d30ea4ba510039229",
+                "size": 54568,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/jibung.png": {
+                "mtime": 1708705504,
+                "sha1": "7e8922593273e9f3715d31827d7b0d3b4b679812",
+                "size": 2163,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/led.png": {
+                "mtime": 1727847853,
+                "sha1": "31675dfda3c3a3fde51c0f96df24d630c31c4615",
+                "size": 8811,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/led_lnwr.png": {
+                "mtime": 1727933290,
+                "sha1": "4964f4b841caf6d65df2d936f74108462e7cb62b",
+                "size": 8771,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/lightgray.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/linemap.png": {
+                "mtime": 1726930192,
+                "sha1": "3bd63a6b9ddaf4d246be6c85260f2219c4c4e986",
+                "size": 64893,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/mak.png": {
+                "mtime": 1621496576,
+                "sha1": "d36b701eac6af5a50c4c3f67e9df56e064cac61b",
+                "size": 188260,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/networkmap.png": {
+                "mtime": 1727276807,
+                "sha1": "edce51008c89998a8681c9c9b14043ff5c3329e5",
+                "size": 223689,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/networkmap2.png": {
+                "mtime": 1727276627,
+                "sha1": "ca09dd7ffdd543305bfe96be54e1b51f93174d3b",
+                "size": 218462,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/orange.png": {
+                "mtime": 1726895228,
+                "sha1": "18517f828168092613b11085cefe8b0eeab5a775",
+                "size": 1631,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/purple.png": {
+                "mtime": 1727846493,
+                "sha1": "f22fe8c30c20dada63a3dc839dc196d226bdcf4e",
+                "size": 1837,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/red.png": {
+                "mtime": 1692343675,
+                "sha1": "4854980263ab5132cc6b91c91a0e30c099757c20",
+                "size": 1413,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/sadari.png": {
+                "mtime": 1617949850,
+                "sha1": "4d84f5ff60069a9eee9065b1dec974ada8a86146",
+                "size": 8895,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_m.png": {
+                "mtime": 1727566444,
+                "sha1": "96778afb58e69dafb16f2de6a31c5e894a24ef94",
+                "size": 45593,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_m_1.png": {
+                "mtime": 1727566398,
+                "sha1": "c1895b286de5ecd35f13f775bc57e54c7c7a30e9",
+                "size": 41828,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_m_lnwr.png": {
+                "mtime": 1727932874,
+                "sha1": "285535cf15972f9298000d5a60c797b4f0771dd8",
+                "size": 32715,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_m_lnwr_1.png": {
+                "mtime": 1727932993,
+                "sha1": "feea31a9f3b81a18dba013edc4221e3fdda48aa4",
+                "size": 32726,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_tc.png": {
+                "mtime": 1727503208,
+                "sha1": "8b0d64d2cccb3941069c9f13f9ddff003b5a6ed8",
+                "size": 40002,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_tc_1.png": {
+                "mtime": 1727503255,
+                "sha1": "f57df7ca85827952cb0737073cc1f9fc2585f7f8",
+                "size": 40073,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_tc_lnwr.png": {
+                "mtime": 1727932260,
+                "sha1": "fee8d585cc16bf4e1db1f13553be9f44ef0110cb",
+                "size": 36084,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/side_tc_lnwr_1.png": {
+                "mtime": 1727932350,
+                "sha1": "cf14c15e6ce0af9d60c3bc05d60cb17bf5d87d0e",
+                "size": 35841,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/silver.png": {
+                "mtime": 1674461268,
+                "sha1": "ad31b58768ae47065ac4c641771323551be02dad",
+                "size": 1837,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/toilet.png": {
+                "mtime": 1726930670,
+                "sha1": "14219522c5e674f985bad38df1f10a1c714f8727",
+                "size": 7854,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/white.png": {
+                "mtime": 1617168089,
+                "sha1": "1d05e0fe0290ee9143e175398e7c50b84a746fd8",
+                "size": 2799,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wiper1.png": {
+                "mtime": 1599210588,
+                "sha1": "3935a36f5c505e94466e4cc9e465c4651640f69a",
+                "size": 99,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wiper2.png": {
+                "mtime": 1599210589,
+                "sha1": "bb457bd00fa2e5594fccdce842e080d993b13773",
+                "size": 99,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730.json": {
+                "mtime": 1727871468,
+                "sha1": "99899fc9074b60807408af5fc15e714f779eb0c9",
+                "size": 13288,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730.png": {
+                "mtime": 1727870712,
+                "sha1": "480f4ea9c58abd95bc9dce44a933ff24a44937f6",
+                "size": 1619,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m.mtl": {
+                "mtime": 1727874441,
+                "sha1": "4d2b94710ed7bf3dee45169d20694c7045aba14d",
+                "size": 3560,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m.obj": {
+                "mtime": 1727874441,
+                "sha1": "c3e31bc648ae6f1e9d51caa13d50bc6499051fe1",
+                "size": 2616505,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_mc.mtl": {
+                "mtime": 1727924267,
+                "sha1": "eec0b19264aaaffc3ff1002cd43163e3b8842497",
+                "size": 4434,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_mc.obj": {
+                "mtime": 1727924267,
+                "sha1": "f1a98188de78d7a46fbc442416dade677bed80a3",
+                "size": 2713688,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_mc_lnwr.mtl": {
+                "mtime": 1727933385,
+                "sha1": "6458895ca528cca3af2657ad84fb32167a3a5348",
+                "size": 4466,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_mc_lnwr.obj": {
+                "mtime": 1727933385,
+                "sha1": "c1f51d340e4d8102a1f828ea7723db2edbf12c20",
+                "size": 2713693,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_6m.mtl": {
+                "mtime": 1727924980,
+                "sha1": "59b5125de78167d4b01f798d558e6d5f209ae31e",
+                "size": 3439,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_6m.obj": {
+                "mtime": 1727924980,
+                "sha1": "00e61fcf63ee2089eb7d9e6649fba1d1df720c21",
+                "size": 2689540,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_lnwr.mtl": {
+                "mtime": 1727933523,
+                "sha1": "37070f0f041c25687f1bdc64714837458837d145",
+                "size": 3584,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_lnwr.obj": {
+                "mtime": 1727933523,
+                "sha1": "e5b3a52b95a55e561356f07fdb44f099fa3ac4c8",
+                "size": 2616510,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_lnwr_6m.mtl": {
+                "mtime": 1727933695,
+                "sha1": "4fa95d0db9ac3131039294708fd4c5529ad24344",
+                "size": 3463,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_m_lnwr_6m.obj": {
+                "mtime": 1727933695,
+                "sha1": "afa1f12986b8955b92513795dd8e610a784b79c9",
+                "size": 2689545,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_t_lnwr.mtl": {
+                "mtime": 1727933873,
+                "sha1": "2015270d74cd7193a06d8176e0471f7bab2bb018",
+                "size": 3341,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wmt_class730_t_lnwr.obj": {
+                "mtime": 1727933873,
+                "sha1": "656228a55f10b70faeec380875f18bd3b9efbb2d",
+                "size": 2336874,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/wood.png": {
+                "mtime": 1621331086,
+                "sha1": "c5d38f25cd08ced481dd27bea8ecf8a49bfb8864",
+                "size": 5294,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/wmt_class730_srt/yellow.png": {
+                "mtime": 1617897786,
+                "sha1": "ec410a1a8e986e8dfa4f175b0e0848d7fde195db",
+                "size": 2798,
+                "blame": "tribalking2025"
             }
         }
     },
