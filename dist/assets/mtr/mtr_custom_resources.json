@@ -4742,6 +4742,276 @@
 			"custom_text": "Rheihcünil Ehcreines|Regional Trains",
 			"flip_custom_text": false,
 			"small": false
+		},
+		"dmr_l_trains": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "列車|Trains",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_r_trains": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "列車|Trains",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"dmr_l_metro": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "地鐵|Metro",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"dmr_r_metro": {
+			"texture_id": "mtr:dmrsigns/logo.png",
+			"custom_text": "地鐵|Metro",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_logo": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "渡輪|Ferries",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_l_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "渡輪|Ferries",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_f_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "快船|Fast Ferries",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_l_f_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "快船|Fast Ferries",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_c_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "慢船|Cruise Ferries",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_l_c_ferries": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "慢船|Cruise Ferries",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_l_short": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "河捷|River",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_short": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "河捷|River",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_l_long": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "河口捷運|River Ferries",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_long": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "河口捷運|River Ferries",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rf_l_welcome": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "歡迎乘搭河捷|Welcome onboard River",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rf_r_welcome": {
+			"texture_id": "mtr:chtrsigns/rf.png",
+			"custom_text": "歡迎乘搭河捷|Welcome onboard River",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"cr_l_short": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "橫鐵|CR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"cr_r_short": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "橫鐵|CR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"cr_l_long": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "橫貫鐵路|Crossrail",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"cr_r_long": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "橫貫鐵路|Crossrail",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"cr_l_welcome": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "歡迎乘搭橫鐵|Welcome onboard Crossrail",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"cr_r_welcome": {
+			"texture_id": "mtr:briddle_rail_sign/cable.png",
+			"custom_text": "歡迎乘搭橫鐵|Welcome onboard Crossrail",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"iob_l": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "蜂島電車|IoB Tramway",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"iob_r": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "蜂島電車|IoB Tramway",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"iob_l_tram": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "電車|Trams",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"iob_r_tram": {
+			"texture_id": "mtr:briddle_rail_sign/lrt.png",
+			"custom_text": "電車|Trams",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rr_logo": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rr_l_short": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "區鐵|RR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rr_r_short": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "區鐵|RR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rr_l_long": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "區域鐵路|Regional Railways",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rr_r_long": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "區域鐵路|Regional Railways",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"rr_l_welcome": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "歡迎乘搭區鐵|Welcome onboard RR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"rr_r_welcome": {
+			"texture_id": "mtr:chtrsigns/rr.png",
+			"custom_text": "歡迎乘搭區鐵|Welcome onboard RR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"er_logo": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"er_l_short": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "東鐵|ER",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"er_r_short": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "東鐵|ER",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"er_l_long": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "東區鐵路|East Rail",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"er_r_long": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "東區鐵路|East Rail",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"er_l_welcome": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "歡迎乘搭東鐵|Welcome onboard ER",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"er_r_welcome": {
+			"texture_id": "mtr:chtrsigns/er.png",
+			"custom_text": "歡迎乘搭東鐵|Welcome onboard ER",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"at_l_short": {
+			"texture_id": "mtr:chtrsigns/at.png",
+			"custom_text": "空捷|AT",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"at_r_short": {
+			"texture_id": "mtr:chtrsigns/at.png",
+			"custom_text": "空捷|AT",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"at_l_long": {
+			"texture_id": "mtr:chtrsigns/at.png",
+			"custom_text": "空中捷運|Aerial Transit",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"at_r_long": {
+			"texture_id": "mtr:chtrsigns/at.png",
+			"custom_text": "空中捷運|Aerial Transit",
+			"flip_custom_text": true,
+			"small": true
 		}
 	}
 }

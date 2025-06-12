@@ -852,6 +852,11 @@
                 "blame": [
                     "verysad"
                 ]
+            },
+            "assets/mtr/chtrsigns": {
+                "blame": [
+                    "chaodee0724"
+                ]
             }
         },
         "files": {
@@ -16233,12 +16238,6 @@
                 "size": 1590,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1749733591,
-                "sha1": "ac4c99bad3cf408b9e50135f4189db6c76e75321",
-                "size": 185845,
-                "blame": "verysad"
-            },
             "assets/mtr/shantian_line_sp1900/shantian_line_sp1900.bbmodel": {
                 "mtime": 1748027356,
                 "sha1": "2ce834b0c0abe8f77112e3d51558fbdbc36d5478",
@@ -16256,6 +16255,36 @@
                 "sha1": "0a3e5a240b2a13162997b89a301ade99469e3f7d",
                 "size": 418124,
                 "blame": "verysad"
+            },
+            "assets/mtr/chtrsigns/at.png": {
+                "mtime": 1749556552,
+                "sha1": "e9eda9ec4b5fbb7e1c222b37a2859a0eb032db68",
+                "size": 1787,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/chtrsigns/er.png": {
+                "mtime": 1749557338,
+                "sha1": "6cdfec767319926c20aed00a583758e5cc2515a5",
+                "size": 4496,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/chtrsigns/rf.png": {
+                "mtime": 1749557353,
+                "sha1": "adfa5093a022dc49d1f6cb8ae5034795dbdde6ff",
+                "size": 36665,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/chtrsigns/rr.png": {
+                "mtime": 1749500562,
+                "sha1": "8e890058f08c81815baefb08ae59a4c71283ebf1",
+                "size": 2810,
+                "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1749733773,
+                "sha1": "4b7c95074ceed06fa544ae2f30e117785063d5a2",
+                "size": 193094,
+                "blame": "chaodee0724"
             }
         }
     },
