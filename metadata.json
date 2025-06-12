@@ -16,7 +16,8 @@
                     "raw",
                     "sebpartof2",
                     "tbtg",
-                    "tribalking2025"
+                    "tribalking2025",
+                    "verysad"
                 ]
             },
             "assets": {
@@ -30,7 +31,8 @@
                     "max_o_shea_16",
                     "sebpartof2",
                     "tbtg",
-                    "tribalking2025"
+                    "tribalking2025",
+                    "verysad"
                 ]
             },
             "assets/mtr": {
@@ -44,7 +46,8 @@
                     "max_o_shea_16",
                     "sebpartof2",
                     "tbtg",
-                    "tribalking2025"
+                    "tribalking2025",
+                    "verysad"
                 ]
             },
             "assets/mtr/class508": {
@@ -843,6 +846,11 @@
             "assets/mtr/wmt_class730_srt": {
                 "blame": [
                     "tribalking2025"
+                ]
+            },
+            "assets/mtr/shantian_line_sp1900": {
+                "blame": [
+                    "verysad"
                 ]
             }
         },
@@ -16093,12 +16101,6 @@
                 "size": 328939,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1749286273,
-                "sha1": "d25142a0dcd4095164fe93a462f91e365636af64",
-                "size": 179349,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/sounds/nir3k/airhigh.ogg": {
                 "mtime": 1749067687,
                 "sha1": "b4022e14a15571027534ec09a6becffc9200d3bb",
@@ -16230,6 +16232,30 @@
                 "sha1": "503fd6a956fd37bfad004b3121a545e7cd35032c",
                 "size": 1590,
                 "blame": "chaodee0724"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1749733591,
+                "sha1": "ac4c99bad3cf408b9e50135f4189db6c76e75321",
+                "size": 185845,
+                "blame": "verysad"
+            },
+            "assets/mtr/shantian_line_sp1900/shantian_line_sp1900.bbmodel": {
+                "mtime": 1748027356,
+                "sha1": "2ce834b0c0abe8f77112e3d51558fbdbc36d5478",
+                "size": 207676,
+                "blame": "verysad"
+            },
+            "assets/mtr/shantian_line_sp1900/shantian_line_sp1900.json": {
+                "mtime": 1748027356,
+                "sha1": "a6cc2e93327458aeaab0dd407be9102c5240853e",
+                "size": 23746,
+                "blame": "verysad"
+            },
+            "assets/mtr/shantian_line_sp1900/shantian_line_sp1900.png": {
+                "mtime": 1748027356,
+                "sha1": "0a3e5a240b2a13162997b89a301ade99469e3f7d",
+                "size": 418124,
+                "blame": "verysad"
             }
         }
     },

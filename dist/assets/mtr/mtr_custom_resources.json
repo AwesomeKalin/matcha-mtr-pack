@@ -4033,6 +4033,23 @@
 			"bve_sound_base_id": "nir4k",
 			"model": "mtr:class_710_overground/class_720_greater_anglia_desiro_cities.bbmodel",
 			"model_properties": "mtr:class_710_overground/nir3k.json"
+		},
+		"shantian_line_sp1900": {
+			"name": "山田綫千九列車 Shantian Line SP1900 (VSad/WWR Train)",
+			"description": "The Shantian Line SP1900 / SP1920 (also known as SP1900 Modified, Changjin Line SP1900) is a model of train that runs along the Shantian Line. This train has equipped LCDs with MTR Mod Displays. Originally running as part of Connected Transportation's Changjin Line, the train ran the same 6 carriages along with the MLR as part of the West Water Railway (Connected Transportation Division) rolling stock. The rolling stock was then transferred to the Carl Lam server as part of the San Wai Line along with the San Wai Line C1141A (Now known as Shantian Line C1141A, originally named as C1141A modified), before it got transferred to PurpleMTR to serve as the rolling stock for the Shantian Line. Retaining the 6-car configuration from the Changjin Line, there are 4-doors per car, unlike the real life SP1900, which has 5-doors per car, 8-car configuration, that is running on the Tuen Ma Line. The LCD display was updated to show the station name like the Kallos Express SP1900, and was also originally planned to be used for the Shantian Line in Minebahn.",
+			"wikipedia_article": "",
+			"color": "8CA2BB",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "mtr:textures/entity/mlr",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:shantian_line_sp1900/shantian_line_sp1900",
+			"model": "mtr:shantian_line_sp1900/shantian_line_sp1900.bbmodel",
+			"model_properties": "mtr:shantian_line_sp1900/shantian_line_sp1900.json",
+			"door_sound_base_id": "sp1900",
+			"speed_sound_base_id": "sp1900",
+			"speed_sound_count": 76
 		}
 	},
 	"custom_signs": {
