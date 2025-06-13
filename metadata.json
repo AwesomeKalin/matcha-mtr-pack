@@ -16433,12 +16433,6 @@
                 "sha1": "b7afc4946b4e2a6d2ff72aa14878f02c13d41525",
                 "size": 198215,
                 "blame": "xiu9047"
-            },
-            "assets/mtr/sounds/tactile_map_music.ogg": {
-                "mtime": 1443557840,
-                "sha1": "33c5f43849fb424379ea8be58daca53c6971d1f5",
-                "size": 2844340,
-                "blame": "xiu9047"
             }
         }
     },
