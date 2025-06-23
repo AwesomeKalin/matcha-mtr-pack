@@ -287,6 +287,7 @@
                 "blame": [
                     "alivekrikan",
                     "chaodee0724",
+                    "dusbrio",
                     "l_kao"
                 ]
             },
@@ -334,6 +335,7 @@
                 "blame": [
                     "alivekrikan",
                     "chaodee0724",
+                    "dusbrio",
                     "l_kao"
                 ]
             },
@@ -7865,12 +7867,6 @@
                 "mtime": 1683708502,
                 "sha1": "c0ffc4b14b684b76b4024c00fc3e2a0284ded5cd",
                 "size": 141682,
-                "blame": "alivekrikan"
-            },
-            "assets/minecraft/sounds.json": {
-                "mtime": 1683708502,
-                "sha1": "b9f49a3dd7689b782bfbaed6a1508ab3f05afd2f",
-                "size": 1502,
                 "blame": "alivekrikan"
             },
             "assets/mtr/southeastern/class_377_southeasterndarkbluestripe.png": {
@@ -17424,6 +17420,78 @@
                 "sha1": "4937759d45dc05c168d8ee0d1ebb837fa641bf69",
                 "size": 913,
                 "blame": "tribalking2025"
+            },
+            "assets/mtrsteamloco/rails/builtin1067.json": {
+                "mtime": 1727566052,
+                "sha1": "a8842f28ec9ade2a597893a94b0d373aa8da9079",
+                "size": 841,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail.png": {
+                "mtime": 1696568402,
+                "sha1": "df10d7385c0679e261e2fd877d50d43f4d3dca73",
+                "size": 122877,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067.mtl": {
+                "mtime": 1701055968,
+                "sha1": "66a4f7799ae55b01b7b5f6c490425c86ce73b8b9",
+                "size": 147,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067.obj": {
+                "mtime": 1701055968,
+                "sha1": "c936c477033585f445b58af34755a261bb4c890c",
+                "size": 5722,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_1435dual.mtl": {
+                "mtime": 1705807727,
+                "sha1": "66a4f7799ae55b01b7b5f6c490425c86ce73b8b9",
+                "size": 147,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_1435dual.obj": {
+                "mtime": 1705807727,
+                "sha1": "7cf9a7792898194ce5273ae150e27ee3e97a5d99",
+                "size": 6182,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_brown.mtl": {
+                "mtime": 1727566617,
+                "sha1": "8227d45c62f2364910dfc5cbfe794587d6f146cc",
+                "size": 157,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_brown.obj": {
+                "mtime": 1727566617,
+                "sha1": "a9cb0d897ee311c64f34f8ff13a5b9e8f411879f",
+                "size": 5728,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_brown.png": {
+                "mtime": 1727565829,
+                "sha1": "b9fa2b4d77f1555007a6499ca3dd7c94bfe4e492",
+                "size": 107604,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_siding.mtl": {
+                "mtime": 1701054074,
+                "sha1": "8b0145dd773a87a9fcdd431a69f68f0557f9092f",
+                "size": 161,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail1067_siding.obj": {
+                "mtime": 1701054074,
+                "sha1": "2c2093a1231f988cdc6a015784c0dacb21ac9697",
+                "size": 12094,
+                "blame": "dusbrio"
+            },
+            "assets/mtrsteamloco/rails/rail_siding.png": {
+                "mtime": 1687356203,
+                "sha1": "cc1cccd5e75c2f3f8f4fca1bfb30eda6a4a20ca2",
+                "size": 129155,
+                "blame": "dusbrio"
             }
         }
     },

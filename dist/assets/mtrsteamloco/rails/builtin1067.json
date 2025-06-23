@@ -1,0 +1,26 @@
+{
+    "nte_builtin_1067_concrete_sleeper": {
+        "name": "builtin_1067_concrete_sleeper_by_huli",
+        "model": "mtrsteamloco:rails/rail1067.obj",
+        "DEPRECATED_flipv": true,
+        "repeatInterval": 0.5
+    },
+ "nte_builtin_1067_brown": {
+        "name": "builtin_1067_brown",
+        "model": "mtrsteamloco:rails/rail1067_brown.obj",
+        "DEPRECATED_flipv": true,
+        "repeatInterval": 0.5
+    },
+"nte_builtin_1067_1435_dual": {
+        "name": "builtin_1067_1435_dual_rail",
+        "model": "mtrsteamloco:rails/rail1067_1435dual.obj",
+        "DEPRECATED_flipv": true,
+        "repeatInterval": 0.5
+    },
+    "nte_builtin_1067_depot": {
+        "name": "builtin_1067_depot_by_huli",
+        "model": "mtrsteamloco:rails/rail1067_siding.obj",
+        "DEPRECATED_flipv": true,
+        "repeatInterval": 0.5
+    }
+}
