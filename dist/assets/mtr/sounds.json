@@ -5970,5 +5970,41 @@
                 "pitch": 1
             }
         ]
+    },
+    "tmrt_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:tmrt/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tmrt_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:tmrt/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tmrt_s_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:tmrt_s/door_open",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "tmrt_s_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:tmrt_s/door_close",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
     }
 }

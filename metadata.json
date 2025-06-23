@@ -9,6 +9,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "dusbrio",
                     "foxball17",
                     "l_kao",
                     "matcha",
@@ -26,6 +27,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "dusbrio",
                     "foxball17",
                     "l_kao",
                     "matcha",
@@ -42,6 +44,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "dusbrio",
                     "foxball17",
                     "l_kao",
                     "matcha",
@@ -63,6 +66,7 @@
                     "alivekrikan",
                     "awesomekalin55",
                     "chaodee0724",
+                    "dusbrio",
                     "foxball17",
                     "l_kao",
                     "matcha",
@@ -906,6 +910,36 @@
             "assets/mtr/sounds/jinjing": {
                 "blame": [
                     "tribalking2025"
+                ]
+            },
+            "assets/mtr/gangway": {
+                "blame": [
+                    "dusbrio"
+                ]
+            },
+            "assets/mtr/gangway_null": {
+                "blame": [
+                    "dusbrio"
+                ]
+            },
+            "assets/mtr/m_3_19_i": {
+                "blame": [
+                    "dusbrio"
+                ]
+            },
+            "assets/mtr/m_3_24_i": {
+                "blame": [
+                    "dusbrio"
+                ]
+            },
+            "assets/mtr/sounds/tmrt": {
+                "blame": [
+                    "dusbrio"
+                ]
+            },
+            "assets/mtr/sounds/tmrt_s": {
+                "blame": [
+                    "dusbrio"
                 ]
             }
         },
@@ -16462,12 +16496,6 @@
                 "size": 2088,
                 "blame": "tribalking2025"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1750688816,
-                "sha1": "01843ee9571bfb50878b8cf40f7feb94b9672f45",
-                "size": 198119,
-                "blame": "tribalking2025"
-            },
             "assets/mtr/shlcd/config.json": {
                 "mtime": 1730816191,
                 "sha1": "8a4e58cec6baf7adc9429f55e5076ef2d189a1f7",
@@ -16558,11 +16586,245 @@
                 "size": 79350,
                 "blame": "tribalking2025"
             },
+            "assets/mtr/gangway/gangway_connector_exterior.png": {
+                "mtime": 1746244399,
+                "sha1": "6cf7e387496ce3faa06d278e397e0ab309b753ea",
+                "size": 1457,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway/gangway_connector_floor.png": {
+                "mtime": 1746244399,
+                "sha1": "cad38bce9b4c2073f844a698231f0c94c5c64559",
+                "size": 1448,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway/gangway_connector_roof.png": {
+                "mtime": 1746244399,
+                "sha1": "3cd480ce73187120a882fddb26d4baa1e6cd106c",
+                "size": 1448,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway/gangway_connector_side.png": {
+                "mtime": 1746244399,
+                "sha1": "58d4d848f0f94f0fb35584cc77805c0cf0c7a0e1",
+                "size": 1449,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway_null/gangway_connector_exterior.png": {
+                "mtime": 1746244399,
+                "sha1": "914ea8801c59cbd07e24e06835dc6a6ba70ce884",
+                "size": 146,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway_null/gangway_connector_floor.png": {
+                "mtime": 1746244399,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway_null/gangway_connector_roof.png": {
+                "mtime": 1746244399,
+                "sha1": "41717f198b503821d84f12d005ed4bf3ac7e7553",
+                "size": 146,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/gangway_null/gangway_connector_side.png": {
+                "mtime": 1746244399,
+                "sha1": "8c50a9b43c6f9fd8299dd89bf9de6f127c508119",
+                "size": 146,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1750689194,
+                "sha1": "b7343e07f29fc1b8222bacf328f8673505f0d91c",
+                "size": 200501,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/dt138.png": {
+                "mtime": 1746244399,
+                "sha1": "40b21837ada224ac3afed0f119cb86902848ea31",
+                "size": 20480,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_cab_n.mtl": {
+                "mtime": 1746244399,
+                "sha1": "c96f3def599ae1d3eed915b6b41cb88fa5c0ded0",
+                "size": 509,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_cab_n.obj": {
+                "mtime": 1746244399,
+                "sha1": "6d4cdf4be02e283ac5da6ab9fde7fe19e6b91347",
+                "size": 952891,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_cab_r.mtl": {
+                "mtime": 1746244400,
+                "sha1": "c1b7c324184f08a8e05acb9312bb670dbd9d5e1b",
+                "size": 513,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_cab_r.obj": {
+                "mtime": 1746244400,
+                "sha1": "c7eef3590810623eb8261445c66a69bb7417b047",
+                "size": 952771,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_trailer.mtl": {
+                "mtime": 1746244400,
+                "sha1": "86d1a93825d198d76d13b67e6e5abb9a7eee5ad3",
+                "size": 513,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m-3_19_i_trailer.obj": {
+                "mtime": 1746244400,
+                "sha1": "41e9f470c0ce06886cb77c81eeb89010b7e4cd5d",
+                "size": 930017,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m3_24_m.png": {
+                "mtime": 1746244400,
+                "sha1": "6cdf89bd3099f399664d20cefe9977c60ee12e10",
+                "size": 332902,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m3_24_m_frame.png": {
+                "mtime": 1746244400,
+                "sha1": "25484a3664ef1ada0e9dd28b482cb0bc6520899a",
+                "size": 22502,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m3_24_m_mid.png": {
+                "mtime": 1746244400,
+                "sha1": "36e7eea82040d24c9e8718be50d02e866321aadf",
+                "size": 475264,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m3_24_m_rev.png": {
+                "mtime": 1746244400,
+                "sha1": "f2b9b936c22955c288a6829c909586b99ede4b90",
+                "size": 350773,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m3_24_m_rev.png~": {
+                "mtime": 1746244400,
+                "sha1": "f904b58d9c7e45f56c2d15f5e2faf69716f70612",
+                "size": 208524,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_19_i/m_3_19_i.json": {
+                "mtime": 1746244400,
+                "sha1": "18b31d24df8962d1b0e7fcc0b04dde6c5c103c3b",
+                "size": 8322,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/dt138.png": {
+                "mtime": 1746244400,
+                "sha1": "40b21837ada224ac3afed0f119cb86902848ea31",
+                "size": 20480,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/gangway_connector_exterior.png": {
+                "mtime": 1746244400,
+                "sha1": "6cf7e387496ce3faa06d278e397e0ab309b753ea",
+                "size": 1457,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_cab_n.mtl": {
+                "mtime": 1746244400,
+                "sha1": "c96f3def599ae1d3eed915b6b41cb88fa5c0ded0",
+                "size": 509,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_cab_n.obj": {
+                "mtime": 1746244400,
+                "sha1": "ad142a7045dc4c75d42d8f98b670ab5f2c7483be",
+                "size": 1062991,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_cab_r.mtl": {
+                "mtime": 1746244400,
+                "sha1": "c1b7c324184f08a8e05acb9312bb670dbd9d5e1b",
+                "size": 513,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_cab_r.obj": {
+                "mtime": 1746244400,
+                "sha1": "946ed6d22d49c3a4966923a6ccf3dbb9c71414a7",
+                "size": 1063436,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_trailer.mtl": {
+                "mtime": 1746244400,
+                "sha1": "86d1a93825d198d76d13b67e6e5abb9a7eee5ad3",
+                "size": 513,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m-3_24_i_trailer.obj": {
+                "mtime": 1746244400,
+                "sha1": "674df33942072b99cd7ef7910cec38d7605936b0",
+                "size": 1040473,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m3_24_m.png": {
+                "mtime": 1746244401,
+                "sha1": "6cdf89bd3099f399664d20cefe9977c60ee12e10",
+                "size": 332902,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m3_24_m_frame.png": {
+                "mtime": 1746244400,
+                "sha1": "25484a3664ef1ada0e9dd28b482cb0bc6520899a",
+                "size": 22502,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m3_24_m_mid.png": {
+                "mtime": 1746244400,
+                "sha1": "36e7eea82040d24c9e8718be50d02e866321aadf",
+                "size": 475264,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m3_24_m_rev.png": {
+                "mtime": 1746244401,
+                "sha1": "f2b9b936c22955c288a6829c909586b99ede4b90",
+                "size": 350773,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/m_3_24_i/m_3_24_i.json": {
+                "mtime": 1746244400,
+                "sha1": "dc7f117ae34c92e14cf51446afed49c825382c36",
+                "size": 8322,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/sounds/tmrt/door_close.ogg": {
+                "mtime": 1746244401,
+                "sha1": "7b43c50bfc8aa58c5b22139cc9a141d45c0d419b",
+                "size": 26286,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/sounds/tmrt/door_open.ogg": {
+                "mtime": 1746244401,
+                "sha1": "1adb890efd7f3d7b18ba47a86ecc2d73278954e3",
+                "size": 24678,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/sounds/tmrt_s/door_close.ogg": {
+                "mtime": 1746244401,
+                "sha1": "d3149cfae481e58154b7183145101bd2973c9bd6",
+                "size": 30955,
+                "blame": "dusbrio"
+            },
+            "assets/mtr/sounds/tmrt_s/door_open.ogg": {
+                "mtime": 1746244401,
+                "sha1": "0add39b394385e9ac11fe1956eaa1fdbd6339cca",
+                "size": 50045,
+                "blame": "dusbrio"
+            },
             "assets/mtr/sounds.json": {
-                "mtime": 1750688838,
-                "sha1": "1ee4784c17d42d48f9338216ba593ce0569f83c0",
-                "size": 142381,
-                "blame": "tribalking2025"
+                "mtime": 1750689213,
+                "sha1": "c8edb48f66d730d95201d5cd7d616279d8cd397c",
+                "size": 137244,
+                "blame": "dusbrio"
             }
         }
     },

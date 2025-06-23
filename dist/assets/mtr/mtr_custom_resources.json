@@ -4187,6 +4187,39 @@
 			"texture_id": "mtr:jinjing/jinjing",
 			"model": "mtr:jinjing/jinjing.bbmodel",
 			"model_properties": "mtr:jinjing/jinjing.json"
+		},
+		"m-3_24_i": {
+			"name": "JR東日本E233系電車 JR East Japan E233 Series by c_toad_gamer",
+			"description": "JR東日本E233系電車",
+			"color": "568D54",
+			"gangway_connection_id": "mtr:gangway/gangway",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:m_3_24_i/m-3_24_i_cab_n",
+			"model": "mtr:m_3_24_i/m-3_24_i_cab_n.obj|1;%1;|mtr:m_3_24_i/m-3_24_i_trailer.obj|%1;1,-1;|mtr:m_3_24_i/m-3_24_i_cab_r.obj|-1;%1;|",
+			"model_properties": "mtr:m_3_24_i/m_3_24_i.json",
+			"speed_sound_count": 100,
+			"speed_sound_base_id": "sp1900",
+			"door_sound_base_id": "sp1900"
+		},
+		"m-3_19_i": {
+			"name": "JR東日本E233系電車 JR East Japan E233 Series by c_toad_gamer",
+			"description": "The E233 series (E233系) is a commuter and suburban electric multiple unit (EMU) train type developed by East Japan Railway Company (JR East) from the earlier E231 series and the E531 series design. The first train was introduced in December 2006 for use on the Chūō Line (Rapid), followed by the E233-1000 series variant in 2007 for use on the Keihin–Tōhoku and Negishi lines, the E233-3000 series outer-suburban variant in December 2007 for use on the Tōkaidō Main Line, and narrow-bodied E233-2000 series variant for Jōban Line and Tokyo Metro Chiyoda Line through services. Further variants were built for use on the Keiyō Line, Yokohama Line, Saikyō Line, and Nambu Line. E233-3000 series:  E233-3000 series: 5- and 10-car sets used on Tōkaidō Main Line, Takasaki Line, and Utsunomiya Line outer-suburban services since March 2008, and on Ueno–Tokyo Line and Shōnan–Shinjuku Line through services since March 2015 This is from wikipedia.org",
+			"wikipedia_article": "JR東日本E233系電車",
+			"color": "568D54",
+			"gangway_connection_id": "mtr:gangway/gangway",
+			"train_barrier_id": "",
+			"door_animation_type": "STANDARD",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:m_3_19_i/m-3_19_i_cab_n",
+			"model": "mtr:m_3_19_i/m-3_19_i_cab_n.obj|1;%1;|mtr:m_3_19_i/m-3_19_i_trailer.obj|%1;1,-1;|mtr:m_3_19_i/m-3_19_i_cab_r.obj|-1;%1;|",
+			"model_properties": "mtr:m_3_19_i/m_3_19_i.json",
+			"speed_sound_count": 100,
+			"speed_sound_base_id": "sp1900",
+			"door_sound_base_id": "sp1900"
 		}
 	},
 	"custom_signs": {
