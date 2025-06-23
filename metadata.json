@@ -16652,15 +16652,9 @@
                 "size": 350773,
                 "blame": "dusbrio"
             },
-            "assets/mtr/m_3_19_i/m3_24_m_rev.png~": {
-                "mtime": 1746244400,
-                "sha1": "f904b58d9c7e45f56c2d15f5e2faf69716f70612",
-                "size": 208524,
-                "blame": "dusbrio"
-            },
             "assets/mtr/m_3_19_i/m_3_19_i.json": {
                 "mtime": 1746244400,
-                "sha1": "18b31d24df8962d1b0e7fcc0b04dde6c5c103c3b",
+                "sha1": "a27849f163f8008e84eff9124f753e14c678ff3b",
                 "size": 8322,
                 "blame": "dusbrio"
             },
