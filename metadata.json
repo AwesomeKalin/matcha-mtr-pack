@@ -914,6 +914,21 @@
                     "tribalking2025"
                 ]
             },
+            "assets/mtr/shlcd/fonts": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/shlcd/fonts/roboto": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/shlcd/fonts/source-han-sans-cn": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
             "assets/mtr/sounds/jinjing": {
                 "blame": [
                     "tribalking2025"
@@ -16435,7 +16450,7 @@
             },
             "assets/mtr/shlcd/config.json": {
                 "mtime": 1730816191,
-                "sha1": "8a4e58cec6baf7adc9429f55e5076ef2d189a1f7",
+                "sha1": "27d42efa21d0e8434cc5aeec89c11d30cb506ee8",
                 "size": 401,
                 "blame": "tribalking2025"
             },
