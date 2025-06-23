@@ -5954,5 +5954,21 @@
                 "attenuation_distance": 32
             }
         ]
+    },
+    "jinjing_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:jinjing/door_open",
+                "pitch": 1
+            }
+        ]
+    },
+    "jinjing_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:jinjing/door_close",
+                "pitch": 1
+            }
+        ]
     }
 }

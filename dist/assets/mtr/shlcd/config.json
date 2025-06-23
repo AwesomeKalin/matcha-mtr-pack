@@ -1,0 +1,19 @@
+{
+    "allowOverflow": true,
+    "showDepotName": true,
+    "showDoorOpenInfo": true,
+    "showManualStatus": true,
+    "showPlatformNumber": true,
+    "leftPartCjkCycle": {
+        "cjk": 5,
+        "nonCjk": 5
+    },
+    "rightPartScreenCycle": {
+        "comingNext": 5,
+        "fullRouteMap": 10
+    },
+    "fullRouteMapCjkCycle": {
+        "cjk": 5,
+        "nonCjk": 5
+    }
+}

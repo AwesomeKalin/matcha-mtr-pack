@@ -67,6 +67,7 @@
                     "l_kao",
                     "matcha",
                     "tbtg",
+                    "tribalking2025",
                     "xiu9047"
                 ]
             },
@@ -890,6 +891,21 @@
             "assets/mtr/line5_a1": {
                 "blame": [
                     "xiu9047"
+                ]
+            },
+            "assets/mtr/jinjing": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/shlcd": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/sounds/jinjing": {
+                "blame": [
+                    "tribalking2025"
                 ]
             }
         },
@@ -16266,12 +16282,6 @@
                 "size": 992,
                 "blame": "chaodee0724"
             },
-            "assets/mtr/sounds.json": {
-                "mtime": 1749067853,
-                "sha1": "503fd6a956fd37bfad004b3121a545e7cd35032c",
-                "size": 1590,
-                "blame": "chaodee0724"
-            },
             "assets/mtr/shantian_line_sp1900/shantian_line_sp1900.bbmodel": {
                 "mtime": 1748027356,
                 "sha1": "2ce834b0c0abe8f77112e3d51558fbdbc36d5478",
@@ -16428,11 +16438,131 @@
                 "size": 1673012,
                 "blame": "xiu9047"
             },
+            "assets/mtr/jinjing/jinjing.bbmodel": {
+                "mtime": 1730901767,
+                "sha1": "b20968ecdd69ed359e54e315bb03f2ffede1a9b8",
+                "size": 7378370,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/jinjing/jinjing.json": {
+                "mtime": 1730815354,
+                "sha1": "af1f256181b16956c2c62154ef3d48d258986487",
+                "size": 13255,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/jinjing/jinjing.png": {
+                "mtime": 1730901824,
+                "sha1": "40b7d362712fea81adf703b2d2f90fde4fff79d1",
+                "size": 53859,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/jinjing/slots.json": {
+                "mtime": 1730822368,
+                "sha1": "5df1c14b51ae138c864ee7b608f6fddb6d8615c7",
+                "size": 2088,
+                "blame": "tribalking2025"
+            },
             "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1749735685,
-                "sha1": "b7afc4946b4e2a6d2ff72aa14878f02c13d41525",
-                "size": 198215,
-                "blame": "xiu9047"
+                "mtime": 1750688816,
+                "sha1": "01843ee9571bfb50878b8cf40f7feb94b9672f45",
+                "size": 198119,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/config.json": {
+                "mtime": 1730816191,
+                "sha1": "8a4e58cec6baf7adc9429f55e5076ef2d189a1f7",
+                "size": 401,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/draw.js": {
+                "mtime": 1730816191,
+                "sha1": "b859a7adc65fa6f40cb8751a4098932c5979b049",
+                "size": 37519,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/roboto/LICENSE.txt": {
+                "mtime": 1730816192,
+                "sha1": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4",
+                "size": 11560,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/roboto/roboto-bold.ttf": {
+                "mtime": 1730816192,
+                "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798",
+                "size": 167336,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/roboto/roboto-regular.ttf": {
+                "mtime": 1730816192,
+                "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3",
+                "size": 168260,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/source-han-sans-cn/LICENSE.txt": {
+                "mtime": 1730816192,
+                "sha1": "03fa0d716c551a6daebd2a3c4f6b2bdc0b905f55",
+                "size": 4463,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/source-han-sans-cn/source-han-sans-cn-bold.otf": {
+                "mtime": 1730816192,
+                "sha1": "b59fc60d95321a669d116d55c72959fc1882caeb",
+                "size": 8543504,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/fonts/source-han-sans-cn/source-han-sans-cn-regular.otf": {
+                "mtime": 1730816192,
+                "sha1": "a3fba1908c940e50eb1c5ff56227db34bd865bc7",
+                "size": 8331636,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/font_util.js": {
+                "mtime": 1730816191,
+                "sha1": "517dd3a2690b6d50ebf564dd2a4fca42994c76f4",
+                "size": 4521,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/js_util.js": {
+                "mtime": 1730816192,
+                "sha1": "d2102e0009ce9be3eb8a7e9ffcdb89fb25115388",
+                "size": 3044,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/lang.js": {
+                "mtime": 1730816192,
+                "sha1": "6d37a9f28f69ea3ec531fd27de65fdf1ca8bbf7d",
+                "size": 1623,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/main.js": {
+                "mtime": 1730816192,
+                "sha1": "a6a5034a662078afbcdde985aa36c3e22da0f1fd",
+                "size": 6893,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/shlcd/mtr_util.js": {
+                "mtime": 1730816192,
+                "sha1": "f738f1673bd9b9e31505531fee5818cb5ccbb4e5",
+                "size": 11988,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/sounds/jinjing/door_close.ogg": {
+                "mtime": 1730899347,
+                "sha1": "c59cda4adb8dabe06baab054206fbfad41b851a2",
+                "size": 67766,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/sounds/jinjing/door_open.ogg": {
+                "mtime": 1730899478,
+                "sha1": "7fa181850578ff0b4a628d77cfe84e24315b8767",
+                "size": 79350,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/sounds.json": {
+                "mtime": 1750688838,
+                "sha1": "1ee4784c17d42d48f9338216ba593ce0569f83c0",
+                "size": 142381,
+                "blame": "tribalking2025"
             }
         }
     },
