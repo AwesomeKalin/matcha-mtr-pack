@@ -1,98 +1,147 @@
 {
-		"line9_hongshan": {
+	"line9_hongshan": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"srs_hongshan"
-		  ]
+		]
 	},
 	"line9_kardy": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"srs_kardyvillage"
-		  ]
+		]
 	},
 	"common_rainbowcoast": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"bcl_and_oml_rainbowcoast"
-		  ]
+		]
 	},
 	"common_seapower": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"bsl_and_ool_seapower"
-		  ]
+		]
 	},
 	"common_cosmospoint": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"cosmospoint"
-		  ]
+		]
 	},
 	"common_hikarigaoka": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"hikarigaoka"
-		  ]
+		]
 	},
 	"common_hikarijima": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"hikarijima"
-		  ]
+		]
 	},
 	"common_lakeofheart": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"lakeofheart"
-		  ]
+		]
 	},
 	"common_matsusama": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"matsusama"
-		  ]
+		]
 	},
 	"common_northbay": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"northbay"
-		  ]
+		]
 	},
 	"common_northport": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"northport"
-		  ]
+		]
 	},
 	"common_notinservice": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"notinservice"
-		  ]
+		]
 	},
 	"common_ottoland": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"ottoland"
-		  ]
+		]
 	},
 	"common_podzolofabyssal": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"podzolofabyssal"
-		  ]
+		]
 	},
 	"common_yokochoplains": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"yokochoplains"
-		  ]
+		]
 	},
 	"common_railwayacademy": {
 		"category": "master",
-		  "sounds": [
+		"sounds": [
 			"bcl_and_bsl_railwayacademy"
-		  ]
+		]
+	},
+	"train_arriving": {
+		"sounds": [
+			{
+				"name": "minecraft:arrivng"
+			}
+		]
+	},
+	"hold_the_handrail": {
+		"sounds": [
+			{
+				"name": "minecraft:handrail"
+			}
+		]
+	},
+	"right_side_exit": {
+		"sounds": [
+			{
+				"name": "minecraft:rightside"
+			}
+		]
+	},
+	"short_platform_warning": {
+		"sounds": [
+			{
+				"name": "minecraft:shortplatform"
+			}
+		]
+	},
+	"stand_clear_warning": {
+		"sounds": [
+			{
+				"name": "minecraft:standclear"
+			}
+		]
+	},
+	"terminal_announcement": {
+		"sounds": [
+			{
+				"name": "minecraft:terminal"
+			}
+		]
+	},
+	"train_arriving_announcement": {
+		"sounds": [
+			{
+				"name": "minecraft:trainarriving"
+			}
+		]
 	}
-  }
+}

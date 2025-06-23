@@ -4306,6 +4306,213 @@
 			"texture_id": "mtr:l7b01/l7b01",
 			"model": "mtr:l7b01/l7b01.bbmodel",
 			"model_properties": "mtr:l7b01/l7b01.json"
+		},
+		"spclass": {
+			"name": "Sp Class PCMA",
+			"color": "FEC5E5",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/pcma_sp.png"
+		},
+		"spclasshundred": {
+			"name": "Sp Class SP1922 100 Years Livery",
+			"color": "FEC5E5",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/100_years.png"
+		},
+		"pcma_mlr": {
+			"name": "Metroliner PCMA",
+			"color": "FEC5FF",
+			"base_train_type": "mlr",
+			"texture_id": "mtr:custom_directory/pcma_metroliner.png"
+		},
+		"pcma_7000": {
+			"name": "7000 Series Railcar",
+			"color": "D2BA7S",
+			"base_train_type": "k_train_tcl",
+			"texture_id": "mtr:custom_directory/7000_railcar.png"
+		},
+		"e_railcar": {
+			"name": "E Series Railcar",
+			"color": "DAA77S",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/e_railcar.png"
+		},
+		"srt": {
+			"name": "South Rail Train",
+			"color": "999999",
+			"base_train_type": "c_train",
+			"texture_id": "mtr:custom_directory/srt.png"
+		},
+		"tube": {
+			"name": "Westrail Legacy",
+			"color": "D82A8B",
+			"base_train_type": "london_underground_1995",
+			"texture_id": "mtr:custom_directory/tube.png"
+		},
+		"pnrlr": {
+			"name": "PNR West Light Railway",
+			"color": "3DA827",
+			"base_train_type": "c1141a",
+			"texture_id": "mtr:custom_directory/pnrlr.png"
+		},
+		"dexone": {
+			"name": "Downtown Express One",
+			"color": "382DA7",
+			"base_train_type": "r179",
+			"texture_id": "mtr:custom_directory/de.png"
+		},
+		"centrel": {
+			"name": "Central 6000 Series",
+			"color": "A783D2",
+			"base_train_type": "k_train_ael",
+			"texture_id": "mtr:custom_directory/centrel.png"
+		},
+		"tlm": {
+			"name": "TLM Tram Service",
+			"color": "A783D2",
+			"base_train_type": "light_rail_1_rht",
+			"texture_id": "mtr:custom_directory/tlm.png"
+		},
+		"mag": {
+			"name": "MAGLEV",
+			"color": "B828DA",
+			"base_train_type": "a_train_tcl",
+			"texture_id": "mtr:custom_directory/maglev.png"
+		},
+		"pnreat": {
+			"name": "TLM S Train",
+			"color": "DA288B",
+			"base_train_type": "s_train_mini",
+			"texture_id": "mtr:custom_directory/tlm_s.png"
+		},
+		"dextwo": {
+			"name": "Downtown Express Two",
+			"color": "382DA7",
+			"base_train_type": "r211",
+			"texture_id": "mtr:custom_directory/dex2.png"
+		},
+		"southlink_auto": {
+			"name": "Southlink Automated Railcar",
+			"color": "999999",
+			"base_train_type": "s_train",
+			"texture_id": "mtr:custom_directory/slnkauto.png"
+		},
+		"5000unreferb": {
+			"name": "5000 Series Unreferbushed",
+			"color": "999999",
+			"base_train_type": "cm_stock",
+			"texture_id": "mtr:custom_directory/5000un.png"
+		},
+		"5000referb": {
+			"name": "5000 Referbished",
+			"color": "999999",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/5000re.png"
+		},
+		"llr1000": {
+			"name": "LRR 1000 Sereis",
+			"color": "D2A825",
+			"base_train_type": "light_rail_1_rht",
+			"texture_id": "mtr:custom_directory/llr1000.png"
+		},
+		"llr2000": {
+			"name": "LRR 2000 Sereis",
+			"color": "D2A825",
+			"base_train_type": "light_rail_3_rht",
+			"texture_id": "mtr:custom_directory/llr2000.png"
+		},
+		"llr3000": {
+			"name": "LRR 3000 Sereis",
+			"color": "D2A825",
+			"base_train_type": "light_rail_4_rht",
+			"texture_id": "mtr:custom_directory/llr3000.png"
+		},
+		"llr4000": {
+			"name": "LRR 4000 Sereis",
+			"color": "D2A825",
+			"base_train_type": "light_rail_5_rht",
+			"texture_id": "mtr:custom_directory/llr4000.png"
+		},
+		"elv_r": {
+			"name": "R Sereis Railcar",
+			"color": "D2A825",
+			"base_train_type": "r_train",
+			"texture_id": "mtr:custom_directory/r_train_elv.png"
+		},
+		"class328": {
+			"name": "Class 328",
+			"color": "E348E6",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class328/class328",
+			"model": "mtr:class328/class328.bbmodel",
+			"model_properties": "mtr:class328/class328.json",
+			"bve_sound_base_id": "london_underground_1995"
+		},
+		"class327": {
+			"name": "Class 327",
+			"color": "E348E6",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"rider_offset": 0.0,
+			"texture_id": "mtr:class327/class327",
+			"model": "mtr:class327/class327.bbmodel",
+			"model_properties": "mtr:class327/class327.json",
+			"bve_sound_base_id": "london_underground_1995"
+		},
+		"e_sereis_referbished": {
+			"name": "Class 396 E Series",
+			"color": "39F801",
+			"gangway_connection_id": "mtr:textures/entity/e44",
+			"train_barrier_id": "mtr:textures/entity/mlr",
+			"rider_offset": 0.0,
+			"door_animation_type": "MLR",
+			"speed_sound_count": 90,
+			"door_sound_base_id": "mlr",
+			"speed_sound_base_id": "mlr",
+			"texture_id": "mtr:e_sereis_referbished/e_series_referbished",
+			"model": "mtr:e_sereis_referbished/e_series_referbished.bbmodel",
+			"model_properties": "mtr:e_sereis_referbished/e_series_referbished.json"
+		},
+		"pcma_lrv": {
+			"name": "The PCMA LRV",
+			"color": "A3675B",
+			"door_animation_type": "SLOW",
+			"has_gangway_connection": false,
+			"render_door_overlay": false,
+			"base_train_type": "light_rail_5",
+			"rider_offset": 0.0,
+			"texture_id": "mtr:pcma_lrv/pcma_lrv",
+			"model": "mtr:pcma_lrv/pcma_lrv.bbmodel",
+			"model_properties": "mtr:pcma_lrv/pcma_lrv.json",
+			"speed_sound_count": 45,
+			"door_sound_base_id": "light_rail_3",
+			"speed_sound_base_id": "light_rail_mitsubishi"
+		},
+		"class760_pcma": {
+			"name": "PCMA Class 760",
+			"description": "The Class 760 is an Intercity EMU Built by the Selmara Rail Company as part of the FLYER Family. The /1 Variant is Built for the PCMA in 2010. This train has a Top Speed of 160 km/h",
+			"color": "D5A656",
+			"gangway_connection_id": "mtr:textures/entity/k_train",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:class760/class760_pcma",
+			"model": "mtr:class760/class760.bbmodel",
+			"model_properties": "mtr:class760/class760.json",
+			"speed_sound_count": 117,
+			"door_sound_base_id": "class_377",
+			"speed_sound_base_id": "sp1900"
+		},
+		"class778_pcma": {
+			"name": "PCMA Class 778",
+			"description": "The Class 778 is a Regional EMU Built by SRC As part of the Urbanworker 4 Family of Trains. It has a Top Speed of 160 km/h, and is Designed for Comfort And For Bringing Selmara Rail to Muchav. It was Built for PNR, C, LRR, And PCMA.",
+			"color": "E35A1E",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:class778/class778_pcma",
+			"model": "mtr:class778/class778.bbmodel",
+			"model_properties": "mtr:class778/class778.json",
+			"bve_sound_base_id": "london_underground_1996"
 		}
 	},
 	"custom_signs": {
@@ -5268,6 +5475,93 @@
 			"custom_text": "空中捷運|Aerial Transit",
 			"flip_custom_text": true,
 			"small": true
+		},
+		"aline": {
+			"texture_id": "mtr:signs/aline.png"
+		},
+		"bline": {
+			"texture_id": "mtr:signs/bline.png"
+		},
+		"central": {
+			"texture_id": "mtr:signs/central.png"
+		},
+		"citylinktrains": {
+			"texture_id": "mtr:signs/citylinktrains.png"
+		},
+		"cline": {
+			"texture_id": "mtr:signs/cline.png"
+		},
+		"commuter": {
+			"texture_id": "mtr:signs/commuter.png"
+		},
+		"commuter2": {
+			"texture_id": "mtr:signs/commuter2.png"
+		},
+		"dline": {
+			"texture_id": "mtr:signs/dline.png"
+		},
+		"dntnex": {
+			"texture_id": "mtr:signs/dntnex.png"
+		},
+		"elevated": {
+			"texture_id": "mtr:signs/elevated.png"
+		},
+		"eline": {
+			"texture_id": "mtr:signs/eline.png"
+		},
+		"fline": {
+			"texture_id": "mtr:signs/fline.png"
+		},
+		"gline": {
+			"texture_id": "mtr:signs/gline.png"
+		},
+		"hline": {
+			"texture_id": "mtr:signs/hline.png"
+		},
+		"kline": {
+			"texture_id": "mtr:signs/kline.png"
+		},
+		"maglevsign": {
+			"texture_id": "mtr:signs/maglevsign.png"
+		},
+		"mline": {
+			"texture_id": "mtr:signs/mline.png"
+		},
+		"pasownational": {
+			"texture_id": "mtr:signs/pasownational.png"
+		},
+		"rline": {
+			"texture_id": "mtr:signs/rline.png"
+		},
+		"sline": {
+			"texture_id": "mtr:signs/sline.png"
+		},
+		"southlink": {
+			"texture_id": "mtr:signs/southlink.png"
+		},
+		"tlmlines": {
+			"texture_id": "mtr:signs/tlmlines.png"
+		},
+		"totrams": {
+			"texture_id": "mtr:signs/totrams.png"
+		},
+		"trams": {
+			"texture_id": "mtr:signs/trams.png"
+		},
+		"uline": {
+			"texture_id": "mtr:signs/uline.png"
+		},
+		"vline": {
+			"texture_id": "mtr:signs/vline.png"
+		},
+		"westrail": {
+			"texture_id": "mtr:signs/westrail.png"
+		},
+		"wline": {
+			"texture_id": "mtr:signs/wline.png"
+		},
+		"zline": {
+			"texture_id": "mtr:signs/zline.png"
 		}
 	}
 }

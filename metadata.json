@@ -131,7 +131,8 @@
                     "awesomekalin55",
                     "chaodee0724",
                     "matcha",
-                    "sebpartof2"
+                    "sebpartof2",
+                    "tribalking2025"
                 ]
             },
             "assets/mtr/custom_directory/b_90_long_mini": {
@@ -461,13 +462,15 @@
                 "blame": [
                     "alivekrikan",
                     "foxball17",
-                    "l_kao"
+                    "l_kao",
+                    "tribalking2025"
                 ]
             },
             "assets/minecraft/sounds": {
                 "blame": [
                     "alivekrikan",
-                    "foxball17"
+                    "foxball17",
+                    "tribalking2025"
                 ]
             },
             "assets/mtr/southeastern": {
@@ -955,6 +958,41 @@
             "assets/mtr/cw_01a03": {
                 "blame": [
                     "xiu9047"
+                ]
+            },
+            "assets/mtr/class327": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/class328": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/class760": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/class778": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/e_sereis_referbished": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/pcma_lrv": {
+                "blame": [
+                    "tribalking2025"
+                ]
+            },
+            "assets/mtr/signs": {
+                "blame": [
+                    "tribalking2025"
                 ]
             }
         },
@@ -16912,6 +16950,480 @@
                 "sha1": "0e23cd48c34daf733c11e61cf7131e0412c85b0a",
                 "size": 204914,
                 "blame": "xiu9047"
+            },
+            "assets/minecraft/sounds/arrivng.ogg": {
+                "mtime": 1650582589,
+                "sha1": "afd9c364f549172ebf75c40edb8bafee199ed797",
+                "size": 52276,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/handrail.ogg": {
+                "mtime": 1650582790,
+                "sha1": "0c443951cabfc307cbdc12810f932fb1e418ec30",
+                "size": 28618,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/rightside.ogg": {
+                "mtime": 1650582838,
+                "sha1": "c8eb1418998c1f7c1374f5602a1805acd9659444",
+                "size": 77576,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/shortplatform.ogg": {
+                "mtime": 1650582678,
+                "sha1": "8805965059ee1438ff01f686763dd97c283d1d7a",
+                "size": 85943,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/standclear.ogg": {
+                "mtime": 1650582398,
+                "sha1": "e1486f7877d8995f665c1f009531f3938a0af716",
+                "size": 62833,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/terminal.ogg": {
+                "mtime": 1650582741,
+                "sha1": "f22d1718d27b8b70473f706e11d989f7c93569ef",
+                "size": 59968,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds/trainarriving.ogg": {
+                "mtime": 1650582451,
+                "sha1": "9a576fd7886aea6827dfbc09226315f9662cdd7f",
+                "size": 56267,
+                "blame": "tribalking2025"
+            },
+            "assets/minecraft/sounds.json": {
+                "mtime": 1750690160,
+                "sha1": "369731a6044bd722418e58c35df850e1bde94b34",
+                "size": 2232,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class327/class327.bbmodel": {
+                "mtime": 1658849108,
+                "sha1": "64a5b6c31467c889870ea6c19014b36c3c81836b",
+                "size": 303016,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class327/class327.json": {
+                "mtime": 1658849108,
+                "sha1": "f893d37d76a62b47eb7d53955e1e94c56a4345b8",
+                "size": 11715,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class327/class327.png": {
+                "mtime": 1658849108,
+                "sha1": "374461a50e9719ea5634332cf94280d7722f8908",
+                "size": 404962,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class328/class328.bbmodel": {
+                "mtime": 1658849542,
+                "sha1": "64a5b6c31467c889870ea6c19014b36c3c81836b",
+                "size": 303016,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class328/class328.json": {
+                "mtime": 1658849542,
+                "sha1": "e3449d4df9ce03436453f8a81ce4b632a25c7483",
+                "size": 12870,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class328/class328.png": {
+                "mtime": 1658849542,
+                "sha1": "7af2e11f9a6ac1e4b0ee68db08fec9ec9c2072ca",
+                "size": 224303,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class760/class760.bbmodel": {
+                "mtime": 1688506816,
+                "sha1": "017df37a920ad24ad870763f5bc211afc5a06c07",
+                "size": 1753497,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class760/class760.json": {
+                "mtime": 1688450940,
+                "sha1": "fc42763b2472db88b5ee4fd1d2324f1a4c46eff9",
+                "size": 14417,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class760/class760_pcma.png": {
+                "mtime": 1688506912,
+                "sha1": "f908e18a54dc1268cdb59d07d0de25e68eb1c121",
+                "size": 68093,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class778/class778.bbmodel": {
+                "mtime": 1713102258,
+                "sha1": "d8d27b3203bcfdc654455c1292ce12d681c72938",
+                "size": 2374491,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class778/class778.json": {
+                "mtime": 1722806516,
+                "sha1": "c660b4ab92f7102669e9d22ab4c260792b969ad5",
+                "size": 15737,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/class778/class778_pcma.png": {
+                "mtime": 1713101339,
+                "sha1": "e51410a9d8043abad9bbbcddf46104f8eb787878",
+                "size": 90991,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/100_years.png": {
+                "mtime": 1677709381,
+                "sha1": "2eeccf3ac32a4db3cd9d04a098123e18df273fd4",
+                "size": 144099,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/5000re.png": {
+                "mtime": 1682423281,
+                "sha1": "8ab3144a3db513dadd97da805ca7c68c31e3b38a",
+                "size": 401616,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/5000un.png": {
+                "mtime": 1682423562,
+                "sha1": "66fb5ed52aeaeb7c0e554b5c9ded5ffdd32cd41a",
+                "size": 270243,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/7000_railcar.png": {
+                "mtime": 1682373202,
+                "sha1": "2b85e27823a549f99e4f7aa727ac3099177f17f0",
+                "size": 274888,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/acer.png": {
+                "mtime": 1655077365,
+                "sha1": "9815220a0c7d46b61dc07094b15b25b4d0b9454a",
+                "size": 512008,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/centrel.png": {
+                "mtime": 1681527755,
+                "sha1": "f0a71608f9d2ad87b6f9ab6a313d305b70ca3357",
+                "size": 228432,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/de.png": {
+                "mtime": 1681524917,
+                "sha1": "905e6ab9adf2bd90a82e2e295d4ae74bed9604d4",
+                "size": 477588,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/dex2.png": {
+                "mtime": 1682375935,
+                "sha1": "5315b525666e5d61e65672cbceab2c8e53e70a4e",
+                "size": 300180,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/e_railcar.png": {
+                "mtime": 1677709064,
+                "sha1": "4d1851044ad11d268fd4289d00f1df70b66d8f84",
+                "size": 593679,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/llr1000.png": {
+                "mtime": 1682648341,
+                "sha1": "095083e679f99f28397d51e3b153530c7c82b147",
+                "size": 171446,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/llr2000.png": {
+                "mtime": 1686022080,
+                "sha1": "545b2f1a92188995ad81fa54e0907678d829d1a0",
+                "size": 137850,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/llr3000.png": {
+                "mtime": 1686024234,
+                "sha1": "011d7648aba28600b3773ad58c44d676b5183865",
+                "size": 101168,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/llr4000.png": {
+                "mtime": 1686024607,
+                "sha1": "f79c6be55e06fb39d7c06dc7cf1107a18efcebdb",
+                "size": 90879,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/maglev.png": {
+                "mtime": 1682373287,
+                "sha1": "f64f47ebc210d7b78f71313bf0a2e0fa593945d4",
+                "size": 433006,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/mono1.png": {
+                "mtime": 1655078125,
+                "sha1": "1ae1e7f8eb2cdcca95b883a0c914539e267b8af2",
+                "size": 310278,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/pcma_metroliner.png": {
+                "mtime": 1677709301,
+                "sha1": "dbc08e004824b9939f24fa7ee7a715a2b40c7555",
+                "size": 624065,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/pcma_sp.png": {
+                "mtime": 1684842623,
+                "sha1": "aa0d4db6d9b50c875f7f0982ba1ac4ffdd5eaea9",
+                "size": 140728,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/pnrlr.png": {
+                "mtime": 1677380386,
+                "sha1": "543f10570c1f721ee752dc55223503985a25a473",
+                "size": 196832,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/r_train_elv.png": {
+                "mtime": 1682642568,
+                "sha1": "2f4105e3da8d2345cd68aa7a0fdd0d3d9c104ac5",
+                "size": 361730,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/slnkauto.png": {
+                "mtime": 1682373052,
+                "sha1": "d49e0e80db7ed08559b9cb1a24f139ccfb4ec470",
+                "size": 342810,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/srt.png": {
+                "mtime": 1682373113,
+                "sha1": "050c366b92867bad76ab8626de1d19c6cd1a81d2",
+                "size": 268769,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/tlm.png": {
+                "mtime": 1682373239,
+                "sha1": "0e7221321745710ec630af0204b44289d7cd3915",
+                "size": 216031,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/tlm_s.png": {
+                "mtime": 1665022203,
+                "sha1": "bdef7865da5748e4a989e4d71d809edd32c15024",
+                "size": 296753,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/custom_directory/tube.png": {
+                "mtime": 1681524971,
+                "sha1": "1139076afa66e9308188c0d692cbe367611294b3",
+                "size": 206782,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/e_sereis_referbished/e_series_referbished.bbmodel": {
+                "mtime": 1677383774,
+                "sha1": "0189a15bc34739f442bdbd19d440629cf8c6ee00",
+                "size": 136796,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/e_sereis_referbished/e_series_referbished.json": {
+                "mtime": 1677383774,
+                "sha1": "0eea7c2f289df9638dec8c6da71fc62e11af428f",
+                "size": 15940,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/e_sereis_referbished/e_series_referbished.png": {
+                "mtime": 1677383774,
+                "sha1": "640362e0da9001183abe3d18018afcbad361189b",
+                "size": 598548,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/pcma_lrv/pcma_lrv.bbmodel": {
+                "mtime": 1677713480,
+                "sha1": "b70a56ccc8348cf352a63efdb570edffab2b60c1",
+                "size": 157596,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/pcma_lrv/pcma_lrv.json": {
+                "mtime": 1677726109,
+                "sha1": "1d4e67da3da425e3fce95a82262bfa15a5f31d6a",
+                "size": 16319,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/pcma_lrv/pcma_lrv.png": {
+                "mtime": 1681524882,
+                "sha1": "c48cc1f2166980c29e3fc81da8a30bd2c4c385dd",
+                "size": 143099,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/aline.png": {
+                "mtime": 1669763072,
+                "sha1": "6a8b3875ee8aa20dd97ae9bb00128dc1281e6e0e",
+                "size": 975,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/bline.png": {
+                "mtime": 1669763120,
+                "sha1": "1653a83deb4e363f154f4b00e202dcc2c368017b",
+                "size": 906,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/central.png": {
+                "mtime": 1679349630,
+                "sha1": "8580a9b6664173b6ca04d38bb7a6c72fe4c0f32e",
+                "size": 5425,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/citylinktrains.png": {
+                "mtime": 1679349655,
+                "sha1": "ec707a7653aeb6dd1413d36fbf896d1a18dd6518",
+                "size": 4142,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/cline.png": {
+                "mtime": 1669763148,
+                "sha1": "d944c1aab740ede8c8308fe5067e1b18231c5dce",
+                "size": 1040,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/commuter.png": {
+                "mtime": 1669764483,
+                "sha1": "466012ad452a546b744175dc6daaefde732af55b",
+                "size": 903,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/commuter2.png": {
+                "mtime": 1679349694,
+                "sha1": "07eb1c98dabc0ad07388e0b9bf77b58f917bbf9e",
+                "size": 7174,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/dline.png": {
+                "mtime": 1669763176,
+                "sha1": "6e88d496ea6cfa65b0731aeed68e3af8aa999bad",
+                "size": 1021,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/dntnex.png": {
+                "mtime": 1679349729,
+                "sha1": "591e95afe1771098498dcfc584ff7f077dba4f0c",
+                "size": 4723,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/elevated.png": {
+                "mtime": 1679349772,
+                "sha1": "cdfca11f66e6e767215bf3cdf3d42b131c8d587d",
+                "size": 8783,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/eline.png": {
+                "mtime": 1679435408,
+                "sha1": "05561fce180e30a77a447a270adb4df151ed585d",
+                "size": 851,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/fline.png": {
+                "mtime": 1669763504,
+                "sha1": "5ba5aa5cbf376141226f7b1273f9a4f94aeb1c4c",
+                "size": 749,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/gline.png": {
+                "mtime": 1669763529,
+                "sha1": "af988d566ec0c3005cdb766b1cccb28e13fe054c",
+                "size": 966,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/hline.png": {
+                "mtime": 1669763570,
+                "sha1": "035c567b722b275ec07dc68664980ddf59efb273",
+                "size": 716,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/kline.png": {
+                "mtime": 1669763638,
+                "sha1": "3e4c629fd79e8d373d06dae390094bb9528cb366",
+                "size": 1021,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/maglevsign.png": {
+                "mtime": 1679349830,
+                "sha1": "98443a12839dc2be9d0238a8f8d438242ebb5684",
+                "size": 6931,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/mline.png": {
+                "mtime": 1669763689,
+                "sha1": "966e743bb3a84183092156520c88fa854207c390",
+                "size": 1025,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/pasownational.png": {
+                "mtime": 1679349862,
+                "sha1": "8a1265aa0de51e051ed56a237dff5069e858066c",
+                "size": 4816,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/rline.png": {
+                "mtime": 1669763796,
+                "sha1": "45471b702bbb187790ebfca821171e41d5e4c889",
+                "size": 953,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/sline.png": {
+                "mtime": 1669763735,
+                "sha1": "29010ff7d91c876ff81f607ccda715b8932cc292",
+                "size": 963,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/southlink.png": {
+                "mtime": 1679349934,
+                "sha1": "17233ee22513e2ce623f1a61ddff4f68abfd043b",
+                "size": 9349,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/tlmlines.png": {
+                "mtime": 1679349961,
+                "sha1": "191f26db50c12b33eed5ac9e0054074dc9d7f53e",
+                "size": 4267,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/totrams.png": {
+                "mtime": 1679349993,
+                "sha1": "a8eae09e9ac6c04e32566e103aa81c3b5d74375c",
+                "size": 3708,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/trams.png": {
+                "mtime": 1669764581,
+                "sha1": "c97a354c285cc94318f9b0af36d0329d32594546",
+                "size": 767,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/uline.png": {
+                "mtime": 1669763767,
+                "sha1": "221f27a102f700a1e00b3308cf8495d3fde40554",
+                "size": 833,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/vline.png": {
+                "mtime": 1669763903,
+                "sha1": "9f089c48390111c4201b3781194cf77f8e84e540",
+                "size": 1057,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/westrail.png": {
+                "mtime": 1679350025,
+                "sha1": "51d60d22c7a04ba7a26c92a8a6db6c236e0659a6",
+                "size": 6193,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/wline.png": {
+                "mtime": 1669763940,
+                "sha1": "734f611d8bc544ee80b3652bd02dc00240e32405",
+                "size": 1124,
+                "blame": "tribalking2025"
+            },
+            "assets/mtr/signs/zline.png": {
+                "mtime": 1669763963,
+                "sha1": "4937759d45dc05c168d8ee0d1ebb837fa641bf69",
+                "size": 913,
+                "blame": "tribalking2025"
             }
         }
     },
