@@ -1543,12 +1543,6 @@
 			"gangway_connection_id": "mtr:none_gangway/none",
 			"model_properties": "mtr:metrocar/dmr.json"
 		},
-		"m45_srisland": {
-			"name": "Class 345 (SebRail Island Line)",
-			"color": "614199",
-			"base_train_type": "k_train_mini",
-			"texture_id": "mtr:custom_directory/island.png"
-		},
 		"class3504kordai": {
 			"name": "Class 350/4 (Kordai)",
 			"wikipedia_article": "British_Rail_Class_350",
@@ -4636,71 +4630,11 @@
 			"flip_custom_text": false,
 			"small": true
 		},
-		"sebrail": {
-			"texture_id": "mtr:custom_directory/sebrail.png",
-			"flip_texture": false,
-			"custom_text": "SebRail",
-			"flip_custom_text": false,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_flip": {
-			"texture_id": "mtr:custom_directory/sebrail.png",
-			"flip_texture": false,
-			"custom_text": "SebRail",
-			"flip_custom_text": true,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_icon": {
-			"texture_id": "mtr:custom_directory/sebrail.png",
-			"flip_texture": false,
-			"small": true,
-			"background_color": "1167B1"
-		},
 		"kordai_icon": {
 			"texture_id": "mtr:custom_directory/kordai.png",
 			"flip_texture": false,
 			"small": true,
 			"background_color": "FFFFFF"
-		},
-		"sebrail_island": {
-			"texture_id": "mtr:custom_directory/srisland.png",
-			"flip_texture": false,
-			"custom_text": "SebRail Island Line",
-			"flip_custom_text": false,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_island_flip": {
-			"texture_id": "mtr:custom_directory/srisland.png",
-			"flip_texture": false,
-			"custom_text": "SebRail Island Line",
-			"flip_custom_text": true,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_island_simple": {
-			"texture_id": "mtr:custom_directory/srisland.png",
-			"flip_texture": false,
-			"custom_text": "Island Line",
-			"flip_custom_text": false,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_island_simple_flip": {
-			"texture_id": "mtr:custom_directory/srisland.png",
-			"flip_texture": false,
-			"custom_text": "Island Line",
-			"flip_custom_text": true,
-			"small": true,
-			"background_color": "1167B1"
-		},
-		"sebrail_island_icon": {
-			"texture_id": "mtr:custom_directory/srisland.png",
-			"flip_texture": false,
-			"small": true,
-			"background_color": "1167B1"
 		},
 		"exit_1": {
 			"texture_id": "mtr:custom_directory/exitsign.png",

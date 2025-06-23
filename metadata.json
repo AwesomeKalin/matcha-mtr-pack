@@ -32,6 +32,7 @@
                     "l_kao",
                     "matcha",
                     "max_o_shea_16",
+                    "raw",
                     "sebpartof2",
                     "tbtg",
                     "tribalking2025",
@@ -49,6 +50,7 @@
                     "l_kao",
                     "matcha",
                     "max_o_shea_16",
+                    "raw",
                     "sebpartof2",
                     "tbtg",
                     "tribalking2025",
@@ -6614,24 +6616,6 @@
                 "sha1": "936dd57dee5a284fa960779ec176320cb72ca9d0",
                 "size": 29106,
                 "blame": "matcha"
-            },
-            "assets/mtr/custom_directory/island.png": {
-                "mtime": 1744839914,
-                "sha1": "3e35b33e7dc07ac8406522d244eb0a37fa2728a4",
-                "size": 138373,
-                "blame": "sebpartof2"
-            },
-            "assets/mtr/custom_directory/sebrail.png": {
-                "mtime": 1744840096,
-                "sha1": "f63115b95bfffe568bfeb20164f610a14fab38a6",
-                "size": 37846,
-                "blame": "sebpartof2"
-            },
-            "assets/mtr/custom_directory/srisland.png": {
-                "mtime": 1744843314,
-                "sha1": "c027eaf81fe6e55443456aab242ebd313c3300e7",
-                "size": 46638,
-                "blame": "sebpartof2"
             },
             "assets/mtr/textures/sign/door_overlay_k_train_left.png": {
                 "mtime": 1744837989,
@@ -16941,12 +16925,6 @@
                 "size": 1673012,
                 "blame": "xiu9047"
             },
-            "assets/mtr/mtr_custom_resources.json": {
-                "mtime": 1750689848,
-                "sha1": "0e23cd48c34daf733c11e61cf7131e0412c85b0a",
-                "size": 204914,
-                "blame": "xiu9047"
-            },
             "assets/minecraft/sounds/arrivng.ogg": {
                 "mtime": 1650582589,
                 "sha1": "afd9c364f549172ebf75c40edb8bafee199ed797",
@@ -17492,6 +17470,12 @@
                 "sha1": "cc1cccd5e75c2f3f8f4fca1bfb30eda6a4a20ca2",
                 "size": 129155,
                 "blame": "dusbrio"
+            },
+            "assets/mtr/mtr_custom_resources.json": {
+                "mtime": 1750690936,
+                "sha1": "1739cb7c43cc39ff1e207dbef328f9cf0edd84b1",
+                "size": 211652,
+                "blame": "raw"
             }
         }
     },
