@@ -4220,6 +4220,58 @@
 			"speed_sound_count": 100,
 			"speed_sound_base_id": "sp1900",
 			"door_sound_base_id": "sp1900"
+		},
+		"class_345_elizabeth": {
+			"name": "British Rail Class 345 (Elizabeth Line)",
+			"description": "The British Rail Class 345 Aventra is a fleet of electric multiple unit passenger trains built by Bombardier Transportation for use on London's Elizabeth line. Part of Bombardier's Aventra family of trains, the contract for their delivery was awarded as part of the Crossrail project in February 2014. A total of 70 nine-car units each able to carry 1,500 passengers were constructed in Derby between 2015 and 2019, at a cost of over £1 billion. The first unit entered service on 22 June 2017.",
+			"wikipedia_article": "",
+			"color": "6950A1",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:elizabeth_line/class_345_elizabeth.png",
+			"bve_sound_base_id": "aventra",
+			"model": "mtr:elizabeth_line/class_345_elizabeth.bbmodel",
+			"model_properties": "mtr:elizabeth_line/class_345_elizabeth.json"
+		},
+		"class_345_elizabeth_pride": {
+			"name": "British Rail Class 345 (Elizabeth Line Pride)",
+			"description": "The British Rail Class 345 Aventra is a fleet of electric multiple unit passenger trains built by Bombardier Transportation for use on London's Elizabeth line. Part of Bombardier's Aventra family of trains, the contract for their delivery was awarded as part of the Crossrail project in February 2014. A total of 70 nine-car units each able to carry 1,500 passengers were constructed in Derby between 2015 and 2019, at a cost of over £1 billion. The first unit entered service on 22 June 2017.",
+			"wikipedia_article": "",
+			"color": "6950A1",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "PLUG_FAST",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:elizabeth_line/class_345_elizabeth_pride.png",
+			"bve_sound_base_id": "aventra",
+			"model": "mtr:elizabeth_line/class_345_elizabeth.bbmodel",
+			"model_properties": "mtr:elizabeth_line/class_345_elizabeth.json"
+		},
+		"class_720_c2c": {
+			"name": "British Rail Class 720 (c2c)",
+			"description": "The British Rail Class 720 Aventra is a class of electric multiple unit (EMU) passenger train designed and produced by the rolling stock manufacturer Bombardier Transportation and its acquirer Alstom. The Class 720 is operated by both Greater Anglia and c2c.",
+			"wikipedia_article": "",
+			"color": "CC22CC",
+			"gangway_connection_id": "mtr:textures/entity/sp1900",
+			"train_barrier_id": "",
+			"door_animation_type": "BOUNCY_1",
+			"render_door_overlay": false,
+			"rider_offset": 0.0,
+			"texture_id": "mtr:c2c/class_720_c2c.png",
+			"bve_sound_base_id": "aventra",
+			"model": "mtr:c2c/class_720_c2c.bbmodel",
+			"model_properties": "mtr:c2c/class_720_c2c.json"
+		},
+		"class_387_c2c": {
+			"name": "British Rail Class 357 (c2c)",
+			"color": "cc22cc",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:c2c/class_357_c2c.png",
+			"bve_sound_base_id": "aventra"
 		}
 	},
 	"custom_signs": {
