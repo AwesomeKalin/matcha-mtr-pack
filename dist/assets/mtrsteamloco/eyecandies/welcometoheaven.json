@@ -1,0 +1,8 @@
+{
+    "welcome_to_heaven": {
+        "name": "Welcome To Heaven",
+        "model": "mtrsteamloco:eyecandies/welcometoheaven.obj",
+        "textureId": "mtrsteamloco:eyecandies/welcometoheaven.png",
+        "flipV": true
+    }
+}
